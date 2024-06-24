@@ -16,21 +16,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you say your daily prayers, you may @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by asking your god to grant a blessing. If you do, roll +your god’s stat. On a hit, take +2 momentum.</p>",
+        "description": "<p>When you say your daily prayers, you may @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by asking your god to grant a blessing. If you do, roll +your god’s stat. On a hit, take +2 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to serve your god on a divine quest, you may roll +your god’s stat and reroll any dice. When you @Compendium[foundry-ironsworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to serve your god on a divine quest, you may roll +your god’s stat and reroll any dice. When you @Compendium[foundry-supersworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.25421995c803340e]{Sojourn} by sharing the word of your god, you may roll +your god’s stat. If you do, take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.25421995c803340e]{Sojourn} by sharing the word of your god, you may roll +your god’s stat. If you do, take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -78,7 +78,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

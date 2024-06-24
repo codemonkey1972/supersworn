@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>Your advanced sensors scan the paths ahead to help spot dangers. When you @Compendium[foundry-ironsworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} (+wits), you may reroll one challenge die.</p>",
+        "description": "<p>Your advanced sensors scan the paths ahead to help spot dangers. When you @Compendium[foundry-supersworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} (+wits), you may reroll one challenge die.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} or @Compendium[foundry-ironsworn.starforgedmoves.13b2d777c6fb719d]{Gather Information} by scanning your vehicle's surroundings or analyzing a nearby object, choose one and take +1 momentum on a hit.</p>\n<ul>\n<li>Manual scan: Add +1</li>\n<li>Automated scan: Instead of rolling the action die, make it the value of your vehicle's integrity</li>\n</ul>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} or @Compendium[foundry-supersworn.starforgedmoves.13b2d777c6fb719d]{Gather Information} by scanning your vehicle's surroundings or analyzing a nearby object, choose one and take +1 momentum on a hit.</p>\n<ul>\n<li>Manual scan: Add +1</li>\n<li>Automated scan: Instead of rolling the action die, make it the value of your vehicle's integrity</li>\n</ul>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.2f2ba4090b22a122]{Enter the Fray} against an ambush, or @Compendium[foundry-ironsworn.starforgedmoves.e6ed148eff82c171]{Face Danger} to detect a hidden threat, you may roll +integrity. If you do, reroll any dice and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.2f2ba4090b22a122]{Enter the Fray} against an ambush, or @Compendium[foundry-supersworn.starforgedmoves.e6ed148eff82c171]{Face Danger} to detect a hidden threat, you may roll +integrity. If you do, reroll any dice and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

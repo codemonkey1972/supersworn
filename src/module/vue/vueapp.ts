@@ -29,7 +29,7 @@ export function VueAppMixin<TBase extends Constructor<Application>>(
 				super.defaultOptions as ApplicaionOptions,
 				{
 					classes: ['ironsworn'],
-					template: 'systems/foundry-ironsworn/templates/vue-app.hbs',
+					template: 'systems/foundry-supersworn/templates/vue-app.hbs',
 					submitOnClose: false,
 					submitOnChange: false
 				}

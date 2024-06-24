@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Session",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you identify situations or topics you don’t want to include, don’t want to envision in detail, or otherwise may need mindfulness when approaching**, that content is now flagged.\n\nWhen you encounter content flagged as something to approach mindfully, pause to consider or discuss its role in your story. When you come across flagged content that you would rather adjust or omit, @Compendium[foundry-ironsworn.starforgedmoves.aa6aea2e2f5ce064]{Change Your Fate}.",
+    "Text": "**When you identify situations or topics you don’t want to include, don’t want to envision in detail, or otherwise may need mindfulness when approaching**, that content is now flagged.\n\nWhen you encounter content flagged as something to approach mindfully, pause to consider or discuss its role in your story. When you come across flagged content that you would rather adjust or omit, @Compendium[foundry-supersworn.starforgedmoves.aa6aea2e2f5ce064]{Change Your Fate}.",
     "Trigger": {
       "Text": "When you identify situations or topics you don’t want to include, don’t want to envision in detail, or otherwise may need mindfulness when approaching...",
       "Options": []
@@ -69,7 +69,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

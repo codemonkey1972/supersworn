@@ -18,7 +18,7 @@ export async function createSfMoveChatMessage(move: IronswornItem<'sfmove'>) {
 
 	const params = { move, nextOracles, renderedText }
 	const content = await renderTemplate(
-		'systems/foundry-ironsworn/templates/chat/sf-move.hbs',
+		'systems/foundry-supersworn/templates/chat/sf-move.hbs',
 		params
 	)
 	await ChatMessage.create({

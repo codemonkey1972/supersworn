@@ -5,7 +5,7 @@
   "description": "Roll for a basic form, and flesh out the creature’s appearance using the First Look table.",
   "sort": 337,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Creatures/Basic_Form"
     }
   },

@@ -1,13 +1,13 @@
 {
   "_id": "9d920a9da68abf62",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Core/Focus",
       "category": "Starforged/Oracles/Core"
     }
   },
   "name": "Focus",
-  "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt.</p>",
+  "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt.</p>",
   "formula": "d100",
   "replacement": true,
   "displayRoll": true,
@@ -1421,7 +1421,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

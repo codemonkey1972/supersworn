@@ -1,7 +1,7 @@
 {
   "_id": "a09e737a482ed92d",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Derelicts/Zones/Starship",
       "category": "Starforged/Oracles/Derelicts"
     }
@@ -119,7 +119,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

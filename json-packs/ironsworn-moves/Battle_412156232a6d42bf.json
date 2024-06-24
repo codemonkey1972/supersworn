@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Combat",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you fight a battle, and it happens in a blur**, envision your objective and roll. If you primarily...\n\n  * Fight at range, or using your speed and the terrain to your advantage: Roll +edge.\n  * Fight depending on your courage, allies, or companions: Roll +heart.\n  * Fight in close to overpower your opponents: Roll +iron.\n  * Fight using trickery to befuddle your opponents: Roll +shadow.\n  * Fight using careful tactics to outsmart your opponents: Roll +wits.\n\nOn a **strong hit**, you achieve your objective unconditionally. Take +2 momentum.\n\nOn a **weak hit**, you achieve your objective, but not without cost. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.\n\nOn a **miss**, you are defeated and the objective is lost to you. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+    "Text": "When **you fight a battle, and it happens in a blur**, envision your objective and roll. If you primarily...\n\n  * Fight at range, or using your speed and the terrain to your advantage: Roll +edge.\n  * Fight depending on your courage, allies, or companions: Roll +heart.\n  * Fight in close to overpower your opponents: Roll +iron.\n  * Fight using trickery to befuddle your opponents: Roll +shadow.\n  * Fight using careful tactics to outsmart your opponents: Roll +wits.\n\nOn a **strong hit**, you achieve your objective unconditionally. Take +2 momentum.\n\nOn a **weak hit**, you achieve your objective, but not without cost. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.\n\nOn a **miss**, you are defeated and the objective is lost to you. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
     "Trigger": {
       "Text": "When you fight a battle, and it happens in a blur, and you...",
       "Options": [
@@ -68,13 +68,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "You achieve your objective, but not without cost. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "You achieve your objective, but not without cost. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "You are defeated and the objective is lost to you. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "You are defeated and the objective is lost to you. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -108,7 +108,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

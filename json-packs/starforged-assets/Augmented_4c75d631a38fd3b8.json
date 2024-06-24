@@ -20,7 +20,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>You are equipped with an advanced prosthetic, implant, or mechanical enhancement. When you make a move directly aided by the augment, envision how it gives you exceptional capabilities and add +1. On a strong hit with a match, your augment exceeds expectations; take +2 momentum. On a miss with a match, the augment is broken; you must @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} and spend 3 repair points to bring it back to working condition.</p>",
+        "description": "<p>You are equipped with an advanced prosthetic, implant, or mechanical enhancement. When you make a move directly aided by the augment, envision how it gives you exceptional capabilities and add +1. On a strong hit with a match, your augment exceeds expectations; take +2 momentum. On a miss with a match, the augment is broken; you must @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Repair} and spend 3 repair points to bring it back to working condition.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -34,7 +34,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you must @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-ironsworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}, you may instead mark an augment as broken. @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} it as detailed above.</p>",
+        "description": "<p>When you must @Compendium[foundry-supersworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-supersworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}, you may instead mark an augment as broken. @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Repair} it as detailed above.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -61,7 +61,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

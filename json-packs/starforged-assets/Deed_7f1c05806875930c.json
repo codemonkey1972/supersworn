@@ -6,14 +6,14 @@
   "_id": "7f1c05806875930c",
   "sort": 0,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Assets/Deed"
     }
   },
   "folder": null,
   "sorting": "a",
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021084,

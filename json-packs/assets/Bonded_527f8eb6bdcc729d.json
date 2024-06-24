@@ -25,7 +25,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you make a move in a crucial moment and score a miss, you may cling to thoughts of your bond-kin for courage or encouragement. If you do, reroll any dice. On another miss, in addition to the outcome of the move, you must mark shaken or corrupted. If both debilities are already marked, @Compendium[foundry-ironsworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation}.</p>",
+        "description": "<p>When you make a move in a crucial moment and score a miss, you may cling to thoughts of your bond-kin for courage or encouragement. If you do, reroll any dice. On another miss, in addition to the outcome of the move, you must mark shaken or corrupted. If both debilities are already marked, @Compendium[foundry-supersworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation}.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

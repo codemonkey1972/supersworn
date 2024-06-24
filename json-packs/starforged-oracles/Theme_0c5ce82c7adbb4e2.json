@@ -1,13 +1,13 @@
 {
   "_id": "0c5ce82c7adbb4e2",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Core/Theme",
       "category": "Starforged/Oracles/Core"
     }
   },
   "name": "Theme",
-  "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/noun prompt.</p>",
+  "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/noun prompt.</p>",
   "formula": "d100",
   "replacement": true,
   "displayRoll": true,
@@ -1421,7 +1421,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

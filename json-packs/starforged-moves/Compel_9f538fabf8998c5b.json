@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Adventure",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you try to persuade someone or make them an offer**, envision your approach. If you...\n\n  * Charm, pacify, encourage, or barter: Roll +heart\n  * Threaten or incite: Roll +iron\n  * Lie or swindle: Roll +shadow\n\nOn a **strong hit**, they'll do what you want or agree to your conditions. Take +1 momentum.\n\nOn a **weak hit**, as above, but their agreement comes with a demand or complication. Envision their counteroffer.\n\nOn a **miss**, they refuse or make a demand that costs you greatly. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you try to persuade someone or make them an offer**, envision your approach. If you...\n\n  * Charm, pacify, encourage, or barter: Roll +heart\n  * Threaten or incite: Roll +iron\n  * Lie or swindle: Roll +shadow\n\nOn a **strong hit**, they'll do what you want or agree to your conditions. Take +1 momentum.\n\nOn a **weak hit**, as above, but their agreement comes with a demand or complication. Envision their counteroffer.\n\nOn a **miss**, they refuse or make a demand that costs you greatly. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you try to persuade someone or make them an offer...",
       "Options": [
@@ -58,7 +58,7 @@
         }
       },
       "Miss": {
-        "Text": "They refuse or make a demand that costs you greatly. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "They refuse or make a demand that costs you greatly. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -94,7 +94,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

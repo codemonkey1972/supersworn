@@ -5,7 +5,7 @@
   "description": "Use this oracle to quickly generate a name for an Ironlander character. Roll on either table. Surnames are not used in the Ironlands, and names are often gender-neutral.",
   "sort": 184,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Name/Ironlander"
     }
   },

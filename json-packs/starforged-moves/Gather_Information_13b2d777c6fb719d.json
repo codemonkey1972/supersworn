@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Adventure",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you search for clues, conduct an investigation, analyze evidence, or do research**, roll +wits.\n\nOn a **strong hit**, you discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn. Then, take +2 momentum.\n\nOn a **weak hit**, the information provides new insight, but also complicates your quest. Envision what you discover. Then, take +1 momentum.\n\nOn a **miss**, your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you search for clues, conduct an investigation, analyze evidence, or do research**, roll +wits.\n\nOn a **strong hit**, you discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn. Then, take +2 momentum.\n\nOn a **weak hit**, the information provides new insight, but also complicates your quest. Envision what you discover. Then, take +1 momentum.\n\nOn a **miss**, your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you search for clues, conduct an investigation, analyze evidence, or do research...",
       "Options": [
@@ -42,7 +42,7 @@
         }
       },
       "Miss": {
-        "Text": "Your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "Your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -80,7 +80,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

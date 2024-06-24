@@ -13,7 +13,7 @@ export class JournalProgressPageSheet extends JournalPageSheet {
 	}
 
 	get template() {
-		return `systems/foundry-ironsworn/templates/journal/progress-page-${
+		return `systems/foundry-supersworn/templates/journal/progress-page-${
 			this.isEditable ? 'edit' : 'view'
 		}.hbs`
 	}
@@ -21,11 +21,11 @@ export class JournalProgressPageSheet extends JournalPageSheet {
 	protected async _renderInner(data) {
 		await (loadTemplates as any)({
 			progressButtons:
-				'systems/foundry-ironsworn/templates/journal/progress-buttons.hbs',
+				'systems/foundry-supersworn/templates/journal/progress-buttons.hbs',
 			progressBoxes:
-				'systems/foundry-ironsworn/templates/journal/progress-boxes.hbs',
+				'systems/foundry-supersworn/templates/journal/progress-boxes.hbs',
 			rankPips:
-				'systems/foundry-ironsworn/templates/journal/progress-rank-pips.hbs'
+				'systems/foundry-supersworn/templates/journal/progress-rank-pips.hbs'
 		})
 		return await super._renderInner(data)
 	}

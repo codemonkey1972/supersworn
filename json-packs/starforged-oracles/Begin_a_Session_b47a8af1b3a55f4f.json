@@ -1,7 +1,7 @@
 {
   "_id": "b47a8af1b3a55f4f",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Moves/Begin_a_Session",
       "category": "Starforged/Oracles/Moves"
     }
@@ -161,7 +161,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

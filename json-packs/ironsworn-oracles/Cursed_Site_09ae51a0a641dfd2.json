@@ -1,7 +1,7 @@
 {
   "_id": "09ae51a0a641dfd2",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Threat/Cursed_Site",
       "category": "Ironsworn/Oracles/Threat"
     }
@@ -161,7 +161,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

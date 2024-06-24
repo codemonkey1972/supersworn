@@ -14,7 +14,7 @@
         ],
         "text": "Dense thicket",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Overgrown path",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Waterway",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Clearing ",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Elder tree",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Brambles",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Overgrown structure",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Rocky outcrop",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Camp or outpost",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Denizen hunts",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Denizen lairs here",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Trap or snare",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Path leads you astray",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Entangling plant life",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "MbJlpR81C4Q4WDV2"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048033,

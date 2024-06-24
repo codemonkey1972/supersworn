@@ -5,7 +5,7 @@
   "description": "Enemies defend this place against intruders.",
   "sort": 373,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Location_Themes/Fortified"
     }
   },

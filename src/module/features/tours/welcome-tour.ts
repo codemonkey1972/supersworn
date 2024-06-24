@@ -46,7 +46,7 @@ export class WelcomeTour extends IronswornTour {
 				content: 'IRONSWORN.Tours.Welcome.CompendiumContent',
 				hook: async () => await this.createActorDialog?.close(),
 				sidebarTab: 'compendium',
-				selector: 'li[data-pack="foundry-ironsworn.ironswornscenes"]'
+				selector: 'li[data-pack="foundry-supersworn.ironswornscenes"]'
 			},
 			game.user?.viewedScene && {
 				id: 'oracletool',

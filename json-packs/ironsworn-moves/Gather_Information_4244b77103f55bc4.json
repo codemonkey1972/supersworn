@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Adventure",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you search an area, ask questions, conduct an investigation, or follow a track**, roll +wits. If you act within a community or ask questions of a person with whom you share a bond, add +1.\n\nOn a **strong hit**, you discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +2 momentum.\n\nOn a **weak hit**, the information complicates your quest or introduces a new danger. Envision what you discover (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +1 momentum.\n\nOn a **miss**, your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+    "Text": "When **you search an area, ask questions, conduct an investigation, or follow a track**, roll +wits. If you act within a community or ask questions of a person with whom you share a bond, add +1.\n\nOn a **strong hit**, you discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +2 momentum.\n\nOn a **weak hit**, the information complicates your quest or introduces a new danger. Envision what you discover (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +1 momentum.\n\nOn a **miss**, your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
     "Trigger": {
       "Text": "When you search an area, ask questions, conduct an investigation, or follow a track...",
       "Options": [
@@ -24,7 +24,7 @@
     },
     "Outcomes": {
       "Strong Hit": {
-        "Text": "You discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +2 momentum.",
+        "Text": "You discover something helpful and specific. The path you must follow or action you must take to make progress is made clear. Envision what you learn (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +2 momentum.",
         "Reroll": {
           "Text": ""
         },
@@ -36,13 +36,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "The information complicates your quest or introduces a new danger. Envision what you discover (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +1 momentum.",
+        "Text": "The information complicates your quest or introduces a new danger. Envision what you discover (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +1 momentum.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "Your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "Your investigation unearths a dire threat or reveals an unwelcome truth that undermines your quest. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

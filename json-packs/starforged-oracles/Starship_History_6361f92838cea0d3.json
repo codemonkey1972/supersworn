@@ -1,7 +1,7 @@
 {
   "_id": "6361f92838cea0d3",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Character_Creation/Starship_History",
       "category": "Starforged/Oracles/Character_Creation"
     }
@@ -189,7 +189,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

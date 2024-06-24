@@ -1,7 +1,7 @@
 {
   "_id": "08afba3cab4c8303",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Derelicts/Inner_First_Look",
       "category": "Starforged/Oracles/Derelicts"
     }
@@ -469,7 +469,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

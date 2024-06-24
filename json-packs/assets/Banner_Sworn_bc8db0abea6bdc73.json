@@ -16,21 +16,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to serve your leader or faction on a mission, you may reroll any dice. When you @Compendium[foundry-ironsworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to serve your leader or faction on a mission, you may reroll any dice. When you @Compendium[foundry-supersworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.25421995c803340e]{Sojourn} or @Compendium[foundry-ironsworn.ironswornmoves.30046577bc83f2f0]{Make Camp} in the company of your banner-kin, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.25421995c803340e]{Sojourn} or @Compendium[foundry-supersworn.ironswornmoves.30046577bc83f2f0]{Make Camp} in the company of your banner-kin, add +1 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.ed343c963b08f301]{Enter the Fray} bearing your banner, add +1 and take +1 momentum on a hit. When you burn momentum while carrying your banner in combat, take +1 momentum after you reset.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.ed343c963b08f301]{Enter the Fray} bearing your banner, add +1 and take +1 momentum on a hit. When you burn momentum while carrying your banner in combat, take +1 momentum after you reset.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

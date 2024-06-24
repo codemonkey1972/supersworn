@@ -18,14 +18,14 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information} within an enemy area to discover their positions, plans, or methods, or when you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} within that area through observation, you may roll +shadow (instead of +wits). If you do, take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information} within an enemy area to discover their positions, plans, or methods, or when you @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} within that area through observation, you may roll +shadow (instead of +wits). If you do, take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.8d90dd472856be27]{Resupply} within an enemy area by scavenging or looting, you may roll +shadow (instead of +wits). If you do, take +1 momentum or +1 supply on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.8d90dd472856be27]{Resupply} within an enemy area by scavenging or looting, you may roll +shadow (instead of +wits). If you do, take +1 momentum or +1 supply on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

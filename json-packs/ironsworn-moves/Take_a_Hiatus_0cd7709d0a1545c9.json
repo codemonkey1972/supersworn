@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Threat",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you spend an extended time recovering in a safe place while a threat is active**, do any of the following.\n\n  * Clear any marked conditions.\n  * Set your health, spirit, supply, and companion health to their maximum values.\n  * Set your momentum to its reset value.\n\nThen, for each active threat, @Compendium[foundry-ironsworn.ironswornmoves.2b647608c70f9527]{Advance a Threat}.",
+    "Text": "When **you spend an extended time recovering in a safe place while a threat is active**, do any of the following.\n\n  * Clear any marked conditions.\n  * Set your health, spirit, supply, and companion health to their maximum values.\n  * Set your momentum to its reset value.\n\nThen, for each active threat, @Compendium[foundry-supersworn.ironswornmoves.2b647608c70f9527]{Advance a Threat}.",
     "Trigger": {
       "Text": "When you spend an extended time recovering in a safe place while a threat is active...",
       "Options": []
@@ -67,7 +67,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

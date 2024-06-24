@@ -43,7 +43,7 @@ export function renderLinksInStr(text: string): string {
 		if (idIsOracleLink(url)) {
 			return `<a class="entity-link oracle-category-link" data-dfid="${url}"><i class="fa fa-caret-right"></i> ${text}</a>`
 		}
-		return `@Compendium[foundry-ironsworn.${compendiumKey}.${hash(
+		return `@Compendium[foundry-supersworn.${compendiumKey}.${hash(
 			url
 		)}]{${text}}`
 	})

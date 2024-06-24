@@ -1,7 +1,7 @@
 {
   "name": "Lifeforms",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Setting_Truths/Lifeforms",
       "type": "truth-category"
     }
@@ -44,7 +44,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022536,
@@ -89,7 +89,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022543,
@@ -134,7 +134,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022553,
@@ -152,7 +152,7 @@
         "content": "<p>If you have an expertise in lifeforms and planetary environments, you might be a NATURALIST. If you are accompanied on your adventures by a native creature, they might be a companion such as a BANSHEE, GLOWCAT, VOIDGLIDER, ROCKHORN, SPRITE, or SYMBIOTE.</p>"
       },
       "flags": {
-        "foundry-ironsworn": {
+        "foundry-supersworn": {
           "assets": [
             "Starforged/Assets/Path/Naturalist",
             "Starforged/Assets/Companion/Banshee",
@@ -182,7 +182,7 @@
         "oPggPZM6rWjfN0q2": 3
       },
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022559,
@@ -199,7 +199,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949022524,

@@ -6,14 +6,14 @@
   "description": "**Connections** are NPCs (non-player characters) who represent a deep, vital, or interesting relationship in your story. They are your tethers to the people and places of the Forge.\n\nMake these **connection moves** when you introduce connections and as you build influence or understanding with them.",
   "sort": 162,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Moves/Connection"
     }
   },
   "folder": null,
   "sorting": "a",
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021087,

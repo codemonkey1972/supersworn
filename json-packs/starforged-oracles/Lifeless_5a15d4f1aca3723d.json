@@ -1,7 +1,7 @@
 {
   "_id": "5a15d4f1aca3723d",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Peril/Lifeless",
       "category": "Starforged/Oracles/Planets"
     }
@@ -385,7 +385,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

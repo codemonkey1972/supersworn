@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>You lead a warband with +4 strength. Roll +strength when you command your warband to @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger}, @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compel}, or @Compendium[foundry-ironsworn.ironswornmoves.412156232a6d42bf]{Battle}. When you face the negative outcome of any move, you may suffer -1 strength as the cost. When you @Compendium[foundry-ironsworn.ironswornmoves.30046577bc83f2f0]{Make Camp} or @Compendium[foundry-ironsworn.ironswornmoves.25421995c803340e]{Sojourn} and score a hit, take +1 strength. While at 0 strength, this asset counts as a debility.</p>",
+        "description": "<p>You lead a warband with +4 strength. Roll +strength when you command your warband to @Compendium[foundry-supersworn.ironswornmoves.c8bacc17f73d3103]{Face Danger}, @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, @Compendium[foundry-supersworn.ironswornmoves.be95ca063ded2b19]{Compel}, or @Compendium[foundry-supersworn.ironswornmoves.412156232a6d42bf]{Battle}. When you face the negative outcome of any move, you may suffer -1 strength as the cost. When you @Compendium[foundry-supersworn.ironswornmoves.30046577bc83f2f0]{Make Camp} or @Compendium[foundry-supersworn.ironswornmoves.25421995c803340e]{Sojourn} and score a hit, take +1 strength. While at 0 strength, this asset counts as a debility.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>You may dispatch scouts from your warband to @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information} or @Compendium[foundry-ironsworn.ironswornmoves.8d90dd472856be27]{Resupply}; if you do, roll +strength.</p>",
+        "description": "<p>You may dispatch scouts from your warband to @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information} or @Compendium[foundry-supersworn.ironswornmoves.8d90dd472856be27]{Resupply}; if you do, roll +strength.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>Once you @Compendium[foundry-ironsworn.ironswornmoves.b643d9ea53ff8d98]{Forge a Bond} with your warband, take +1 momentum on a hit when you leverage a warband ability.</p>",
+        "description": "<p>Once you @Compendium[foundry-supersworn.ironswornmoves.b643d9ea53ff8d98]{Forge a Bond} with your warband, take +1 momentum on a hit when you leverage a warband ability.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

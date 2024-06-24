@@ -38,7 +38,7 @@ const classes = computed(() => ({
 }))
 const i18nKey = computed(() => `IRONSWORN.${props.attr.capitalize()}`)
 const editMode = computed(
-	() => !!(actor.value.flags as any)['foundry-ironsworn']?.['edit-mode']
+	() => !!(actor.value.flags as any)['foundry-supersworn']?.['edit-mode']
 )
 
 function click() {

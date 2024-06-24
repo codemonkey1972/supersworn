@@ -1,7 +1,7 @@
 {
   "name": "Religion",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Setting_Truths/Religion",
       "type": "truth-category"
     }
@@ -44,7 +44,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022287,
@@ -89,7 +89,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022291,
@@ -134,7 +134,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022297,
@@ -152,7 +152,7 @@
         "content": "<p>What is your relationship to religion? If you are an ardent follower of a god or creed, you might be a DEVOTANT.</p>"
       },
       "flags": {
-        "foundry-ironsworn": {
+        "foundry-supersworn": {
           "assets": [
             "Starforged/Assets/Path/Devotant"
           ]
@@ -176,7 +176,7 @@
         "oPggPZM6rWjfN0q2": 3
       },
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022303,
@@ -193,7 +193,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949022281,

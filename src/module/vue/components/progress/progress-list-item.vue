@@ -105,7 +105,7 @@ provide(ItemKey, computed(() => $item?.toObject()) as any)
 provide($ItemKey, $item as any)
 
 const editMode = computed(() => {
-	return (actor?.value.flags as any)['foundry-ironsworn']?.['edit-mode']
+	return (actor?.value.flags as any)['foundry-supersworn']?.['edit-mode']
 })
 const subtitle = computed(() => {
 	let subtype = props.item.system.subtype.capitalize()

@@ -38,7 +38,7 @@
 		"a8u59CvdJFmbk4At": 3
 	},
 	"background": {
-		"src": "systems/foundry-ironsworn/assets/ocean/si-ocean-map.webp",
+		"src": "systems/foundry-supersworn/assets/ocean/si-ocean-map.webp",
 		"offsetX": 0,
 		"offsetY": 0,
 		"scaleX": 1,
@@ -61,7 +61,7 @@
 		"core": {}
 	},
 	"_stats": {
-		"systemId": "foundry-ironsworn",
+		"systemId": "foundry-supersworn",
 		"systemVersion": "1.22.13",
 		"coreVersion": "12.325",
 		"createdTime": 1717986330490,
@@ -70,7 +70,7 @@
 		"compendiumSource": null,
 		"duplicateSource": null
 	},
-	"thumb": "systems/foundry-ironsworn/assets/ocean/si-ocean-map-thumb.webp",
+	"thumb": "systems/foundry-supersworn/assets/ocean/si-ocean-map-thumb.webp",
 	"_id": "YYwYEXgA1A5FKTWa",
 	"active": false,
 	"sort": 0,

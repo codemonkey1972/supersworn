@@ -89,6 +89,6 @@ export async function renderRollGraphic(opts: RollGraphicRenderOpts) {
 		}
 	}
 	const graphicTemplate =
-		'systems/foundry-ironsworn/templates/rolls/roll-graphic.hbs'
+		'systems/foundry-supersworn/templates/rolls/roll-graphic.hbs'
 	return await renderTemplate(graphicTemplate, renderData)
 }

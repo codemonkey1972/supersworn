@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When your supply is reduced to 0, suffer any remaining -supply as -momentum. Then, roll +wits. On a strong hit, you manage to scrape by and take +1 supply. On a weak hit, you may suffer -2 momentum in exchange for +1 supply. On a miss, you are @Compendium[foundry-ironsworn.ironswornmoves.e599a449ce2cc52b]{Out of Supply}.</p>",
+        "description": "<p>When your supply is reduced to 0, suffer any remaining -supply as -momentum. Then, roll +wits. On a strong hit, you manage to scrape by and take +1 supply. On a weak hit, you may suffer -2 momentum in exchange for +1 supply. On a miss, you are @Compendium[foundry-supersworn.ironswornmoves.e599a449ce2cc52b]{Out of Supply}.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.25421995c803340e]{Sojourn}, you may reroll any dice. If you do (decide before your first roll), your needs are few, but your isolation sets you apart from others. A strong hit counts as a weak hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.25421995c803340e]{Sojourn}, you may reroll any dice. If you do (decide before your first roll), your needs are few, but your isolation sets you apart from others. A strong hit counts as a weak hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.727eb47e8f031e81]{Reach Your Destination} and score a strong hit, you recall or recognize something helpful about this place. Envision what it is, and take +2 momentum.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.727eb47e8f031e81]{Reach Your Destination} and score a strong hit, you recall or recognize something helpful about this place. Envision what it is, and take +2 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

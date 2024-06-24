@@ -1,7 +1,7 @@
 {
   "_id": "3b83c11a94c70b87",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Vital/Atmosphere",
       "category": "Starforged/Oracles/Planets/Vital"
     }
@@ -63,7 +63,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

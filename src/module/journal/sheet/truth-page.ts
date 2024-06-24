@@ -5,7 +5,7 @@ export class TruthJournalPageSheet extends JournalPageSheet {
 	isEditable: boolean
 
 	get template() {
-		return `systems/foundry-ironsworn/templates/journal/page-truth-${
+		return `systems/foundry-supersworn/templates/journal/page-truth-${
 			this.isEditable ? 'edit' : 'view'
 		}.hbs`
 	}

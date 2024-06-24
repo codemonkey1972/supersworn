@@ -403,7 +403,7 @@ const ITEM_TYPE_HANDLERS: ItemTypeHandlers = {
 
 async function sendToChat(speaker: IronswornActor, msg: string) {
 	const whisperToCurrentUser =
-		speaker.getFlag('foundry-ironsworn', 'muteBroadcast') ?? (false as boolean)
+		speaker.getFlag('foundry-supersworn', 'muteBroadcast') ?? (false as boolean)
 	const whisper = whisperToCurrentUser ? compact([game.user?.id]) : undefined
 
 	const messageData: ChatMessageDataConstructorData = {

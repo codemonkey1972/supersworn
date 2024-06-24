@@ -16,21 +16,21 @@
     "abilities": [
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} or @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} +shadow using your raven to perform trickery (such as creating a distraction or stealing a small object) add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} or @Compendium[foundry-supersworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} +shadow using your raven to perform trickery (such as creating a distraction or stealing a small object) add +1 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.92b85c33a17ab487]{Face Death}, add +2 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.92b85c33a17ab487]{Face Death}, add +2 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When your raven carries messages for you, you may @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, or @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compel} from a distance.</p>",
+        "description": "<p>When your raven carries messages for you, you may @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, or @Compendium[foundry-supersworn.ironswornmoves.be95ca063ded2b19]{Compel} from a distance.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

@@ -1,7 +1,7 @@
 {
   "_id": "85c04b5267a460ca",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Place/Location_Descriptor",
       "category": "Ironsworn/Oracles/Place"
     }
@@ -721,7 +721,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compel}, or @Compendium[foundry-ironsworn.ironswornmoves.b643d9ea53ff8d98]{Forge a Bond} by sharing an inspiring or enlightening song, poem, or tale, envision the story you tell. Then, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, @Compendium[foundry-supersworn.ironswornmoves.be95ca063ded2b19]{Compel}, or @Compendium[foundry-supersworn.ironswornmoves.b643d9ea53ff8d98]{Forge a Bond} by sharing an inspiring or enlightening song, poem, or tale, envision the story you tell. Then, add +1 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.30046577bc83f2f0]{Make Camp} and choose the option to relax, you may share a story with your allies or compose a new story if alone. If you do, envision the story you tell and take +1 spirit or +1 momentum. Any allies who choose to relax in your company may also take +1 spirit or +1 momentum.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.30046577bc83f2f0]{Make Camp} and choose the option to relax, you may share a story with your allies or compose a new story if alone. If you do, envision the story you tell and take +1 spirit or +1 momentum. Any allies who choose to relax in your company may also take +1 spirit or +1 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.25421995c803340e]{Sojourn} within a community with which you share a bond, add +2 (instead of +1).</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.25421995c803340e]{Sojourn} within a community with which you share a bond, add +2 (instead of +1).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

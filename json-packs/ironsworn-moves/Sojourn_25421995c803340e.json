@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Relationship",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you spend time in a community seeking assistance**, roll +heart. If you share a bond, add +1. On **strong hit**, you and your allies may each choose two from within the categories below. On a **weak hit**, choose one. If you share a bond, choose one more.\n\nOn a hit, you and your allies may each focus on one of your chosen recover actions and roll +heart again. If you share a bond, add +1. On a **strong hit**, take +2 more for that action. On a **weak hit**, take +1 more. On a **miss**, it goes badly and you lose all benefits for that action.\n\n**Clear a Condition**\n\n  * Mend: Clear a wounded debility and take +1 health.\n  * Hearten: Clear a shaken debility and take +1 spirit.\n  * Equip: Clear an unprepared debility and take +1 supply.\n\n**Recover**\n\n  * Recuperate: Take +2 health for yourself and any companions.\n  * Consort: Take +2 spirit.\n  * Provision: Take +2 supply.\n  * Plan: Take +2 momentum.\n\n**Provide Aid**\n\n  * Take a quest: Envision what this community needs, or what trouble it is facing (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). If you chose to help, @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} and add +1.\n\nOn a **miss**, you find no help here. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+    "Text": "When **you spend time in a community seeking assistance**, roll +heart. If you share a bond, add +1. On **strong hit**, you and your allies may each choose two from within the categories below. On a **weak hit**, choose one. If you share a bond, choose one more.\n\nOn a hit, you and your allies may each focus on one of your chosen recover actions and roll +heart again. If you share a bond, add +1. On a **strong hit**, take +2 more for that action. On a **weak hit**, take +1 more. On a **miss**, it goes badly and you lose all benefits for that action.\n\n**Clear a Condition**\n\n  * Mend: Clear a wounded debility and take +1 health.\n  * Hearten: Clear a shaken debility and take +1 spirit.\n  * Equip: Clear an unprepared debility and take +1 supply.\n\n**Recover**\n\n  * Recuperate: Take +2 health for yourself and any companions.\n  * Consort: Take +2 spirit.\n  * Provision: Take +2 supply.\n  * Plan: Take +2 momentum.\n\n**Provide Aid**\n\n  * Take a quest: Envision what this community needs, or what trouble it is facing (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). If you chose to help, @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} and add +1.\n\nOn a **miss**, you find no help here. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
     "Trigger": {
       "Text": "When you spend time in a community seeking assistance...",
       "Options": [
@@ -24,7 +24,7 @@
     },
     "Outcomes": {
       "Strong Hit": {
-        "Text": "You and your allies may each choose two from within the categories below.\n\nyou and your allies may each focus on one of your chosen recover actions and roll +heart again. If you share a bond, add +1. On a **strong hit**, take +2 more for that action. On a **weak hit**, take +1 more. On a **miss**, it goes badly and you lose all benefits for that action.\n\n**Clear a Condition**\n\n  * Mend: Clear a wounded debility and take +1 health.\n  * Hearten: Clear a shaken debility and take +1 spirit.\n  * Equip: Clear an unprepared debility and take +1 supply.\n\n**Recover**\n\n  * Recuperate: Take +2 health for yourself and any companions.\n  * Consort: Take +2 spirit.\n  * Provision: Take +2 supply.\n  * Plan: Take +2 momentum.\n\n**Provide Aid**\n\n  * Take a quest: Envision what this community needs, or what trouble it is facing (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). If you chose to help, @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} and add +1.",
+        "Text": "You and your allies may each choose two from within the categories below.\n\nyou and your allies may each focus on one of your chosen recover actions and roll +heart again. If you share a bond, add +1. On a **strong hit**, take +2 more for that action. On a **weak hit**, take +1 more. On a **miss**, it goes badly and you lose all benefits for that action.\n\n**Clear a Condition**\n\n  * Mend: Clear a wounded debility and take +1 health.\n  * Hearten: Clear a shaken debility and take +1 spirit.\n  * Equip: Clear an unprepared debility and take +1 supply.\n\n**Recover**\n\n  * Recuperate: Take +2 health for yourself and any companions.\n  * Consort: Take +2 spirit.\n  * Provision: Take +2 supply.\n  * Plan: Take +2 momentum.\n\n**Provide Aid**\n\n  * Take a quest: Envision what this community needs, or what trouble it is facing (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). If you chose to help, @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} and add +1.",
         "Reroll": {
           "Text": ""
         },
@@ -36,13 +36,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "You and your allies may each choose one from within the categories below.\n\nyou and your allies may each focus on one of your chosen recover actions and roll +heart again. If you share a bond, add +1. On a **strong hit**, take +2 more for that action. On a **weak hit**, take +1 more. On a **miss**, it goes badly and you lose all benefits for that action.\n\n**Clear a Condition**\n\n  * Mend: Clear a wounded debility and take +1 health.\n  * Hearten: Clear a shaken debility and take +1 spirit.\n  * Equip: Clear an unprepared debility and take +1 supply.\n\n**Recover**\n\n  * Recuperate: Take +2 health for yourself and any companions.\n  * Consort: Take +2 spirit.\n  * Provision: Take +2 supply.\n  * Plan: Take +2 momentum.\n\n**Provide Aid**\n\n  * Take a quest: Envision what this community needs, or what trouble it is facing (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). If you chose to help, @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} and add +1.",
+        "Text": "You and your allies may each choose one from within the categories below.\n\nyou and your allies may each focus on one of your chosen recover actions and roll +heart again. If you share a bond, add +1. On a **strong hit**, take +2 more for that action. On a **weak hit**, take +1 more. On a **miss**, it goes badly and you lose all benefits for that action.\n\n**Clear a Condition**\n\n  * Mend: Clear a wounded debility and take +1 health.\n  * Hearten: Clear a shaken debility and take +1 spirit.\n  * Equip: Clear an unprepared debility and take +1 supply.\n\n**Recover**\n\n  * Recuperate: Take +2 health for yourself and any companions.\n  * Consort: Take +2 spirit.\n  * Provision: Take +2 supply.\n  * Plan: Take +2 momentum.\n\n**Provide Aid**\n\n  * Take a quest: Envision what this community needs, or what trouble it is facing (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). If you chose to help, @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} and add +1.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "You find no help here. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "You find no help here. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

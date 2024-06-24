@@ -5,7 +5,7 @@
   "description": "Worshipers glorify strange powers in this place.",
   "sort": 379,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Location_Themes/Sacred"
     }
   },

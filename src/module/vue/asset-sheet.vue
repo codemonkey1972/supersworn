@@ -91,7 +91,7 @@ const props = defineProps<{ data: { item: any } }>()
 provide(ItemKey, computed(() => props.data.item) as any)
 
 const editMode = computed(() => {
-	return props.data.item.flags['foundry-ironsworn']?.['edit-mode']
+	return props.data.item.flags['foundry-supersworn']?.['edit-mode']
 })
 </script>
 

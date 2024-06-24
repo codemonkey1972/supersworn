@@ -27,12 +27,12 @@ declare global {
 }
 
 declare global {
-	/** "Fake" JournalEntry types, set in the document flags at `foundry-ironsworn.type` */
+	/** "Fake" JournalEntry types, set in the document flags at `foundry-supersworn.type` */
 	type JournalEntryType = 'truth-category' | 'base'
 
 	interface FlagConfig {
 		JournalEntry: {
-			'foundry-ironsworn'?: {
+			'foundry-supersworn'?: {
 				dfid?: string
 				type?: JournalEntryType
 			}

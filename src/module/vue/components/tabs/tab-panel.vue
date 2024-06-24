@@ -61,7 +61,7 @@ defineExpose({ tabSetId: tabSetId.value })
  */
 const transitionName = computed(() => {
 	const varHaver =
-		document.querySelector<HTMLElement>('.system-foundry-ironsworn') ??
+		document.querySelector<HTMLElement>('.system-foundry-supersworn') ??
 		document.documentElement
 	const themeTransition = getComputedStyle(varHaver)
 		.getPropertyValue('--ironsworn-tab-transition')

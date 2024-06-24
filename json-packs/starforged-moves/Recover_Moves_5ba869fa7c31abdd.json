@@ -6,14 +6,14 @@
   "description": "Life as an Ironsworn is not easy or comfortable. When your resources are strained, your health and spirit ebbing, your equipment and vehicles in disrepair, you'll need to find relief from the perils of the Forge and the burdens of your sworn oaths.\n\nMake these **recover moves** when you attempt to rest, recover, or refit.",
   "sort": 208,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Moves/Recover"
     }
   },
   "folder": null,
   "sorting": "a",
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021087,

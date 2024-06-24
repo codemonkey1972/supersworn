@@ -14,7 +14,7 @@
         ],
         "text": "Evidence of lost knowledge",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Inscrutable relics",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Ancient artistry or craft",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Preserved corpses or fossils",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Visions of this place in another time",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -81,7 +81,7 @@
         ],
         "text": "Ancient trap",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -94,7 +94,7 @@
         ],
         "text": "Hazardous architecture or terrain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -107,7 +107,7 @@
         ],
         "text": "Blocked or broken path",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -120,7 +120,7 @@
         ],
         "text": "Denizen protects an ancient secret",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -133,7 +133,7 @@
         ],
         "text": "Denizen reveres an ancient power",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -146,7 +146,7 @@
         ],
         "text": "Living relics of a lost age",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -159,7 +159,7 @@
         ],
         "text": "Ancient evil resurgent",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Dire warnings of a long-buried danger",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Ancient disease or contamination",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Artifact of terrible meaning or power",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Disturbing evidence of ancient wrongs",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Others seek power or knowledge",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9RnSqMcrekJoJbXH"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027047963,

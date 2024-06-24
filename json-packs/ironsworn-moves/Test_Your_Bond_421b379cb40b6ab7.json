@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Relationship",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **your bond is tested through conflict, betrayal, or circumstance**, roll +heart.\n\nOn a **strong hit**, this test has strengthened your bond. Choose one.\n\n  * Take +1 spirit.\n  * Take +2 momentum.\n\nOn a **weak hit**, your bond is fragile and you must prove your loyalty. Envision what they ask of you (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and do it (or @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow}). If you refuse or fail, clear the bond and @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.\n\nOn a **miss**, or if you have no interest in maintaining this relationship, clear the bond and @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+    "Text": "When **your bond is tested through conflict, betrayal, or circumstance**, roll +heart.\n\nOn a **strong hit**, this test has strengthened your bond. Choose one.\n\n  * Take +1 spirit.\n  * Take +2 momentum.\n\nOn a **weak hit**, your bond is fragile and you must prove your loyalty. Envision what they ask of you (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and do it (or @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow}). If you refuse or fail, clear the bond and @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.\n\nOn a **miss**, or if you have no interest in maintaining this relationship, clear the bond and @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
     "Trigger": {
       "Text": "When your bond is tested through conflict, betrayal, or circumstance...",
       "Options": [
@@ -36,13 +36,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "Your bond is fragile and you must prove your loyalty. Envision what they ask of you (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and do it (or @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow}). If you refuse or fail, clear the bond and @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "Your bond is fragile and you must prove your loyalty. Envision what they ask of you (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and do it (or @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow}). If you refuse or fail, clear the bond and @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "Clear the bond and @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "Clear the bond and @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

@@ -60,7 +60,7 @@ const assets = computed(() => {
 		.sort((a, b) => (a.sort || 0) - (b.sort || 0))
 })
 const editMode = computed(() => {
-	return actor.value?.flags['foundry-ironsworn']?.['edit-mode']
+	return actor.value?.flags['foundry-supersworn']?.['edit-mode']
 })
 
 async function applySort(oldI, newI, sortBefore, collection) {

@@ -16,7 +16,7 @@
     "abilities": [
       {
         "enabled": false,
-        "description": "<p>When your mammoth travels with you as you @Compendium[foundry-ironsworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey}, you may add +2 but suffer -1 momentum (decide before rolling).</p>",
+        "description": "<p>When your mammoth travels with you as you @Compendium[foundry-supersworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey}, you may add +2 but suffer -1 momentum (decide before rolling).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -30,7 +30,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} or @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} by riding your mammoth against a pack of foes, add +1 and inflict +1 harm on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.5288e935906f6d28]{Strike} or @Compendium[foundry-supersworn.ironswornmoves.7e008d0f656dc8b3]{Clash} by riding your mammoth against a pack of foes, add +1 and inflict +1 harm on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

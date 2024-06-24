@@ -11,7 +11,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you are haunted by past experiences and must @Compendium[foundry-ironsworn.starforgedmoves.ff32c523829d6481]{Endure Stress}, you may @Compendium[foundry-ironsworn.starforgedmoves.93d2d69b7e2b85e1]{Lose Momentum} (-1) before rolling as you attempt to find focus or calm. If you do, reroll any dice. On a strong hit, take +1 momentum.</p>",
+        "description": "<p>When you are haunted by past experiences and must @Compendium[foundry-supersworn.starforgedmoves.ff32c523829d6481]{Endure Stress}, you may @Compendium[foundry-supersworn.starforgedmoves.93d2d69b7e2b85e1]{Lose Momentum} (-1) before rolling as you attempt to find focus or calm. If you do, reroll any dice. On a strong hit, take +1 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

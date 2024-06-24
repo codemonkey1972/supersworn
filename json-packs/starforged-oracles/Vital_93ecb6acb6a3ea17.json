@@ -5,7 +5,7 @@
   "description": "This diverse, life-bearing planet might provide some small measure of hope.",
   "sort": 318,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Vital"
     }
   },

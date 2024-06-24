@@ -23,14 +23,14 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} aided by the bot, add +1. On a miss, it reveals an alternative approach which will take extra time; you may reroll any dice, but first @Compendium[foundry-ironsworn.starforgedmoves.93d2d69b7e2b85e1]{Lose Momentum} (-2).</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Repair} aided by the bot, add +1. On a miss, it reveals an alternative approach which will take extra time; you may reroll any dice, but first @Compendium[foundry-supersworn.starforgedmoves.93d2d69b7e2b85e1]{Lose Momentum} (-2).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.8d9830fb825057b0]{Check Your Gear} to see if the bot has a specific tool or technique available, roll +its health and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.8d9830fb825057b0]{Check Your Gear} to see if the bot has a specific tool or technique available, roll +its health and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

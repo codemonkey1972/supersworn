@@ -1,7 +1,7 @@
 {
   "_id": "9ff36bf07999c935",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Moves/Endure_Harm",
       "category": "Starforged/Oracles/Moves"
     }
@@ -17,7 +17,7 @@
         1,
         10
       ],
-      "text": "You suffer mortal harm. @Compendium[foundry-ironsworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}.",
+      "text": "You suffer mortal harm. @Compendium[foundry-supersworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}.",
       "_id": "19ae5cd6a3b5f623",
       "type": 0,
       "documentId": null,
@@ -31,7 +31,7 @@
         11,
         20
       ],
-      "text": "You are dying. Within an hour or two, you must @Compendium[foundry-ironsworn.starforgedmoves.2051538f0c9d5d27]{Heal} and raise your health above 0, or @Compendium[foundry-ironsworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}.",
+      "text": "You are dying. Within an hour or two, you must @Compendium[foundry-supersworn.starforgedmoves.2051538f0c9d5d27]{Heal} and raise your health above 0, or @Compendium[foundry-supersworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}.",
       "_id": "7593c90b8ad0aa71",
       "type": 0,
       "documentId": null,
@@ -45,7 +45,7 @@
         21,
         35
       ],
-      "text": "You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to ongoing harm, @Compendium[foundry-ironsworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}.",
+      "text": "You are unconscious and out of action. If left alone, you come back to your senses in an hour or two. If you are vulnerable to ongoing harm, @Compendium[foundry-supersworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}.",
       "_id": "ca52a40ef8a81643",
       "type": 0,
       "documentId": null,
@@ -91,7 +91,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

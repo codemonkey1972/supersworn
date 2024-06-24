@@ -19,30 +19,30 @@ declare global {
 	namespace ClientSettings {
 		/** Settings added here will be automatically typed throughout the game system. */
 		interface Values {
-			'foundry-ironsworn.toolbox':
+			'foundry-supersworn.toolbox':
 				| 'ironsworn'
 				| 'starforged'
 				| 'sunderedisles'
 				| 'sheet'
 
-			'foundry-ironsworn.theme': keyof typeof IronTheme.THEMES
-			'foundry-ironsworn.color-scheme': 'zinc' | 'phosphor' | 'oceanic'
-			'foundry-ironsworn.progress-mark-animation': boolean
+			'foundry-supersworn.theme': keyof typeof IronTheme.THEMES
+			'foundry-supersworn.color-scheme': 'zinc' | 'phosphor' | 'oceanic'
+			'foundry-supersworn.progress-mark-animation': boolean
 
-			'foundry-ironsworn.log-changes': boolean
-			'foundry-ironsworn.prompt-world-truths': boolean
+			'foundry-supersworn.log-changes': boolean
+			'foundry-supersworn.prompt-world-truths': boolean
 
-			'foundry-ironsworn.shared-supply': boolean
+			'foundry-supersworn.shared-supply': boolean
 
-			'foundry-ironsworn.advanced-rolling-default-open': boolean
+			'foundry-supersworn.advanced-rolling-default-open': boolean
 
-			'foundry-ironsworn.sundered-isles-beta': boolean
-			'foundry-ironsworn.character-hold': boolean
-			'foundry-ironsworn.dsn-cinder-wraith': boolean
+			'foundry-supersworn.sundered-isles-beta': boolean
+			'foundry-supersworn.character-hold': boolean
+			'foundry-supersworn.dsn-cinder-wraith': boolean
 
 			// Internal only
-			'foundry-ironsworn.first-run-tips-shown': boolean
-			'foundry-ironsworn.data-version': number
+			'foundry-supersworn.first-run-tips-shown': boolean
+			'foundry-supersworn.data-version': number
 		}
 	}
 }
@@ -73,7 +73,7 @@ export class IronswornSettings {
 	}
 
 	static registerSettings() {
-		game.settings.registerMenu('foundry-ironsworn', 'first-start-dialog', {
+		game.settings.registerMenu('foundry-supersworn', 'first-start-dialog', {
 			name: 'IRONSWORN.Settings.ConfigurationDialog.Name',
 			label: 'IRONSWORN.Settings.ConfigurationDialog.Label',
 			icon: 'fas fa-cog',
@@ -81,7 +81,7 @@ export class IronswornSettings {
 			type: FirstStartDialog,
 			restricted: true
 		})
-		game.settings.registerMenu('foundry-ironsworn', 'is-truths-dialog', {
+		game.settings.registerMenu('foundry-supersworn', 'is-truths-dialog', {
 			name: 'IRONSWORN.Settings.ISTruthsDialog.Name',
 			label: 'IRONSWORN.Settings.ISTruthsDialog.Label',
 			icon: 'fas fa-feather',
@@ -89,7 +89,7 @@ export class IronswornSettings {
 			type: WorldTruthsDialog,
 			restricted: true
 		})
-		game.settings.registerMenu('foundry-ironsworn', 'sf-truths-dialog', {
+		game.settings.registerMenu('foundry-supersworn', 'sf-truths-dialog', {
 			name: 'IRONSWORN.Settings.SFTruthsDialog.Name',
 			label: 'IRONSWORN.Settings.SFTruthsDialog.Label',
 			icon: 'fas fa-feather',
@@ -99,7 +99,7 @@ export class IronswornSettings {
 		})
 
 		// Toolbox/ruleset. this goes at the top because it's a "showstopper" if folks need it but can't find it.
-		game.settings.register('foundry-ironsworn', 'toolbox', {
+		game.settings.register('foundry-supersworn', 'toolbox', {
 			name: 'IRONSWORN.Settings.Tools.Name',
 			hint: 'IRONSWORN.Settings.Tools.Hint',
 			scope: 'world',
@@ -117,7 +117,7 @@ export class IronswornSettings {
 		})
 
 		// Appearance settings. They're impactful and not especially esoteric/technical, so they come next.
-		game.settings.register('foundry-ironsworn', 'theme', {
+		game.settings.register('foundry-supersworn', 'theme', {
 			name: 'IRONSWORN.Settings.Theme.Name',
 			hint: 'IRONSWORN.Settings.Theme.Hint',
 			scope: 'world',
@@ -127,7 +127,7 @@ export class IronswornSettings {
 			default: 'ironsworn',
 			requiresReload: true
 		})
-		game.settings.register('foundry-ironsworn', 'color-scheme', {
+		game.settings.register('foundry-supersworn', 'color-scheme', {
 			name: 'IRONSWORN.Settings.ColorScheme.Name',
 			hint: 'IRONSWORN.Settings.ColorScheme.Hint',
 			scope: 'client',
@@ -142,7 +142,7 @@ export class IronswornSettings {
 			onChange: IronColor.updateColorScheme
 			// TODO: special behaviour for e.g. PopOut module?
 		})
-		game.settings.register('foundry-ironsworn', 'progress-mark-animation', {
+		game.settings.register('foundry-supersworn', 'progress-mark-animation', {
 			name: 'IRONSWORN.Settings.ProgressMarkAnimation.Name',
 			hint: 'IRONSWORN.Settings.ProgressMarkAnimation.Hint',
 			scope: 'client',
@@ -153,7 +153,7 @@ export class IronswornSettings {
 		})
 
 		// Log verbosity and missed prompts come next.
-		game.settings.register('foundry-ironsworn', 'log-changes', {
+		game.settings.register('foundry-supersworn', 'log-changes', {
 			name: 'IRONSWORN.Settings.LogChanges.Name',
 			hint: 'IRONSWORN.Settings.LogChanges.Hint',
 			scope: 'world',
@@ -161,7 +161,7 @@ export class IronswornSettings {
 			type: Boolean,
 			default: true
 		})
-		game.settings.register('foundry-ironsworn', 'prompt-world-truths', {
+		game.settings.register('foundry-supersworn', 'prompt-world-truths', {
 			name: 'IRONSWORN.Settings.PromptTruths.Name',
 			hint: 'IRONSWORN.Settings.PromptTruths.Hint',
 			scope: 'world',
@@ -171,7 +171,7 @@ export class IronswornSettings {
 		})
 
 		// Changing the supply rule represents a divergence from the ruleset; as 'advanced' behavior it can tolerate living at the end of the list.
-		game.settings.register('foundry-ironsworn', 'shared-supply', {
+		game.settings.register('foundry-supersworn', 'shared-supply', {
 			name: 'IRONSWORN.Settings.SharedSupply.Name',
 			hint: 'IRONSWORN.Settings.SharedSupply.Hint',
 			scope: 'world',
@@ -183,7 +183,7 @@ export class IronswornSettings {
 
 		// Default the "advanced" part of the pre-roll dialog to open.
 		game.settings.register(
-			'foundry-ironsworn',
+			'foundry-supersworn',
 			'advanced-rolling-default-open',
 			{
 				name: 'IRONSWORN.Settings.AdvancedRollingOpen.Name',
@@ -195,7 +195,7 @@ export class IronswornSettings {
 			}
 		)
 
-		game.settings.register('foundry-ironsworn', 'sundered-isles-beta', {
+		game.settings.register('foundry-supersworn', 'sundered-isles-beta', {
 			name: 'IRONSWORN.Settings.SunderedIslesBeta.Name',
 			hint: 'IRONSWORN.Settings.SunderedIslesBeta.Hint',
 			scope: 'world',
@@ -205,7 +205,7 @@ export class IronswornSettings {
 			requiresReload: true
 		})
 
-		game.settings.register('foundry-ironsworn', 'character-hold', {
+		game.settings.register('foundry-supersworn', 'character-hold', {
 			name: 'IRONSWORN.Settings.CharacterHold.Name',
 			hint: 'IRONSWORN.Settings.CharacterHold.Hint',
 			scope: 'world',
@@ -214,7 +214,7 @@ export class IronswornSettings {
 			default: false
 		})
 
-		game.settings.register('foundry-ironsworn', 'dsn-cinder-wraith', {
+		game.settings.register('foundry-supersworn', 'dsn-cinder-wraith', {
 			name: 'IRONSWORN.Settings.RollCinderAndWraith.Name',
 			hint: 'IRONSWORN.Settings.RollCinderAndWraith.Hint',
 			scope: 'world',
@@ -223,14 +223,14 @@ export class IronswornSettings {
 			default: false
 		})
 
-		game.settings.register('foundry-ironsworn', 'data-version', {
+		game.settings.register('foundry-supersworn', 'data-version', {
 			scope: 'world',
 			config: false,
 			type: Number,
 			default: 1
 		})
 
-		game.settings.register('foundry-ironsworn', 'first-run-tips-shown', {
+		game.settings.register('foundry-supersworn', 'first-run-tips-shown', {
 			scope: 'world',
 			config: false,
 			type: Boolean,
@@ -239,13 +239,13 @@ export class IronswornSettings {
 	}
 
 	/**
-	 * Wraps {@link game.settings.get} (within the `foundry-ironsworn` scope) to ensure that Vue always gets the updated value.
-	 * @param key The key of the setting within the `foundry-ironsworn` scope.
+	 * Wraps {@link game.settings.get} (within the `foundry-supersworn` scope) to ensure that Vue always gets the updated value.
+	 * @param key The key of the setting within the `foundry-supersworn` scope.
 	 */
 	static get<K extends string>(
 		key: K
-	): ClientSettings.Values[`foundry-ironsworn.${K}`] {
-		return game.settings.get('foundry-ironsworn', key)
+	): ClientSettings.Values[`foundry-supersworn.${K}`] {
+		return game.settings.get('foundry-supersworn', key)
 	}
 
 	static get defaultToolbox(): 'ironsworn' | 'starforged' | 'sunderedisles' {

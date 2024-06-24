@@ -70,7 +70,7 @@ const item = inject<Ref<ItemSource<'asset'>>>(ItemKey)
 const $item = inject<IronswornItem<'asset'>>($ItemKey)
 
 const editMode = computed(
-	() => item?.value.flags['foundry-ironsworn']?.['edit-mode']
+	() => item?.value.flags['foundry-supersworn']?.['edit-mode']
 )
 
 function deleteAbility(idx: number) {

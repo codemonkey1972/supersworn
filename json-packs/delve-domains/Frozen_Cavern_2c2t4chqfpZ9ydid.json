@@ -14,7 +14,7 @@
         ],
         "text": "Maze of icy tunnels",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Glistening cave",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Vast chamber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Frigid waterway",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Icy pools",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Magnificent ice formations",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Frozen waterfall",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Deep crevasses",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Discovery locked in the ice",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Denizen lairs here",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Fracturing ice",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Crumbling chasm",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Bitter chill",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Disorienting reflections",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "2c2t4chqfpZ9ydid"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

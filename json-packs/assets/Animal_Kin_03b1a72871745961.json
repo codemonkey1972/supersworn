@@ -18,7 +18,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>You may add or upgrade an animal or beast companion asset for 1 fewer experience. Once you mark all their abilities, you may @Compendium[foundry-ironsworn.ironswornmoves.b643d9ea53ff8d98]{Forge a Bond} with them and take an automatic strong hit. When you do, mark a bond twice and take 1 experience.</p>",
+        "description": "<p>You may add or upgrade an animal or beast companion asset for 1 fewer experience. Once you mark all their abilities, you may @Compendium[foundry-supersworn.ironswornmoves.b643d9ea53ff8d98]{Forge a Bond} with them and take an automatic strong hit. When you do, mark a bond twice and take 1 experience.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

@@ -11,7 +11,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>Your fleet has a starting and max power of 4. When you make a move as a fleetwide action to get in position, avoid a hazard, or fight, roll +power. If you @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price} and your fleet bears the cost, suffer -1 power. At 0 power, mark the fleet as wrecked. To refit the fleet, @Compendium[foundry-ironsworn.starforgedmoves.3de42d2d3cb78855]{Sojourn} and forego an automatic strong hit on a recover move to take +2 power; if the fleet is wrecked, first spend 2 experience to clear that status.</p>",
+        "description": "<p>Your fleet has a starting and max power of 4. When you make a move as a fleetwide action to get in position, avoid a hazard, or fight, roll +power. If you @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price} and your fleet bears the cost, suffer -1 power. At 0 power, mark the fleet as wrecked. To refit the fleet, @Compendium[foundry-supersworn.starforgedmoves.3de42d2d3cb78855]{Sojourn} and forego an automatic strong hit on a recover move to take +2 power; if the fleet is wrecked, first spend 2 experience to clear that status.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -25,7 +25,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition}, you may reroll your action die if its value is less than your fleet’s power.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition}, you may reroll your action die if its value is less than your fleet’s power.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

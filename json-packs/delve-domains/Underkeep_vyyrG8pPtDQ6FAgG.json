@@ -14,7 +14,7 @@
         ],
         "text": "Carved passages",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Hall or chamber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Stairs into the depths",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Grand doorway or entrance",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Tomb or catacombs",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Rough-hewn cave",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Foundry or workshop",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Shrine or temple",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Imposing architecture or artistry",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Ancient mechanism or trap",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Crumbling architecture",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Blocked or broken passage",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Artifact with a hidden danger",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Denizen lurks in darkness",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "vyyrG8pPtDQ6FAgG"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048033,

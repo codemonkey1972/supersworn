@@ -24,7 +24,7 @@ export class SiteModel extends foundry.abstract.TypeDataModel<
 						row,
 						{
 							flags: {
-								'foundry-ironsworn': {
+								'foundry-supersworn': {
 									sourceId: this.parent.uuid,
 									type: 'delve-site-denizen'
 								}
@@ -34,7 +34,7 @@ export class SiteModel extends foundry.abstract.TypeDataModel<
 					) as TableResultDataConstructorData
 			),
 			flags: {
-				'foundry-ironsworn': {
+				'foundry-supersworn': {
 					subtitle: this.parent.name,
 					type: 'delve-site-denizens',
 					sourceId: this.parent.uuid
@@ -57,7 +57,7 @@ export class SiteModel extends foundry.abstract.TypeDataModel<
 			formula: '1d100',
 			results: [...this.theme.system.features, ...this.domain.system.features],
 			flags: {
-				'foundry-ironsworn': {
+				'foundry-supersworn': {
 					subtitle: this.parent.name,
 					type: 'delve-site-features',
 					sourceId: this.parent.uuid
@@ -84,7 +84,7 @@ export class SiteModel extends foundry.abstract.TypeDataModel<
 							row.toObject(),
 							{
 								flags: {
-									'foundry-ironsworn': {
+									'foundry-supersworn': {
 										sourceId: this.parent.uuid,
 										type: 'delve-site-danger'
 									}
@@ -97,7 +97,7 @@ export class SiteModel extends foundry.abstract.TypeDataModel<
 				...this.domain.system.dangers
 			],
 			flags: {
-				'foundry-ironsworn': {
+				'foundry-supersworn': {
 					subtitle: this.parent.name,
 					type: 'delve-site-dangers',
 					sourceId: this.parent.uuid

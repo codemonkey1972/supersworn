@@ -11,7 +11,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>Your vehicle carries up to 3 cargo. When you gain +supply, you may convert it to +cargo. When you make a move +supply, you may add +cargo. When you @Compendium[foundry-ironsworn.starforgedmoves.0fcfea7696d1de15]{Sacrifice Resources}, you may instead suffer -cargo for any portion of the cost.</p>",
+        "description": "<p>Your vehicle carries up to 3 cargo. When you gain +supply, you may convert it to +cargo. When you make a move +supply, you may add +cargo. When you @Compendium[foundry-supersworn.starforgedmoves.0fcfea7696d1de15]{Sacrifice Resources}, you may instead suffer -cargo for any portion of the cost.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

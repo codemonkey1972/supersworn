@@ -20,14 +20,14 @@ export interface LegacyTableRow {
 	selected?: boolean
 }
 
-/** "Fake" types used to distinguish certain kinds of computed OracleTableResults. They're set in OracleTableResult#flags['foundry-ironsworn'].type */
+/** "Fake" types used to distinguish certain kinds of computed OracleTableResults. They're set in OracleTableResult#flags['foundry-supersworn'].type */
 export type ComputedTableResultType =
 	| 'delve-site-denizen'
 	| 'delve-site-feature'
 	| 'delve-site-danger'
 	| 'truth-option'
 	| 'truth-option-subtable-result'
-/** "Fake" types used to distinguish certain kinds of computed OracleTables. They're set in OracleTable#flags['foundry-ironsworn'].type */
+/** "Fake" types used to distinguish certain kinds of computed OracleTables. They're set in OracleTable#flags['foundry-supersworn'].type */
 export type ComputedTableType =
 	| 'delve-site-denizens'
 	| 'delve-site-features'
@@ -38,7 +38,7 @@ export type ComputedTableType =
 declare global {
 	interface FlagConfig {
 		RollTable: {
-			'foundry-ironsworn'?: {
+			'foundry-supersworn'?: {
 				/** The UUID of the originating document, for computed RollTables */
 				sourceId?: Actor['uuid'] | Item['uuid'] | null | undefined
 				type?: ComputedTableType
@@ -52,7 +52,7 @@ declare global {
 			}
 		}
 		TableResult: {
-			'foundry-ironsworn'?: {
+			'foundry-supersworn'?: {
 				/** The UUID of the originating document, for computed TableResults */
 				sourceId?: Actor['uuid'] | Item['uuid'] | null | undefined
 				type?: ComputedTableResultType

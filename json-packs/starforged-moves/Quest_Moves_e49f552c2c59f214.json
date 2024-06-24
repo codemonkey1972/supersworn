@@ -6,14 +6,14 @@
   "description": "In the fiction of the *Starforged* setting, those who swear vows are the Ironsworn, and their promises are binding. Vows can be made to yourself, as a solemn representation of your personal commitment, or as a promise to someone else. Some vows might be made grudgingly—out of duty, necessity, or tradition. Others will be made with your whole heart.\n\nMake these **quest moves** when you swear vows, make progress on your quests, and resolve vows.",
   "sort": 154,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Moves/Quest"
     }
   },
   "folder": null,
   "sorting": "a",
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021087,

@@ -14,7 +14,7 @@
         ],
         "text": "Camp or quarters",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Guarded location",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Storage or repository",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Work or training area",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Command center or leadership",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -81,7 +81,7 @@
         ],
         "text": "Denizen patrols the area",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -94,7 +94,7 @@
         ],
         "text": "Denizen on guard",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -107,7 +107,7 @@
         ],
         "text": "Denizen ready to sound the alarm",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -120,7 +120,7 @@
         ],
         "text": "Denizen sets an ambush",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -133,7 +133,7 @@
         ],
         "text": "Denizen lures you into a trap",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -146,7 +146,7 @@
         ],
         "text": "Denizens converge on this area",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -159,7 +159,7 @@
         ],
         "text": "Pets or underlings",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Unexpected alliance revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Nefarious plans revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Unexpected leader revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Trap",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Alarm trigger",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "ONZWFYrqxgFIzppP"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027047964,

@@ -5,7 +5,7 @@
   "description": "A planet completely or almost entirely covered by a boundless ocean.",
   "sort": 314,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Ocean"
     }
   },

@@ -102,7 +102,7 @@ const markTooltip = computed(() => {
 
 const editMode = computed(
 	() =>
-		(actor.value.flags as Record<string, any>)['foundry-ironsworn']?.[
+		(actor.value.flags as Record<string, any>)['foundry-supersworn']?.[
 			'edit-mode'
 		]
 )

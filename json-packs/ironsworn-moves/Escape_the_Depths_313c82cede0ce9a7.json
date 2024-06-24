@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Delve",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you flee or withdraw from a site**, consider the situation and your approach. If you...\n\n  * Find the fastest way out: Roll +edge.\n  * Steel yourself against the horrors of this place: Roll +heart.\n  * Fight your way out: Roll +iron.\n  * Retrace your steps or locate an alternate path: Roll +wits.\n  * Keep out of sight: Roll +shadow.\n\nOn a **strong hit**, you make your way safely out of the site. Take +1 momentum.\n\nOn a **weak hit**, you find your way out, but this place exacts its price. Choose one.\n\n  * You are weary or wounded: @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm}.\n  * The experience leaves you shaken: @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress}.\n  * You are delayed, and it costs you.\n  * You leave behind something important.\n  * You face a new complication as you emerge from the depths.\n  * A denizen plots their revenge.\n\nOn a **miss**, a dire threat or imposing obstacle stands in your way. @Compendium[foundry-ironsworn.ironswornmoves.06f78b87b9532437]{Reveal a Danger}. If you survive, you may make your escape.",
+    "Text": "When **you flee or withdraw from a site**, consider the situation and your approach. If you...\n\n  * Find the fastest way out: Roll +edge.\n  * Steel yourself against the horrors of this place: Roll +heart.\n  * Fight your way out: Roll +iron.\n  * Retrace your steps or locate an alternate path: Roll +wits.\n  * Keep out of sight: Roll +shadow.\n\nOn a **strong hit**, you make your way safely out of the site. Take +1 momentum.\n\nOn a **weak hit**, you find your way out, but this place exacts its price. Choose one.\n\n  * You are weary or wounded: @Compendium[foundry-supersworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm}.\n  * The experience leaves you shaken: @Compendium[foundry-supersworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress}.\n  * You are delayed, and it costs you.\n  * You leave behind something important.\n  * You face a new complication as you emerge from the depths.\n  * A denizen plots their revenge.\n\nOn a **miss**, a dire threat or imposing obstacle stands in your way. @Compendium[foundry-supersworn.ironswornmoves.06f78b87b9532437]{Reveal a Danger}. If you survive, you may make your escape.",
     "Trigger": {
       "Text": "When you flee or withdraw from a site...",
       "Options": [
@@ -68,13 +68,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "You find your way out, but this place exacts its price. Choose one.\n\n  * You are weary or wounded: @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm}.\n  * The experience leaves you shaken: @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress}.\n  * You are delayed, and it costs you.\n  * You leave behind something important.\n  * You face a new complication as you emerge from the depths.\n  * A denizen plots their revenge.",
+        "Text": "You find your way out, but this place exacts its price. Choose one.\n\n  * You are weary or wounded: @Compendium[foundry-supersworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm}.\n  * The experience leaves you shaken: @Compendium[foundry-supersworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress}.\n  * You are delayed, and it costs you.\n  * You leave behind something important.\n  * You face a new complication as you emerge from the depths.\n  * A denizen plots their revenge.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "A dire threat or imposing obstacle stands in your way. @Compendium[foundry-ironsworn.ironswornmoves.06f78b87b9532437]{Reveal a Danger}. If you survive, you may make your escape.",
+        "Text": "A dire threat or imposing obstacle stands in your way. @Compendium[foundry-supersworn.ironswornmoves.06f78b87b9532437]{Reveal a Danger}. If you survive, you may make your escape.",
         "Reroll": {
           "Text": ""
         },
@@ -108,7 +108,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

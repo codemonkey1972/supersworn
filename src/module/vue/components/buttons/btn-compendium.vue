@@ -21,7 +21,7 @@ interface Props extends /* @vue-ignore */ PropsOf<typeof IronBtn> {
 const props = defineProps<Props>()
 
 async function openCompendium() {
-	const pack = game.packs?.get(`foundry-ironsworn.${props.compendium}`)
+	const pack = game.packs?.get(`foundry-supersworn.${props.compendium}`)
 	pack?.render(true)
 }
 </script>

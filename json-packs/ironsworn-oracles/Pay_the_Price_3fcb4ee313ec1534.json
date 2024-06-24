@@ -1,7 +1,7 @@
 {
   "_id": "3fcb4ee313ec1534",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Moves/Pay_the_Price",
       "category": "Ironsworn/Oracles/Moves"
     }
@@ -17,7 +17,7 @@
         1,
         2
       ],
-      "text": "Roll again and apply that result but make it worse. If you roll this result yet again, think of something dreadful that changes the course of your quest (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure) and make it happen.",
+      "text": "Roll again and apply that result but make it worse. If you roll this result yet again, think of something dreadful that changes the course of your quest (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure) and make it happen.",
       "_id": "9a8b7b8211e65f90",
       "type": 0,
       "documentId": null,
@@ -245,7 +245,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

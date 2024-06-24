@@ -11,14 +11,14 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.f4dec946415d8e57]{Aid Your Ally} through leadership, coordination, or planning, add +1. On a strong hit, any allies who are present take +1 momentum.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.f4dec946415d8e57]{Aid Your Ally} through leadership, coordination, or planning, add +1. On a strong hit, any allies who are present take +1 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.2f2ba4090b22a122]{Enter the Fray} (+heart) by coordinating with your team as they wade into the fight, make your move before your allies act. On a strong hit, all allies may take an automatic strong hit. On a strong hit with a match, also mark progress on any objectives in this fight.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.2f2ba4090b22a122]{Enter the Fray} (+heart) by coordinating with your team as they wade into the fight, make your move before your allies act. On a strong hit, all allies may take an automatic strong hit. On a strong hit with a match, also mark progress on any objectives in this fight.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

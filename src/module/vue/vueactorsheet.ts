@@ -43,8 +43,8 @@ export abstract class VueActorSheet extends VueAppMixin(ActorSheet) {
 	_toggleEditMode(e: JQuery.ClickEvent) {
 		e.preventDefault()
 
-		const currentValue = this.actor.getFlag('foundry-ironsworn', 'edit-mode')
-		this.actor.setFlag('foundry-ironsworn', 'edit-mode', !currentValue)
+		const currentValue = this.actor.getFlag('foundry-supersworn', 'edit-mode')
+		this.actor.setFlag('foundry-supersworn', 'edit-mode', !currentValue)
 	}
 
 	protected async _onDrop(event: DragEvent) {

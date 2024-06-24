@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Combat",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you fight a battle and it happens in a blur**, envision your objective and roll. If you primarily...\n\n  * Fight at range, or using your speed and the environment to your advantage: Roll +edge.\n  * Fight depending on your courage, leadership, or companions: Roll +heart.\n  * Fight in close to overpower your foe: Roll +iron.\n  * Fight using trickery to befuddle your foe: Roll +shadow.\n  * Fight using careful tactics to outsmart your foe: Roll +wits.\n\nOn a **strong hit**, you achieve your objective unconditionally. You and any allies who joined the battle may take +2 momentum.\n\nOn a **weak hit**, you achieve your objective, but not without cost. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.\n\nOn a **miss**, you are defeated or the objective is lost. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you fight a battle and it happens in a blur**, envision your objective and roll. If you primarily...\n\n  * Fight at range, or using your speed and the environment to your advantage: Roll +edge.\n  * Fight depending on your courage, leadership, or companions: Roll +heart.\n  * Fight in close to overpower your foe: Roll +iron.\n  * Fight using trickery to befuddle your foe: Roll +shadow.\n  * Fight using careful tactics to outsmart your foe: Roll +wits.\n\nOn a **strong hit**, you achieve your objective unconditionally. You and any allies who joined the battle may take +2 momentum.\n\nOn a **weak hit**, you achieve your objective, but not without cost. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.\n\nOn a **miss**, you are defeated or the objective is lost. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you fight a battle and it happens in a blur...",
       "Options": [
@@ -68,13 +68,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "You achieve your objective, but not without cost. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "You achieve your objective, but not without cost. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "You are defeated or the objective is lost. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "You are defeated or the objective is lost. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -110,7 +110,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

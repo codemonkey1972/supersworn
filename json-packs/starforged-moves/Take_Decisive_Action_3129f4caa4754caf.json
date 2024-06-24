@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Combat",
     "Progress Move": true,
     "Variant of": "",
-    "Text": "**When you seize an objective in a fight**, envision how you take decisive action. Then, roll the challenge dice and compare to your progress.\n\nIf you are in control, check the result as normal. If you are in a bad spot, count a strong hit without a match as a weak hit, and a weak hit as a miss.\n\nOn a **strong hit**, you prevail. Take +1 momentum. If any objectives remain and the fight continues, you are in control.\n\nOn a **weak hit**, you achieve your objective, but not without cost. Roll on the table below or choose one. If the fight continues, you are in a bad spot.\n\nRoll   | Result\n-------|--------\n1-40   | It’s worse than you thought: Make a suffer move (-2)\n41-52  | Victory is short-lived: A new peril or foe appears\n53-64  | You face collateral damage: Something is lost, damaged, or broken\n65-76  | Others pay the price: Someone else suffers the cost\n77-88  | Others won’t forget: You are marked for vengeance\n89-100 | It gets complicated: The true nature of a foe or objective is revealed\n\nOn a **miss**, you are defeated or your objective is lost. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you seize an objective in a fight**, envision how you take decisive action. Then, roll the challenge dice and compare to your progress.\n\nIf you are in control, check the result as normal. If you are in a bad spot, count a strong hit without a match as a weak hit, and a weak hit as a miss.\n\nOn a **strong hit**, you prevail. Take +1 momentum. If any objectives remain and the fight continues, you are in control.\n\nOn a **weak hit**, you achieve your objective, but not without cost. Roll on the table below or choose one. If the fight continues, you are in a bad spot.\n\nRoll   | Result\n-------|--------\n1-40   | It’s worse than you thought: Make a suffer move (-2)\n41-52  | Victory is short-lived: A new peril or foe appears\n53-64  | You face collateral damage: Something is lost, damaged, or broken\n65-76  | Others pay the price: Someone else suffers the cost\n77-88  | Others won’t forget: You are marked for vengeance\n89-100 | It gets complicated: The true nature of a foe or objective is revealed\n\nOn a **miss**, you are defeated or your objective is lost. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you seize an objective in a fight...",
       "Options": [
@@ -42,7 +42,7 @@
         }
       },
       "Miss": {
-        "Text": "You are defeated or your objective is lost. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "You are defeated or your objective is lost. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -80,7 +80,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

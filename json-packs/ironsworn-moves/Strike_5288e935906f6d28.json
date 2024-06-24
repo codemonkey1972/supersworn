@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Combat",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you have initiative and attack in close quarters**, roll +iron. When **you have initiative and attack at range**, roll +edge.\n\nOn a **strong hit**, inflict +1 harm. You retain initiative.\n\nOn a **weak hit**, inflict your harm and lose initiative.\n\nOn a **miss**, your attack fails and you must @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}. Your foe has initiative.",
+    "Text": "When **you have initiative and attack in close quarters**, roll +iron. When **you have initiative and attack at range**, roll +edge.\n\nOn a **strong hit**, inflict +1 harm. You retain initiative.\n\nOn a **weak hit**, inflict your harm and lose initiative.\n\nOn a **miss**, your attack fails and you must @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}. Your foe has initiative.",
     "Trigger": {
       "Text": "When you have initiative and attack...",
       "Options": [
@@ -50,7 +50,7 @@
         }
       },
       "Miss": {
-        "Text": "Your attack fails and you must @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}. Your foe has initiative.",
+        "Text": "Your attack fails and you must @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}. Your foe has initiative.",
         "Reroll": {
           "Text": ""
         },
@@ -84,7 +84,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

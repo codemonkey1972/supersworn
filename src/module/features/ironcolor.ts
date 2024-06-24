@@ -8,7 +8,7 @@ import '../../styles/_ironcolor/oceanic.scss'
 
 export const PREFIX = 'ironcolor__'
 const tinyMceCssPath =
-	'/systems/foundry-ironsworn/styles/starforged-tinymce.css'
+	'/systems/foundry-supersworn/styles/starforged-tinymce.css'
 
 export function colorSchemeSetup() {
 	$(document.body).addClass(IronswornSettings.classes.join(' '))
@@ -23,10 +23,10 @@ export function colorSchemeSetup() {
  * Instantly updates the client's color scheme without reloading.
  */
 export function updateColorScheme(
-	newColorScheme: ClientSettings.Values['foundry-ironsworn.color-scheme']
+	newColorScheme: ClientSettings.Values['foundry-supersworn.color-scheme']
 ) {
 	const colorSchemes = Object.keys(
-		game.settings.settings.get('foundry-ironsworn.color-scheme')
+		game.settings.settings.get('foundry-supersworn.color-scheme')
 			?.choices as unknown as Record<string, unknown>
 	)
 

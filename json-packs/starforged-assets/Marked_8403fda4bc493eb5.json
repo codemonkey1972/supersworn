@@ -16,7 +16,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>Envision the title, sigil, uniform, or tattoo you bear in recognition of your achievements. When you @Compendium[foundry-ironsworn.starforgedmoves.9f538fabf8998c5b]{Compel} or @Compendium[foundry-ironsworn.starforgedmoves.05909d6310d209a6]{Make a Connection} among those who would know your reputation, add +1. On a strong hit with a match, your notoriety grows; mark 2 ticks on your bonds legacy track.</p>",
+        "description": "<p>Envision the title, sigil, uniform, or tattoo you bear in recognition of your achievements. When you @Compendium[foundry-supersworn.starforgedmoves.9f538fabf8998c5b]{Compel} or @Compendium[foundry-supersworn.starforgedmoves.05909d6310d209a6]{Make a Connection} among those who would know your reputation, add +1. On a strong hit with a match, your notoriety grows; mark 2 ticks on your bonds legacy track.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -30,7 +30,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>Once per fight, when you @Compendium[foundry-ironsworn.starforgedmoves.3f5a834fa3fea5d1]{Gain Ground} through intimidation or command, reroll any dice and mark progress on a hit.</p>",
+        "description": "<p>Once per fight, when you @Compendium[foundry-supersworn.starforgedmoves.3f5a834fa3fea5d1]{Gain Ground} through intimidation or command, reroll any dice and mark progress on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

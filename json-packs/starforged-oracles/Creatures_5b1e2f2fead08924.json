@@ -5,14 +5,14 @@
   "description": "Roll for a basic form, and flesh out the creature’s appearance using this Creature First Look table. Then, roll on the Encountered Behavior table to envision this creature’s motivation and frame how the encounter begins.",
   "sort": 0,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Creatures"
     }
   },
   "folder": null,
   "sorting": "a",
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021157,

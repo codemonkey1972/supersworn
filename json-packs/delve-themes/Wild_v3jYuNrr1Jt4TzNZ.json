@@ -14,7 +14,7 @@
         ],
         "text": "Denizen’s lair",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Territorial markings",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Impressive flora or fauna",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Hunting ground or watering hole",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Remains or carrion",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -81,7 +81,7 @@
         ],
         "text": "Denizen hunts",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -94,7 +94,7 @@
         ],
         "text": "Denizen strikes without warning",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -107,7 +107,7 @@
         ],
         "text": "Denizen leverages the environment",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -120,7 +120,7 @@
         ],
         "text": "Denizen wields unexpected abilities",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -133,7 +133,7 @@
         ],
         "text": "Denizen guided by a greater threat",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -146,7 +146,7 @@
         ],
         "text": "Denizen protects something",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -159,7 +159,7 @@
         ],
         "text": "Hazardous terrain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Weather or environmental threat",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Benign aspect becomes a threat",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Overzealous hunter",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Disturbing evidence of a victim’s fate",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Ill-fated victim in danger",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "v3jYuNrr1Jt4TzNZ"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027047964,

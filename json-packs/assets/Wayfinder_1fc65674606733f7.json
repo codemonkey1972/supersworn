@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey}, take +1 momentum on a strong hit. If you burn momentum to improve your result, also take +1 momentum after you reset.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey}, take +1 momentum on a strong hit. If you burn momentum to improve your result, also take +1 momentum after you reset.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} or @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information} by carefully surveying the landscape or scouting ahead, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} or @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information} by carefully surveying the landscape or scouting ahead, add +1 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to safely guide someone on a perilous journey, you may reroll any dice. When you @Compendium[foundry-ironsworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to safely guide someone on a perilous journey, you may reroll any dice. When you @Compendium[foundry-supersworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

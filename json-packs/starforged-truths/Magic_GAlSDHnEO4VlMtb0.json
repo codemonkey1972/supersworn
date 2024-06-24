@@ -1,7 +1,7 @@
 {
   "name": "Magic",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Setting_Truths/Magic",
       "type": "truth-category"
     }
@@ -44,7 +44,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022337,
@@ -120,7 +120,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022344,
@@ -165,7 +165,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022354,
@@ -183,7 +183,7 @@
         "content": "<p>If magic is an aspect of your setting, how does your character and their culture view these unnatural abilities? If you possess supernatural powers, you might be an EMPATH, FIREBRAND, KINETIC, LOOPER, SEER, or SHADE.</p>"
       },
       "flags": {
-        "foundry-ironsworn": {
+        "foundry-supersworn": {
           "assets": [
             "Starforged/Assets/Path/Empath",
             "Starforged/Assets/Path/Firebrand",
@@ -212,7 +212,7 @@
         "oPggPZM6rWjfN0q2": 3
       },
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022359,
@@ -229,7 +229,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949022324,

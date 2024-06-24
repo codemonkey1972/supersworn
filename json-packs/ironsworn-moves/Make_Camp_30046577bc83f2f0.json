@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Adventure",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you rest and recover for several hours in the wild**, roll +supply.\n\nOn a **strong hit**, you and your allies may each choose two. On a **weak hit**, choose one.\n\n  * Recuperate: Take +1 health for you and any companions.\n  * Partake: Suffer -1 supply and take +1 health for you and any companions.\n  * Relax: Take +1 spirit.\n  * Focus: Take +1 momentum.\n  * Prepare: When you break camp, add +1 if you Undertake a Journey.\n\nOn a **miss**, you take no comfort. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+    "Text": "When **you rest and recover for several hours in the wild**, roll +supply.\n\nOn a **strong hit**, you and your allies may each choose two. On a **weak hit**, choose one.\n\n  * Recuperate: Take +1 health for you and any companions.\n  * Partake: Suffer -1 supply and take +1 health for you and any companions.\n  * Relax: Take +1 spirit.\n  * Focus: Take +1 momentum.\n  * Prepare: When you break camp, add +1 if you Undertake a Journey.\n\nOn a **miss**, you take no comfort. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
     "Trigger": {
       "Text": "When you rest and recover for several hours in the wild...",
       "Options": [
@@ -42,7 +42,7 @@
         }
       },
       "Miss": {
-        "Text": "You take no comfort. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "You take no comfort. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

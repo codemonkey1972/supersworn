@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Adventure",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you assess a situation, make preparations, or attempt to gain leverage**, envision your action and roll. If you act...\n\n  * With speed, agility, or precision: Roll +edge.\n  * With charm, loyalty, or courage: Roll +heart.\n  * With aggressive action, forceful defense, strength, or endurance: Roll +iron.\n  * With deception, stealth, or trickery: Roll +shadow.\n  * With expertise, insight, or observation: Roll +wits.\n\nOn a **strong hit**, you gain advantage. Choose one.\n\n  * Take control: Make another move now (not a progress move), and add +1.\n  * Prepare to act: Take +2 momentum.\n\nOn a **weak hit**, your advantage is short-lived. Take +1 momentum.\n\nOn a **miss**, you fail or your assumptions betray you. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+    "Text": "When **you assess a situation, make preparations, or attempt to gain leverage**, envision your action and roll. If you act...\n\n  * With speed, agility, or precision: Roll +edge.\n  * With charm, loyalty, or courage: Roll +heart.\n  * With aggressive action, forceful defense, strength, or endurance: Roll +iron.\n  * With deception, stealth, or trickery: Roll +shadow.\n  * With expertise, insight, or observation: Roll +wits.\n\nOn a **strong hit**, you gain advantage. Choose one.\n\n  * Take control: Make another move now (not a progress move), and add +1.\n  * Prepare to act: Take +2 momentum.\n\nOn a **weak hit**, your advantage is short-lived. Take +1 momentum.\n\nOn a **miss**, you fail or your assumptions betray you. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
     "Trigger": {
       "Text": "When you assess a situation, make preparations, or attempt to gain leverage...",
       "Options": [
@@ -74,7 +74,7 @@
         }
       },
       "Miss": {
-        "Text": "You fail or your assumptions betray you. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "You fail or your assumptions betray you. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -108,7 +108,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

@@ -496,7 +496,7 @@ export class IronswornPrerollDialog extends Dialog<
 			'advanced-rolling-default-open'
 		)
 		const template =
-			'systems/foundry-ironsworn/templates/rolls/preroll-dialog.hbs'
+			'systems/foundry-supersworn/templates/rolls/preroll-dialog.hbs'
 		return await renderTemplate(template, {
 			...data,
 			renderedTriggerText,

@@ -5,7 +5,7 @@
   "description": "Foul creatures have overrun this place.",
   "sort": 375,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Location_Themes/Infested"
     }
   },

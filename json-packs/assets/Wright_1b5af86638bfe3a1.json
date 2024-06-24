@@ -16,7 +16,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by crafting a useful item using your specialty, or when you @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} to create or repair an item in a perilous situation, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by crafting a useful item using your specialty, or when you @Compendium[foundry-supersworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} to create or repair an item in a perilous situation, add +1 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -30,7 +30,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you give the item you create as a gift to commemorate an important event or relationship, you may (one time only) reroll any dice when you @Compendium[foundry-ironsworn.ironswornmoves.be95ca063ded2b19]{Compel}, @Compendium[foundry-ironsworn.ironswornmoves.b643d9ea53ff8d98]{Forge a Bond}, or @Compendium[foundry-ironsworn.ironswornmoves.421b379cb40b6ab7]{Test Your Bond}.</p>",
+        "description": "<p>When you give the item you create as a gift to commemorate an important event or relationship, you may (one time only) reroll any dice when you @Compendium[foundry-supersworn.ironswornmoves.be95ca063ded2b19]{Compel}, @Compendium[foundry-supersworn.ironswornmoves.b643d9ea53ff8d98]{Forge a Bond}, or @Compendium[foundry-supersworn.ironswornmoves.421b379cb40b6ab7]{Test Your Bond}.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

@@ -14,7 +14,7 @@
         ],
         "text": "Burial chambers",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Maze of narrow passages",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Shrine",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Stately vault",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Offerings to the dead",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Statuary or tapestries",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Remains of a grave robber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Mass grave",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Exhumed corpses",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Denizen guards this area",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Trap",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Death makes its presence known",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Crumbling architecture",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Grave goods with hidden dangers",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "LIoWYBGBBMPlPNam"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

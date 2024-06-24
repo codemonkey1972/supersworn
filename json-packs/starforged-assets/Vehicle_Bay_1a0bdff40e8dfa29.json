@@ -11,14 +11,14 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>You may purchase or upgrade a support vehicle for 1 less experience. When you @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} a battered support vehicle, spend 1 repair point (instead of 2).</p>",
+        "description": "<p>You may purchase or upgrade a support vehicle for 1 less experience. When you @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Repair} a battered support vehicle, spend 1 repair point (instead of 2).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When a support vehicle is destroyed, and you are able to retrieve its wreckage, you may @Compendium[foundry-ironsworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} using the yes/no table if something can be salvaged from the mess. Make it 50/50. On a yes, spend 1 experience to restore the support vehicle asset with all previously marked abilities. Until you @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} and bring it back to full working order, the vehicle is battered with 0 integrity.</p>",
+        "description": "<p>When a support vehicle is destroyed, and you are able to retrieve its wreckage, you may @Compendium[foundry-supersworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} using the yes/no table if something can be salvaged from the mess. Make it 50/50. On a yes, spend 1 experience to restore the support vehicle asset with all previously marked abilities. Until you @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Repair} and bring it back to full working order, the vehicle is battered with 0 integrity.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

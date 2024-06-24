@@ -5,7 +5,7 @@
   "description": "A rugged, frozen world—locked in an unending winter.",
   "sort": 311,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Ice"
     }
   },

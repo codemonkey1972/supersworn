@@ -27,10 +27,10 @@ const options: string[] =
 
 const scene = game.scenes?.get(props.data.sceneId)
 // @ts-expect-error scene.flags isn't in the types
-const region = ref<string>(scene?.flags['foundry-ironsworn']?.['region'])
+const region = ref<string>(scene?.flags['foundry-supersworn']?.['region'])
 
 // Send updates to Foundry
 watch(region, (newValue) => {
-	scene?.setFlag('foundry-ironsworn', 'region', newValue)
+	scene?.setFlag('foundry-supersworn', 'region', newValue)
 })
 </script>

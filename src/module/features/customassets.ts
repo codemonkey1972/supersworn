@@ -18,14 +18,14 @@ export interface DisplayCategory {
 
 export async function createIronswornAssetTree(): Promise<DisplayCategory[]> {
 	return await createAssetTree(
-		'foundry-ironsworn.ironswornassets',
+		'foundry-supersworn.ironswornassets',
 		'Ironsworn',
 		ISAssetTypes
 	)
 }
 export async function createStarforgedAssetTree(): Promise<DisplayCategory[]> {
 	return await createAssetTree(
-		'foundry-ironsworn.starforgedassets',
+		'foundry-supersworn.starforgedassets',
 		'Starforged',
 		SFAssetTypes
 	)

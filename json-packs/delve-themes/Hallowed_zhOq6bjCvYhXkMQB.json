@@ -14,7 +14,7 @@
         ],
         "text": "Temple or altar",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Offerings or atonements",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Religious relic or idol",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Consecrated ground",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Dwellings or gathering place",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -81,7 +81,7 @@
         ],
         "text": "Denizen defends their sanctum",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -94,7 +94,7 @@
         ],
         "text": "Denizen enacts the will of their god",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -107,7 +107,7 @@
         ],
         "text": "Denizen seeks martyrdom",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -120,7 +120,7 @@
         ],
         "text": "Secret of the faith is revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -133,7 +133,7 @@
         ],
         "text": "Greater purpose is revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -146,7 +146,7 @@
         ],
         "text": "Unexpected disciples are revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -159,7 +159,7 @@
         ],
         "text": "Divine manifestations",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Aspect of the faith beguiles you",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Unexpected leader is revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Embodiment of a god or myth",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Protective ward or barrier",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Prophecies reveal a dark fate",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "zhOq6bjCvYhXkMQB"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027047964,

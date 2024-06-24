@@ -5,7 +5,7 @@
   "description": "Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you [Ask the Oracle](Starforged/Moves/Fate/Ask_the_Oracle) to envision the primary feature of a waypoint as you [Undertake an Expedition](Starforged/Moves/Exploration/Undertake_an_Expedition). Check your result by referencing the column for your current location: Terminus, Outlands, or Expanse.",
   "sort": 300,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Space/Sighting"
     }
   },

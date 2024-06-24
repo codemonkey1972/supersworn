@@ -34,7 +34,7 @@ export class SFSettingTruthsDialogVue extends VueAppMixin(FormApplication) {
 		options?: Partial<FormApplicationOptions> | undefined
 	): MaybePromise<object>
 	async getData(options?: unknown) {
-		const pack = game.packs.get('foundry-ironsworn.starforgedtruths')
+		const pack = game.packs.get('foundry-supersworn.starforgedtruths')
 		const documents = (await pack?.getDocuments()) as IronswornJournalEntry[]
 		if (!documents) throw new Error("can't load truth JEs")
 
@@ -45,7 +45,7 @@ export class SFSettingTruthsDialogVue extends VueAppMixin(FormApplication) {
 		const truths = dfTruths.map((df) => ({
 			df,
 			je: documents.find(
-				(x) => x.getFlag('foundry-ironsworn', 'dfid') === df.$id
+				(x) => x.getFlag('foundry-supersworn', 'dfid') === df.$id
 			)
 		}))
 

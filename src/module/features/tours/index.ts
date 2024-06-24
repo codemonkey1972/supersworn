@@ -3,11 +3,11 @@ import { WelcomeTour } from './welcome-tour'
 
 export async function registerTours() {
 	// Register our tours
-	game.tours.register('foundry-ironsworn', 'welcome', new WelcomeTour())
+	game.tours.register('foundry-supersworn', 'welcome', new WelcomeTour())
 
 	// Add listener for the chat-message button
 	$(document).on('click', '#chat-log #ironsworn-tour-chat-button', (el) => {
-		const tour = game.tours.get('foundry-ironsworn.welcome')
+		const tour = game.tours.get('foundry-supersworn.welcome')
 		tour?.start()
 	})
 
@@ -23,5 +23,5 @@ export async function registerTours() {
 		content: game.i18n.localize('IRONSWORN.Tours.ChatMessage')
 	})
 
-	game.settings.set('foundry-ironsworn', 'first-run-tips-shown', true)
+	game.settings.set('foundry-supersworn', 'first-run-tips-shown', true)
 }

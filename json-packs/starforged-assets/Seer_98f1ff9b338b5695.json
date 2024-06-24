@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you envision experiencing a prophetic dream, you may @Compendium[foundry-ironsworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} for details using an interpretive oracle such as Action/Theme or Descriptor/Focus. If you record the answer, and later face a situation which gives truth to the vision, take an automatic strong hit (one time only) when making a move to act on your foresight. Then, clear the prophecy. Only one prophecy can be active at a time.</p>",
+        "description": "<p>When you envision experiencing a prophetic dream, you may @Compendium[foundry-supersworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} for details using an interpretive oracle such as Action/Theme or Descriptor/Focus. If you record the answer, and later face a situation which gives truth to the vision, take an automatic strong hit (one time only) when making a move to act on your foresight. Then, clear the prophecy. Only one prophecy can be active at a time.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you focus or meditate to @Compendium[foundry-ironsworn.starforgedmoves.13b2d777c6fb719d]{Gather Information} about a place, being, or situation (in person or remotely), roll +spirit and take +1 momentum on a hit.</p>",
+        "description": "<p>When you focus or meditate to @Compendium[foundry-supersworn.starforgedmoves.13b2d777c6fb719d]{Gather Information} about a place, being, or situation (in person or remotely), roll +spirit and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you or an ally roll a match as you @Compendium[foundry-ironsworn.starforgedmoves.3de42d2d3cb78855]{Sojourn} in a community or @Compendium[foundry-ironsworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} within a site, you may envision gaining sudden and unbidden insight about the location. If you do, take +2 momentum.</p>",
+        "description": "<p>When you or an ally roll a match as you @Compendium[foundry-supersworn.starforgedmoves.3de42d2d3cb78855]{Sojourn} in a community or @Compendium[foundry-supersworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} within a site, you may envision gaining sudden and unbidden insight about the location. If you do, take +2 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

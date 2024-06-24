@@ -117,11 +117,11 @@ export const FOE_IMAGES = {
 } as const
 
 const PACKS = [
-	'foundry-ironsworn.ironsworndelvethemes',
-	'foundry-ironsworn.ironsworndelvedomains',
-	'foundry-ironsworn.ironswornfoes',
-	'foundry-ironsworn.foeactorsis',
-	'foundry-ironsworn.ironswornoracles'
+	'foundry-supersworn.ironsworndelvethemes',
+	'foundry-supersworn.ironsworndelvedomains',
+	'foundry-supersworn.ironswornfoes',
+	'foundry-supersworn.foeactorsis',
+	'foundry-supersworn.ironswornoracles'
 ] as const
 
 interface RawFeatureOrDanger {
@@ -148,7 +148,7 @@ function importDelveFeaturesOrDangers(
 			range: [low, featureOrDanger.Chance],
 			text: featureOrDanger.Description,
 			flags: {
-				'foundry-ironsworn': {
+				'foundry-supersworn': {
 					type: `delve-site-${type}`,
 					sourceId
 				}
@@ -174,9 +174,9 @@ export async function importFromDatasworn() {
 	}
 
 	// Themes
-	let pack: ValueOf<typeof PACKS> = 'foundry-ironsworn.ironsworndelvethemes'
+	let pack: ValueOf<typeof PACKS> = 'foundry-supersworn.ironsworndelvethemes'
 	const themesJson = await fetch(
-		'systems/foundry-ironsworn/assets/delve-themes.json'
+		'systems/foundry-supersworn/assets/delve-themes.json'
 	).then(async (x) => await x.json())
 	const themesToCreate = (themesJson.Themes as RawThemeOrDomain[]).map(
 		(rawTheme) => {
@@ -216,9 +216,9 @@ export async function importFromDatasworn() {
 	})
 
 	// Domains
-	pack = 'foundry-ironsworn.ironsworndelvedomains'
+	pack = 'foundry-supersworn.ironsworndelvedomains'
 	const domainsJson = await fetch(
-		'systems/foundry-ironsworn/assets/delve-domains.json'
+		'systems/foundry-supersworn/assets/delve-domains.json'
 	).then(async (x) => await x.json())
 	const domainsToCreate = (domainsJson.Domains as RawThemeOrDomain[]).map(
 		(rawDomain) => {

@@ -16,14 +16,14 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>You are physically bound to a being with 2 health. When you make aggressive moves while giving yourself to the symbiote's power, add +its health. If you face physical harm, choose either the @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-ironsworn.starforgedmoves.d34cdf2408cd22b6]{Companion Takes a Hit} move. To restore the symbiote's health, you must @Compendium[foundry-ironsworn.starforgedmoves.ff32c523829d6481]{Endure Stress} and give the symbiote +health equal to the -spirit you face. If you make a move aided by the symbiote and roll a 1 on your action die, your fragile bond is broken for several hours.</p>",
+        "description": "<p>You are physically bound to a being with 2 health. When you make aggressive moves while giving yourself to the symbiote's power, add +its health. If you face physical harm, choose either the @Compendium[foundry-supersworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-supersworn.starforgedmoves.d34cdf2408cd22b6]{Companion Takes a Hit} move. To restore the symbiote's health, you must @Compendium[foundry-supersworn.starforgedmoves.ff32c523829d6481]{Endure Stress} and give the symbiote +health equal to the -spirit you face. If you make a move aided by the symbiote and roll a 1 on your action die, your fragile bond is broken for several hours.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you make a move and heed the symbiote's guidance (decide after rolling), you may reroll any dice. Then, @Compendium[foundry-ironsworn.starforgedmoves.ff32c523829d6481]{Endure Stress} (-2).</p>",
+        "description": "<p>When you make a move and heed the symbiote's guidance (decide after rolling), you may reroll any dice. Then, @Compendium[foundry-supersworn.starforgedmoves.ff32c523829d6481]{Endure Stress} (-2).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

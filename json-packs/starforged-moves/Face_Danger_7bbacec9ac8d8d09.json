@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Scene_Challenge",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you attempt something risky or react to an imminent threat within a scene challenge**, envision your action and roll. If you act...\n\n  * With speed, mobility, or agility: Roll +edge\n  * With resolve, command, or sociability: Roll +heart\n  * With strength, endurance, or aggression: Roll +iron\n  * With deception, stealth, or trickery: Roll +shadow\n  * With expertise, focus, or observation: Roll +wits\n\nOn a **strong hit**, you are successful and mark progress. On a **strong hit with a match**, mark progress twice.\n\nOn a **weak hit**, you are successful and mark progress, but also encounter a complication or setback. Envision what occurs and fill a clock segment.\n\nOn a **miss**, you fail, or a momentary success is undermined by a dramatic turn of events. Fill a clock segment and @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. On a **miss with a match**, fill two segments and @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you attempt something risky or react to an imminent threat within a scene challenge**, envision your action and roll. If you act...\n\n  * With speed, mobility, or agility: Roll +edge\n  * With resolve, command, or sociability: Roll +heart\n  * With strength, endurance, or aggression: Roll +iron\n  * With deception, stealth, or trickery: Roll +shadow\n  * With expertise, focus, or observation: Roll +wits\n\nOn a **strong hit**, you are successful and mark progress. On a **strong hit with a match**, mark progress twice.\n\nOn a **weak hit**, you are successful and mark progress, but also encounter a complication or setback. Envision what occurs and fill a clock segment.\n\nOn a **miss**, you fail, or a momentary success is undermined by a dramatic turn of events. Fill a clock segment and @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. On a **miss with a match**, fill two segments and @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you attempt something risky or react to an imminent threat within a scene challenge...",
       "Options": [
@@ -74,9 +74,9 @@
         }
       },
       "Miss": {
-        "Text": "You fail, or a momentary success is undermined by a dramatic turn of events. Fill a clock segment and @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "You fail, or a momentary success is undermined by a dramatic turn of events. Fill a clock segment and @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "With a Match": {
-          "Text": "You fail, or a momentary success is undermined by a dramatic turn of events. Fill two clock segments and @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+          "Text": "You fail, or a momentary success is undermined by a dramatic turn of events. Fill two clock segments and @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
           "Reroll": {
             "Text": ""
           }
@@ -110,7 +110,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

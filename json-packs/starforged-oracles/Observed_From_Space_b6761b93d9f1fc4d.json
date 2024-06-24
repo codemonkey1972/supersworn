@@ -1,7 +1,7 @@
 {
   "_id": "b6761b93d9f1fc4d",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Tainted/Observed_From_Space",
       "category": "Starforged/Oracles/Planets/Tainted"
     }
@@ -161,7 +161,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

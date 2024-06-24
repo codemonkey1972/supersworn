@@ -1,7 +1,7 @@
 {
   "name": "Communication and Data",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Setting_Truths/Communication_and_Data",
       "type": "truth-category"
     }
@@ -44,7 +44,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022371,
@@ -89,7 +89,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022375,
@@ -134,7 +134,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022383,
@@ -152,7 +152,7 @@
         "content": "<p>If you are an expert at subverting or manipulating digital information systems, you might be an INFILTRATOR. If you keep an archive of navigational charts, you might be a NAVIGATOR.</p>"
       },
       "flags": {
-        "foundry-ironsworn": {
+        "foundry-supersworn": {
           "assets": [
             "Starforged/Assets/Path/Infiltrator",
             "Starforged/Assets/Path/Navigator"
@@ -177,7 +177,7 @@
         "oPggPZM6rWjfN0q2": 3
       },
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022387,
@@ -194,7 +194,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949022363,

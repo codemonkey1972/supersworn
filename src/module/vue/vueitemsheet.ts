@@ -41,7 +41,7 @@ export abstract class VueItemSheet extends VueAppMixin(ItemSheet) {
 	}
 
 	_toggleEditMode(_e: JQuery.ClickEvent) {
-		const currentValue = this.item.getFlag('foundry-ironsworn', 'edit-mode')
-		this.item.setFlag('foundry-ironsworn', 'edit-mode', !currentValue)
+		const currentValue = this.item.getFlag('foundry-supersworn', 'edit-mode')
+		this.item.setFlag('foundry-supersworn', 'edit-mode', !currentValue)
 	}
 }

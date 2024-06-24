@@ -14,7 +14,7 @@
         ],
         "text": "Tomb or burial site",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Blood was spilled here",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Unnatural mists or darkness",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Messages from beyond the grave",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Apparitions of a person or event",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -81,7 +81,7 @@
         ],
         "text": "Denizen haunts this area",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -94,7 +94,7 @@
         ],
         "text": "Unsettling sounds or foreboding signs",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -107,7 +107,7 @@
         ],
         "text": "Denizen attacks without warning",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -120,7 +120,7 @@
         ],
         "text": "Denizen makes a costly demand",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -133,7 +133,7 @@
         ],
         "text": "Denizen seizes your body or mind",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -146,7 +146,7 @@
         ],
         "text": "Denizen taunts or lures you",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -159,7 +159,7 @@
         ],
         "text": "A disturbing truth is revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Frightening visions",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "The environment is used against you",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Trickery leads you astray",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "True nature of this place is revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Sudden, shocking manifestation",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "9BtnJYn9vXBGEV5R"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027047964,

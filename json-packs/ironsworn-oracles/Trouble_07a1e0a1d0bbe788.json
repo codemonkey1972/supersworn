@@ -1,7 +1,7 @@
 {
   "_id": "07a1e0a1d0bbe788",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Settlement/Trouble",
       "category": "Ironsworn/Oracles/Settlement"
     }
@@ -665,7 +665,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

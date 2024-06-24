@@ -561,15 +561,15 @@
 			"Starforged": {
 				"Command Vehicle": {
 					"Title": "Vehículo de mando",
-					"Description": "El **vehículo de mando** es tu nave interestelar. Es un recurso por defecto para tu personaje, obtenido al empezar la campaña. Si estás jugando con otros es un recurso compartido; cada uno de vosotros podéis usar las habilidades de la NAVE ESTELAR mientras estéis a bordo.\n\nEl vehículo de mando tiene un contador de integridad y empieza a 5 de integridad. Cuando tu NAVE ESTELAR recibe un impacto haz el movimiento @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Resistir el daño} para ver qué pasa."
+					"Description": "El **vehículo de mando** es tu nave interestelar. Es un recurso por defecto para tu personaje, obtenido al empezar la campaña. Si estás jugando con otros es un recurso compartido; cada uno de vosotros podéis usar las habilidades de la NAVE ESTELAR mientras estéis a bordo.\n\nEl vehículo de mando tiene un contador de integridad y empieza a 5 de integridad. Cuando tu NAVE ESTELAR recibe un impacto haz el movimiento @Compendium[foundry-supersworn.starforgedmoves.3782f1b3c8ca8b88]{Resistir el daño} para ver qué pasa."
 				},
 				"Module": {
 					"Title": "Módulo",
-					"Description": "Los **módulos** están unidos a tu NAVE ESTELAR y ofrecen opciones y ventajas adicionales mientras estás en el vehículo.\n\nEstos recursos pueden ser obtenidos y gestionados por un único personaje. Pueden ser compartidos con aliados, pero solo si es práctico que hagan uso de ellos (no todo el mundo sabe como usar un LABORATORIO DE INVESTIGACIÓN).\n\nAl @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Resistir el daño} y obtener un fallo puedes marcar un módulo como roto para desviar daño de tu NAVE ESTELAR. Voltea la carta para indicar que está roto. Un módulo roto no puede ser usado hasta @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Reparar} el módulo."
+					"Description": "Los **módulos** están unidos a tu NAVE ESTELAR y ofrecen opciones y ventajas adicionales mientras estás en el vehículo.\n\nEstos recursos pueden ser obtenidos y gestionados por un único personaje. Pueden ser compartidos con aliados, pero solo si es práctico que hagan uso de ellos (no todo el mundo sabe como usar un LABORATORIO DE INVESTIGACIÓN).\n\nAl @Compendium[foundry-supersworn.starforgedmoves.3782f1b3c8ca8b88]{Resistir el daño} y obtener un fallo puedes marcar un módulo como roto para desviar daño de tu NAVE ESTELAR. Voltea la carta para indicar que está roto. Un módulo roto no puede ser usado hasta @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Reparar} el módulo."
 				},
 				"Support Vehicle": {
 					"Title": "Vehículo de soporte",
-					"Description": "Los **vehículos de soporte** complementan tus vehículos de mando en operaciones a corta distancia o en la superfície planeataria. Si estás jugando con otros uno de vosotros puede actuar como el piloto o dueño de un vehículo de soporte, pero cualquiera a bordo puede usar sus habilidades según la situación.\n\nLos vehículos de soporte tienen registros de integridad, igual que los vehículos de mando. El máximo de integridad varía según el tipo de vehículo. Cuando un vehículo de soporte se enfrenta a una situación o ambiente dañino debes @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Resistir el daño} para ver cómo le va."
+					"Description": "Los **vehículos de soporte** complementan tus vehículos de mando en operaciones a corta distancia o en la superfície planeataria. Si estás jugando con otros uno de vosotros puede actuar como el piloto o dueño de un vehículo de soporte, pero cualquiera a bordo puede usar sus habilidades según la situación.\n\nLos vehículos de soporte tienen registros de integridad, igual que los vehículos de mando. El máximo de integridad varía según el tipo de vehículo. Cuando un vehículo de soporte se enfrenta a una situación o ambiente dañino debes @Compendium[foundry-supersworn.starforgedmoves.3782f1b3c8ca8b88]{Resistir el daño} para ver cómo le va."
 				},
 				"Path": {
 					"Title": "Senda",
@@ -577,7 +577,7 @@
 				},
 				"Companion": {
 					"Title": "Compañero",
-					"Description": "Los **Compañeros** son PNJ ayudantes. Al ganar un compañero dales un nombre y visualiza su aspecto y personalidad.\n\nLos compañeros usan un registro de salud y pueden sufrir daño si un resultado los pone en peligro. Cuando tu compañero recibe daño usa el movimiento @Compendium[foundry-ironsworn.starforgedmoves.d34cdf2408cd22b6]{Tu compañero sufre daño}. Cuando su salud llega a 0 corren el riesgo de morir o ser destruidos."
+					"Description": "Los **Compañeros** son PNJ ayudantes. Al ganar un compañero dales un nombre y visualiza su aspecto y personalidad.\n\nLos compañeros usan un registro de salud y pueden sufrir daño si un resultado los pone en peligro. Cuando tu compañero recibe daño usa el movimiento @Compendium[foundry-supersworn.starforgedmoves.d34cdf2408cd22b6]{Tu compañero sufre daño}. Cuando su salud llega a 0 corren el riesgo de morir o ser destruidos."
 				},
 				"Deed": {
 					"Title": "Hazaña",

@@ -65,15 +65,15 @@ export function hash(str: string): string {
 }
 
 const PACKS = [
-	'foundry-ironsworn.starforgedassets',
-	'foundry-ironsworn.starforgedencounters',
-	'foundry-ironsworn.starforgedmoves',
-	'foundry-ironsworn.starforgedoracles',
-	'foundry-ironsworn.starforgedtruths',
-	'foundry-ironsworn.foeactorssf',
-	'foundry-ironsworn.ironswornassets',
-	'foundry-ironsworn.ironswornoracles',
-	'foundry-ironsworn.ironswornmoves'
+	'foundry-supersworn.starforgedassets',
+	'foundry-supersworn.starforgedencounters',
+	'foundry-supersworn.starforgedmoves',
+	'foundry-supersworn.starforgedoracles',
+	'foundry-supersworn.starforgedtruths',
+	'foundry-supersworn.foeactorssf',
+	'foundry-supersworn.ironswornassets',
+	'foundry-supersworn.ironswornoracles',
+	'foundry-supersworn.ironswornmoves'
 ] as const
 
 /**
@@ -141,7 +141,7 @@ function getMoveFolderData(
 		sort:
 			(moveCategory.Source.Page ?? 0) +
 			(moveCategory.Source.Title.includes('Delve') ? 1000 : 0),
-		flags: { 'foundry-ironsworn': { dfid: moveCategory.$id } }
+		flags: { 'foundry-supersworn': { dfid: moveCategory.$id } }
 	}
 }
 
@@ -173,7 +173,7 @@ function movesForCategories(
 }
 
 async function processISMoves() {
-	const pack = 'foundry-ironsworn.ironswornmoves'
+	const pack = 'foundry-supersworn.ironswornmoves'
 	await Folder.createDocuments(
 		ISMoveCategories.map((moveCategory) => getMoveFolderData(moveCategory)),
 		{ pack, keepId: true }
@@ -185,7 +185,7 @@ async function processISMoves() {
 	})
 }
 async function processSFMoves() {
-	const pack = 'foundry-ironsworn.starforgedmoves'
+	const pack = 'foundry-supersworn.starforgedmoves'
 	await Folder.createDocuments(
 		SFMoveCategories.map((moveCategory) => getMoveFolderData(moveCategory)),
 		{ pack, keepId: true }
@@ -209,7 +209,7 @@ function getAssetFolderData(assetType: IAssetType): FolderDataConstructorData {
 		type: 'Item',
 		_id: hashLookup(assetType.$id),
 		sort: assetType.Source.Page,
-		flags: { 'foundry-ironsworn': { dfid: assetType.$id } }
+		flags: { 'foundry-supersworn': { dfid: assetType.$id } }
 	}
 }
 
@@ -281,7 +281,7 @@ function assetsForTypes(types: IAssetType[]) {
 }
 
 async function processSFAssets() {
-	const pack = 'foundry-ironsworn.starforgedassets'
+	const pack = 'foundry-supersworn.starforgedassets'
 	await Folder.createDocuments(
 		SFAssetTypes.map((assetType) => getAssetFolderData(assetType)),
 		{ pack, keepId: true }
@@ -294,7 +294,7 @@ async function processSFAssets() {
 }
 
 async function processISAssets() {
-	const pack = 'foundry-ironsworn.ironswornassets'
+	const pack = 'foundry-supersworn.ironswornassets'
 	await Folder.createDocuments(
 		ISAssetTypes.map((assetType) => getAssetFolderData(assetType)),
 		{ pack, keepId: true }
@@ -323,7 +323,7 @@ function getOracleFolderData(
 			sort:
 				(oracleBranch.Source.Page ?? 0) +
 				(oracleBranch.Source.Title.includes('Delve') ? 1000 : 0),
-			flags: { 'foundry-ironsworn': { dfid: oracleBranch.$id } },
+			flags: { 'foundry-supersworn': { dfid: oracleBranch.$id } },
 			parent
 		}
 	console.log(oracleBranch)
@@ -378,7 +378,7 @@ async function processSFOracles() {
 		RollTable: RollTableDataConstructorData[]
 		Folder: FolderDataConstructorData[]
 	} = { RollTable: [], Folder: [] }
-	const pack = 'foundry-ironsworn.starforgedoracles'
+	const pack = 'foundry-supersworn.starforgedoracles'
 
 	for (const category of SFOracleCategories) {
 		await processOracleCategory(category, toCreate)
@@ -396,7 +396,7 @@ async function processISOracles() {
 		Folder: FolderDataConstructorData[]
 	} = { RollTable: [], Folder: [] }
 
-	const pack = 'foundry-ironsworn.ironswornoracles'
+	const pack = 'foundry-supersworn.ironswornoracles'
 
 	for (const category of ISOracleCategories) {
 		await processOracleCategory(category, toCreate)
@@ -417,7 +417,7 @@ async function processSFEncounters() {
 			encounter.Description
 		)
 		const description = await renderTemplate(
-			'systems/foundry-ironsworn/templates/item/sf-foe.hbs',
+			'systems/foundry-supersworn/templates/item/sf-foe.hbs',
 			{
 				...encounter,
 				Description: renderedDescription,
@@ -440,7 +440,7 @@ async function processSFEncounters() {
 
 		for (const variant of encounter.Variants) {
 			const variantDescription = await renderTemplate(
-				'systems/foundry-ironsworn/templates/item/sf-foe.hbs',
+				'systems/foundry-supersworn/templates/item/sf-foe.hbs',
 				{
 					...encounter,
 					...variant,
@@ -462,14 +462,14 @@ async function processSFEncounters() {
 		}
 	}
 	await Item.createDocuments(encountersToCreate, {
-		pack: 'foundry-ironsworn.starforgedencounters',
+		pack: 'foundry-supersworn.starforgedencounters',
 		keepId: true
 	})
 }
 
 /** Processes *existing* Starforged encounter Items into actors. Run it immediately after processSFEncounters or it won't work! */
 async function processSFFoes() {
-	const foesPack = game.packs.get('foundry-ironsworn.starforgedencounters')
+	const foesPack = game.packs.get('foundry-supersworn.starforgedencounters')
 	const foeItems = (await foesPack?.getDocuments()) as Array<
 		StoredDocument<IronswornItem>
 	>
@@ -480,7 +480,7 @@ async function processSFFoes() {
 				img: foeItem.img,
 				type: 'foe'
 			},
-			{ pack: 'foundry-ironsworn.foeactorssf' }
+			{ pack: 'foundry-supersworn.foeactorssf' }
 		)
 		await actor?.createEmbeddedDocuments('Item', [
 			{
@@ -504,7 +504,7 @@ async function processTruths(
 			{
 				name: truth.Display.Title,
 				flags: {
-					'foundry-ironsworn': { dfid: truth.$id, type: 'truth-category' }
+					'foundry-supersworn': { dfid: truth.$id, type: 'truth-category' }
 				}
 			},
 			{ pack: outputCompendium }
@@ -535,7 +535,7 @@ async function processTruths(
 					format: 2 // JOURNAL_ENTRY_PAGE_FORMATS.MARKDOWN
 				},
 				flags: {
-					'foundry-ironsworn': {
+					'foundry-supersworn': {
 						assets: truth.Suggestions?.Assets ?? []
 					}
 				}
@@ -548,13 +548,13 @@ async function processTruths(
 async function processSFTruths() {
 	await processTruths(
 		((starforged as any).default as Starforged)['Setting Truths'],
-		'foundry-ironsworn.starforgedtruths'
+		'foundry-supersworn.starforgedtruths'
 	)
 }
 
 async function processISTruths() {
 	await processTruths(
 		((ironsworn as any).default as Ironsworn)['Setting Truths']!,
-		'foundry-ironsworn.starforgedtruths'
+		'foundry-supersworn.starforgedtruths'
 	)
 }

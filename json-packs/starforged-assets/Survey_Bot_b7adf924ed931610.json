@@ -16,21 +16,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>Your survey bot companion scans the path ahead. When you @Compendium[foundry-ironsworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} (+wits) overland or within a site, add +1.</p>",
+        "description": "<p>Your survey bot companion scans the path ahead. When you @Compendium[foundry-supersworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} (+wits) overland or within a site, add +1.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>Once per expedition, when you @Compendium[foundry-ironsworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} by sending the bot to scout ahead, roll +its health. On a hit, also mark progress on the expedition. On a strong hit with a match, the bot uncovers an unexpected feature or location; envision what it reveals and mark 1 tick on your discoveries legacy track.</p>",
+        "description": "<p>Once per expedition, when you @Compendium[foundry-supersworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} by sending the bot to scout ahead, roll +its health. On a hit, also mark progress on the expedition. On a strong hit with a match, the bot uncovers an unexpected feature or location; envision what it reveals and mark 1 tick on your discoveries legacy track.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} aided by the bot's sensors, or @Compendium[foundry-ironsworn.starforgedmoves.e6ed148eff82c171]{Face Danger} to detect a threat, roll +its health and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} aided by the bot's sensors, or @Compendium[foundry-supersworn.starforgedmoves.e6ed148eff82c171]{Face Danger} to detect a threat, roll +its health and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

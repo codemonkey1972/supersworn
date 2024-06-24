@@ -1,7 +1,7 @@
 {
   "name": "Medicine",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Setting_Truths/Medicine",
       "type": "truth-category"
     }
@@ -44,7 +44,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022397,
@@ -89,7 +89,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022425,
@@ -134,7 +134,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022431,
@@ -152,7 +152,7 @@
         "content": "<p>Do you bear any notable scars or prosthetics? Do you have any medical or physical disabilities? These aspects might influence your look or approach. If you are skilled at providing medical care for yourself or others, you might be a HEALER. If you are rigged with advanced prosthetics or cyberware, you might be AUGMENTED.</p>"
       },
       "flags": {
-        "foundry-ironsworn": {
+        "foundry-supersworn": {
           "assets": [
             "Starforged/Assets/Path/Healer",
             "Starforged/Assets/Path/Augmented"
@@ -177,7 +177,7 @@
         "oPggPZM6rWjfN0q2": 3
       },
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022438,
@@ -194,7 +194,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949022391,

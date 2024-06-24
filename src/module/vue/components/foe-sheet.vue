@@ -69,20 +69,20 @@ function addEmpty() {
 
 const multipleUsers = (game.users?.contents?.length ?? 0) > 1
 const whisperIcon = computed(() =>
-	(props.data.actor.flags['foundry-ironsworn'] as any)?.muteBroadcast
+	(props.data.actor.flags['foundry-supersworn'] as any)?.muteBroadcast
 		? 'fa:volume-xmark'
 		: 'fa:volume'
 )
 
 const whisperTooltip = computed(() =>
-	(props.data.actor.flags['foundry-ironsworn'] as any)?.muteBroadcast
+	(props.data.actor.flags['foundry-supersworn'] as any)?.muteBroadcast
 		? 'IRONSWORN.ChatAlert.Muted'
 		: 'IRONSWORN.ChatAlert.Unmuted'
 )
 
 function toggleWhisper() {
-	const current = $actor?.getFlag('foundry-ironsworn', 'muteBroadcast') ?? false
-	return $actor?.setFlag('foundry-ironsworn', 'muteBroadcast', !current)
+	const current = $actor?.getFlag('foundry-supersworn', 'muteBroadcast') ?? false
+	return $actor?.setFlag('foundry-supersworn', 'muteBroadcast', !current)
 }
 </script>
 

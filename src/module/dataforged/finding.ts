@@ -8,9 +8,9 @@ export async function getFoundryMoveByDfId(
 	dfid: string
 ): Promise<IronswornItem<'sfmove'> | undefined> {
 	const sfDocuments =
-		(await cachedDocumentsForPack('foundry-ironsworn.starforgedmoves')) ?? []
+		(await cachedDocumentsForPack('foundry-supersworn.starforgedmoves')) ?? []
 	const isDocuments =
-		(await cachedDocumentsForPack('foundry-ironsworn.ironswornmoves')) ?? []
+		(await cachedDocumentsForPack('foundry-supersworn.ironswornmoves')) ?? []
 	return [...sfDocuments, ...isDocuments]?.find(
 		(x) => x.id === hashLookup(dfid)
 	) as IronswornItem<'sfmove'> | undefined

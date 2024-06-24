@@ -66,7 +66,7 @@ const item = inject(ItemKey) as Ref<ItemSource<'asset'>>
 const $item = inject($ItemKey) as IronswornItem<'asset'>
 
 const editMode = computed(() => {
-	return item.value.flags['foundry-ironsworn']?.['edit-mode']
+	return item.value.flags['foundry-supersworn']?.['edit-mode']
 })
 
 function enableClick(ev) {

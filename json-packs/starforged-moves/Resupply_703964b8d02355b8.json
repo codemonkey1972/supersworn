@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Recover",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you attempt to bolster your readiness**, envision the opportunity and your approach. If you...\n\n  * Barter or make an appeal: Roll +heart\n  * Threaten or seize: Roll +iron\n  * Steal or swindle: Roll +shadow\n  * Scavenge or craft: Roll +wits\n\nOn a **strong hit**, choose one.\n\n  * If you are unprepared, clear the impact and take +1 supply. Otherwise, take +2 supply.\n  * If you are in need of a specific item or resource that can reasonably be obtained, you acquire it. Take +1 momentum.\n\nOn a **weak hit**, as above, but you must first deal with a cost, complication, or demand. Envision the nature of this obstacle.\n\nOn a **miss**, you encounter an unexpected peril. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you attempt to bolster your readiness**, envision the opportunity and your approach. If you...\n\n  * Barter or make an appeal: Roll +heart\n  * Threaten or seize: Roll +iron\n  * Steal or swindle: Roll +shadow\n  * Scavenge or craft: Roll +wits\n\nOn a **strong hit**, choose one.\n\n  * If you are unprepared, clear the impact and take +1 supply. Otherwise, take +2 supply.\n  * If you are in need of a specific item or resource that can reasonably be obtained, you acquire it. Take +1 momentum.\n\nOn a **weak hit**, as above, but you must first deal with a cost, complication, or demand. Envision the nature of this obstacle.\n\nOn a **miss**, you encounter an unexpected peril. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you attempt to bolster your readiness...",
       "Options": [
@@ -66,7 +66,7 @@
         }
       },
       "Miss": {
-        "Text": "You encounter an unexpected peril. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "You encounter an unexpected peril. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -102,7 +102,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

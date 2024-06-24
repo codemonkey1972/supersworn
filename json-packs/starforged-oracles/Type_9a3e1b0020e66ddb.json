@@ -1,7 +1,7 @@
 {
   "_id": "9a3e1b0020e66ddb",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Factions/Type",
       "category": "Starforged/Oracles/Factions"
     }
@@ -63,7 +63,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

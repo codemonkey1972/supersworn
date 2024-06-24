@@ -4,7 +4,7 @@
   "type": "RollTable",
   "sort": 107,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Moves/Ask_the_Oracle"
     }
   },

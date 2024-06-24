@@ -19,9 +19,9 @@ export class MoveSheetTour extends IronswornTour {
 			.join(',')
 
 		const isMoveUuid =
-			'Compendium.foundry-ironsworn.ironswornmoves.c8bacc17f73d3103'
+			'Compendium.foundry-supersworn.ironswornmoves.c8bacc17f73d3103'
 		const sfMoveUuid =
-			'Compendium.foundry-ironsworn.starforgedmoves.e6ed148eff82c171'
+			'Compendium.foundry-supersworn.starforgedmoves.e6ed148eff82c171'
 		const moveButtonsSelector = [sfMoveUuid, isMoveUuid]
 			.map(
 				(u) =>

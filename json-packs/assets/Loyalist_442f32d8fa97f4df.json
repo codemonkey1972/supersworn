@@ -11,14 +11,14 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.9ddde3bd0769fc24]{Aid Your Ally}, add +1 and take +1 momentum on a hit. This is in addition to the benefits taken by your ally.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.9ddde3bd0769fc24]{Aid Your Ally}, add +1 and take +1 momentum on a hit. This is in addition to the benefits taken by your ally.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When an ally makes the @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress} move in your company, they add +1 and you take +1 momentum on a hit.</p>",
+        "description": "<p>When an ally makes the @Compendium[foundry-supersworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress} move in your company, they add +1 and you take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

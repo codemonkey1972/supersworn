@@ -1,7 +1,7 @@
 {
   "_id": "230ae9b478fc2a81",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Jovian/Settlements/Outlands",
       "category": "Starforged/Oracles/Planets/Jovian"
     }
@@ -91,7 +91,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

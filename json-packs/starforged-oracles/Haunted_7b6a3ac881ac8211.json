@@ -5,7 +5,7 @@
   "description": "Restless spirits are bound to this place.",
   "sort": 374,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Location_Themes/Haunted"
     }
   },

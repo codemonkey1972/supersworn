@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger}, @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, or @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information} using your knowledge of tracking, woodcraft, or woodland creatures, add +1.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.c8bacc17f73d3103]{Face Danger}, @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage}, or @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information} using your knowledge of tracking, woodcraft, or woodland creatures, add +1.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} or @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by hiding or sneaking in the woodlands, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} or @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by hiding or sneaking in the woodlands, add +1 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.30046577bc83f2f0]{Make Camp} in the woodlands, you may roll +wits (instead of +supply). If you do, you and your allies each choose 1 more option on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.30046577bc83f2f0]{Make Camp} in the woodlands, you may roll +wits (instead of +supply). If you do, you and your allies each choose 1 more option on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

@@ -1,7 +1,7 @@
 {
   "_id": "94c38ec6dc7eaf55",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Vaults/Sanctum/Purpose",
       "category": "Starforged/Oracles/Vaults/Sanctum"
     }
@@ -427,7 +427,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

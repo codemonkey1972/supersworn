@@ -10,7 +10,7 @@ export class FirstStartDialog extends FormApplication<FormApplicationOptions> {
 	static get defaultOptions(): FormApplicationOptions {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			title: game.i18n.localize('IRONSWORN.First Start.Welcome'),
-			template: 'systems/foundry-ironsworn/templates/first-start.hbs',
+			template: 'systems/foundry-supersworn/templates/first-start.hbs',
 			id: 'first-start-dialog',
 			resizable: false,
 			classes: ['ironsworn', 'sheet', 'first-start'],
@@ -55,7 +55,7 @@ export class FirstStartDialog extends FormApplication<FormApplicationOptions> {
 
 		// Truths
 		new WorldTruthsDialog().render(true)
-		game.settings.set('foundry-ironsworn', 'prompt-world-truths', false)
+		game.settings.set('foundry-supersworn', 'prompt-world-truths', false)
 		this.close()
 	}
 
@@ -71,7 +71,7 @@ export class FirstStartDialog extends FormApplication<FormApplicationOptions> {
 
 		// Truths
 		new SFSettingTruthsDialogVue().render(true)
-		game.settings.set('foundry-ironsworn', 'prompt-world-truths', false)
+		game.settings.set('foundry-supersworn', 'prompt-world-truths', false)
 		this.close()
 	}
 
@@ -87,7 +87,7 @@ export class FirstStartDialog extends FormApplication<FormApplicationOptions> {
 
 		// TODO: Sundered Isles Truths
 		// new SFSettingTruthsDialogVue().render(true)
-		// game.settings.set('foundry-ironsworn', 'prompt-world-truths', false)
+		// game.settings.set('foundry-supersworn', 'prompt-world-truths', false)
 
 		this.close()
 	}

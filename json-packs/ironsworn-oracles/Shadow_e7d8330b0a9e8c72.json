@@ -1,7 +1,7 @@
 {
   "_id": "e7d8330b0a9e8c72",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Moves/Delve_the_Depths/Shadow",
       "category": "Ironsworn/Oracles/Moves"
     }
@@ -17,7 +17,7 @@
         1,
         30
       ],
-      "text": "Mark progress and @Compendium[foundry-ironsworn.ironswornmoves.06f78b87b9532437]{Reveal a Danger}.",
+      "text": "Mark progress and @Compendium[foundry-supersworn.ironswornmoves.06f78b87b9532437]{Reveal a Danger}.",
       "_id": "3b0100071a19772b",
       "type": 0,
       "documentId": null,
@@ -45,7 +45,7 @@
         66,
         90
       ],
-      "text": "Choose one: Mark progress or @Compendium[foundry-ironsworn.ironswornmoves.4da87fd54eaa1b89]{Find an Opportunity}.",
+      "text": "Choose one: Mark progress or @Compendium[foundry-supersworn.ironswornmoves.4da87fd54eaa1b89]{Find an Opportunity}.",
       "_id": "9f02a210c160b2ce",
       "type": 0,
       "documentId": null,
@@ -59,7 +59,7 @@
         91,
         99
       ],
-      "text": "Take both: Mark progress and @Compendium[foundry-ironsworn.ironswornmoves.4da87fd54eaa1b89]{Find an Opportunity}.",
+      "text": "Take both: Mark progress and @Compendium[foundry-supersworn.ironswornmoves.4da87fd54eaa1b89]{Find an Opportunity}.",
       "_id": "bfa64d0fe08c7f09",
       "type": 0,
       "documentId": null,
@@ -73,7 +73,7 @@
         100,
         100
       ],
-      "text": "Mark progress twice and @Compendium[foundry-ironsworn.ironswornmoves.06f78b87b9532437]{Reveal a Danger}.",
+      "text": "Mark progress twice and @Compendium[foundry-supersworn.ironswornmoves.06f78b87b9532437]{Reveal a Danger}.",
       "_id": "33d9accfb23130e2",
       "type": 0,
       "documentId": null,
@@ -91,7 +91,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

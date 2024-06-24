@@ -14,7 +14,7 @@
         ],
         "text": "Mystic focus or conduit",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Strange environmental disturbances",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Mystic runes or markings",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Blight or decay",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Evidence of a foul ritual",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -81,7 +81,7 @@
         ],
         "text": "Denizen spawned from dark magic",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -94,7 +94,7 @@
         ],
         "text": "Denizen controls dark magic",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -107,7 +107,7 @@
         ],
         "text": "Denizen corrupted by dark magic",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -120,7 +120,7 @@
         ],
         "text": "Corruption marks you",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -133,7 +133,7 @@
         ],
         "text": "Innocents held in thrall",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -146,7 +146,7 @@
         ],
         "text": "Revelations of a terrible truth",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -159,7 +159,7 @@
         ],
         "text": "Mystic trap or trigger",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Mystic barrier or ward",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Illusions lead you astray",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Dark ritual in progress",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Lingering effects of a dark ritual",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Dread harbingers of a greater magic",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "pKCYCvdI2WjjKsjY"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027047963,

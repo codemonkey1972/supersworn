@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Adventure",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you treat an injury or ailment**, roll +wits. If you are mending your own wounds, roll +wits or +iron, whichever is lower.\n\nOn a **strong hit**, your care is helpful. If you (or the ally under your care) have the wounded condition, you may clear it. Then, take or give up to +2 health.\n\nOn a **weak hit**, as above, but you must suffer -1 supply or -1 momentum (your choice).\n\nOn a **miss**, your aid is ineffective. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+    "Text": "When **you treat an injury or ailment**, roll +wits. If you are mending your own wounds, roll +wits or +iron, whichever is lower.\n\nOn a **strong hit**, your care is helpful. If you (or the ally under your care) have the wounded condition, you may clear it. Then, take or give up to +2 health.\n\nOn a **weak hit**, as above, but you must suffer -1 supply or -1 momentum (your choice).\n\nOn a **miss**, your aid is ineffective. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
     "Trigger": {
       "Text": "When you treat an injury or ailment...",
       "Options": [
@@ -51,7 +51,7 @@
         }
       },
       "Miss": {
-        "Text": "Your aid is ineffective. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "Your aid is ineffective. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -85,7 +85,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

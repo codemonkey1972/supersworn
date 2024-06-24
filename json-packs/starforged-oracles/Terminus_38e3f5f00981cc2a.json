@@ -1,7 +1,7 @@
 {
   "_id": "38e3f5f00981cc2a",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Starships/Mission/Terminus",
       "category": "Starforged/Oracles/Starships"
     }
@@ -469,7 +469,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

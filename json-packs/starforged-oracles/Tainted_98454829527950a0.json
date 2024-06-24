@@ -5,7 +5,7 @@
   "description": "A foul planet wracked by a poisonous climate and virulent growths.",
   "sort": 317,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Tainted"
     }
   },

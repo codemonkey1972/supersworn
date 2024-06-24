@@ -23,14 +23,14 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you make the @Compendium[foundry-ironsworn.starforgedmoves.d34cdf2408cd22b6]{Companion Takes a Hit} move for the rockhorn, count a weak hit as a strong hit. On a strong hit with a match, its rapid healing makes it unstoppable; give it another +1 health or take +1 momentum.</p>",
+        "description": "<p>When you make the @Compendium[foundry-supersworn.starforgedmoves.d34cdf2408cd22b6]{Companion Takes a Hit} move for the rockhorn, count a weak hit as a strong hit. On a strong hit with a match, its rapid healing makes it unstoppable; give it another +1 health or take +1 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>The rockhorn will come to your aid in your most vulnerable moments. When you @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-ironsworn.starforgedmoves.ff32c523829d6481]{Endure Stress} and score a miss, you may reroll your action die if its value is less than the rockhorn’s health.</p>",
+        "description": "<p>The rockhorn will come to your aid in your most vulnerable moments. When you @Compendium[foundry-supersworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-supersworn.starforgedmoves.ff32c523829d6481]{Endure Stress} and score a miss, you may reroll your action die if its value is less than the rockhorn’s health.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

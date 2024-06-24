@@ -5,7 +5,7 @@
   "description": "A planet sundered by cataclysmic destruction.",
   "sort": 316,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Shattered"
     }
   },

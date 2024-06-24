@@ -117,7 +117,7 @@ declare global {
 	interface FlagConfig {
 		Actor: {
 			core: { sheetClass: string }
-			'foundry-ironsworn'?: { muteBroadcast?: boolean; 'edit-mode'?: boolean }
+			'foundry-supersworn'?: { muteBroadcast?: boolean; 'edit-mode'?: boolean }
 		}
 	}
 }

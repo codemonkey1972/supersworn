@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.92b85c33a17ab487]{Face Death} or @Compendium[foundry-ironsworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation} while your epic background vow is unfulfilled, it is not yet your time. Instead of rolling, you may take an automatic strong hit. If you do, this asset counts as a debility (and you no longer have this protection) until you next @Compendium[foundry-ironsworn.ironswornmoves.c3696751a921323b]{Reach a Milestone} on the background vow.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.92b85c33a17ab487]{Face Death} or @Compendium[foundry-supersworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation} while your epic background vow is unfulfilled, it is not yet your time. Instead of rolling, you may take an automatic strong hit. If you do, this asset counts as a debility (and you no longer have this protection) until you next @Compendium[foundry-supersworn.ironswornmoves.c3696751a921323b]{Reach a Milestone} on the background vow.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.c3696751a921323b]{Reach a Milestone} on your background vow, take +2 momentum or +1 spirit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.c3696751a921323b]{Reach a Milestone} on your background vow, take +2 momentum or +1 spirit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>For every two boxes filled on your background vow progress track, take 1 experience. When you @Compendium[foundry-ironsworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow}, your fate is at hand. Envision your final sacrifice and reroll any dice.</p>",
+        "description": "<p>For every two boxes filled on your background vow progress track, take 1 experience. When you @Compendium[foundry-supersworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow}, your fate is at hand. Envision your final sacrifice and reroll any dice.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

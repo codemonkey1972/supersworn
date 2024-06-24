@@ -14,7 +14,7 @@
         ],
         "text": "Inhabited nest",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Abandoned nest",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Ravaged terrain or architecture",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Remains or carrion",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Hoarded food",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -81,7 +81,7 @@
         ],
         "text": "Denizens swarm and attack",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -94,7 +94,7 @@
         ],
         "text": "Toxic or sickening environment",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -107,7 +107,7 @@
         ],
         "text": "Denizen stalks you",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -120,7 +120,7 @@
         ],
         "text": "Denizen takes or destroys something",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -133,7 +133,7 @@
         ],
         "text": "Denizen reveals surprising cleverness",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -146,7 +146,7 @@
         ],
         "text": "Denizen guided by a greater threat",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -159,7 +159,7 @@
         ],
         "text": "Denizen blocks the path",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Denizen funnels you down a new path",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Denizen undermines the path",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Denizen lays in wait",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Trap or snare",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Victim’s horrible fate is revealed",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "H5aJvBKwPrbEnzMe"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027047964,

@@ -16,21 +16,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>Your armed, multipurpose starship is suited for interstellar and atmospheric flight. It can comfortably transport several people, has space for cargo, and can carry and launch support vehicles. When you @Compendium[foundry-ironsworn.starforgedmoves.d602da2ce0c05f2c]{Advance}, you may spend experience to equip this vehicle with module assets.</p>",
+        "description": "<p>Your armed, multipurpose starship is suited for interstellar and atmospheric flight. It can comfortably transport several people, has space for cargo, and can carry and launch support vehicles. When you @Compendium[foundry-supersworn.starforgedmoves.d602da2ce0c05f2c]{Advance}, you may spend experience to equip this vehicle with module assets.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.edac426b7c23f060]{Finish an Expedition} (dangerous or greater) in your starship and score a hit, this journey strengthened your ties to your ship and any fellow travelers. You and your allies may mark 1 tick on your bonds legacy track.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.edac426b7c23f060]{Finish an Expedition} (dangerous or greater) in your starship and score a hit, this journey strengthened your ties to your ship and any fellow travelers. You and your allies may mark 1 tick on your bonds legacy track.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.3782f1b3c8ca8b88]{Withstand Damage}, you may roll +heart. If you do, @Compendium[foundry-ironsworn.starforgedmoves.ff32c523829d6481]{Endure Stress} (-1) on a weak hit or miss.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.3782f1b3c8ca8b88]{Withstand Damage}, you may roll +heart. If you do, @Compendium[foundry-supersworn.starforgedmoves.ff32c523829d6481]{Endure Stress} (-1) on a weak hit or miss.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -66,7 +66,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

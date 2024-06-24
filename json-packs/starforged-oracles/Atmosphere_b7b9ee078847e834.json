@@ -1,7 +1,7 @@
 {
   "_id": "b7b9ee078847e834",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Furnace/Atmosphere",
       "category": "Starforged/Oracles/Planets/Furnace"
     }
@@ -91,7 +91,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

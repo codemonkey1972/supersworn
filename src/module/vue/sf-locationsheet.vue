@@ -168,7 +168,7 @@ const $actor = inject($ActorKey)
 const sceneId = game.user?.viewedScene
 const scene = game.scenes?.get(sceneId ?? '')
 const region =
-	(scene?.getFlag('foundry-ironsworn', 'region') as string) || 'terminus'
+	(scene?.getFlag('foundry-supersworn', 'region') as string) || 'terminus'
 const state = reactive({
 	region,
 	firstLookHighlight: false
@@ -178,22 +178,22 @@ function randomImage(subtype, klass): string | void {
 	if (subtype === 'planet') {
 		const name = klass.capitalize()
 		const i = Math.floor(Math.random() * 2) + 1
-		return `systems/foundry-ironsworn/assets/planets/Starforged-Planet-Token-${name}-0${i}.webp`
+		return `systems/foundry-supersworn/assets/planets/Starforged-Planet-Token-${name}-0${i}.webp`
 	}
 	if (subtype === 'settlement') {
-		return `systems/foundry-ironsworn/assets/locations/settlement-${klass.replace(
+		return `systems/foundry-supersworn/assets/locations/settlement-${klass.replace(
 			/\s+/,
 			''
 		)}.webp`
 	}
 	if (subtype === 'derelict') {
-		return `systems/foundry-ironsworn/assets/locations/derelict-${klass.replace(
+		return `systems/foundry-supersworn/assets/locations/derelict-${klass.replace(
 			/\s+/,
 			''
 		)}.webp`
 	}
 	if (subtype === 'vault') {
-		return `systems/foundry-ironsworn/assets/locations/vault-${klass.replace(
+		return `systems/foundry-supersworn/assets/locations/vault-${klass.replace(
 			/\s+/,
 			''
 		)}.webp`
@@ -549,7 +549,7 @@ function regionChanged(evt) {
 	const sceneId = game.user?.viewedScene
 	const scene = game.scenes?.get(sceneId ?? '')
 	const newValue = evt.target.value
-	scene?.setFlag('foundry-ironsworn', 'region', newValue)
+	scene?.setFlag('foundry-supersworn', 'region', newValue)
 }
 function subtypeChanged(evt) {
 	saveSubtype(evt.target.value)

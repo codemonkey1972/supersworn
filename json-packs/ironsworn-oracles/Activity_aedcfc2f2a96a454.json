@@ -1,7 +1,7 @@
 {
   "_id": "aedcfc2f2a96a454",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Character/Activity",
       "category": "Ironsworn/Oracles/Character"
     }
@@ -721,7 +721,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

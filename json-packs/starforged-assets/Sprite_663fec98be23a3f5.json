@@ -23,7 +23,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>You are attuned to the resonance of the sprite's crystalline structure, and can communicate with it at a distance and perceive through its senses. When you @Compendium[foundry-ironsworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} by observing a situation from its perspective, or remotely @Compendium[foundry-ironsworn.starforgedmoves.13b2d777c6fb719d]{Gather Information}, add +its health.</p>",
+        "description": "<p>You are attuned to the resonance of the sprite's crystalline structure, and can communicate with it at a distance and perceive through its senses. When you @Compendium[foundry-supersworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} by observing a situation from its perspective, or remotely @Compendium[foundry-supersworn.starforgedmoves.13b2d777c6fb719d]{Gather Information}, add +its health.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

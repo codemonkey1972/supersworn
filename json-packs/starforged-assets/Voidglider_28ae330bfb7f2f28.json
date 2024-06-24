@@ -16,7 +16,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>Your voidglider companion cruises in your starship’s energy wake and can help guide the way on spaceborne journeys. When you @Compendium[foundry-ironsworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition}, add +1.</p>",
+        "description": "<p>Your voidglider companion cruises in your starship’s energy wake and can help guide the way on spaceborne journeys. When you @Compendium[foundry-supersworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition}, add +1.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

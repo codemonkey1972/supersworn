@@ -33,7 +33,7 @@ const props = withDefaults(defineProps<Props>(), {
 const typeLabel = computed<string>(() => {
 	const type =
 		(props.document as any).type ??
-		props.document.getFlag('foundry-ironsworn', 'type')
+		props.document.getFlag('foundry-supersworn', 'type')
 	const docConfig = CONFIG[(props.document as any).documentName]
 	if ('typeLabels' in docConfig)
 		return game.i18n.localize(docConfig.typeLabels?.[type])

@@ -1,7 +1,7 @@
 {
   "name": "Artificial Intelligence",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Setting_Truths/Artificial_Intelligence",
       "type": "truth-category"
     }
@@ -63,7 +63,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022453,
@@ -108,7 +108,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022461,
@@ -153,7 +153,7 @@
       },
       "flags": {},
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022469,
@@ -171,7 +171,7 @@
         "content": "<p>If you are accompanied by machine intelligence, you might have a companion such as a COMBAT BOT, PROTOCOL BOT, SURVEY BOT, or UTILITY BOT. If your ship has an AI, you might have the OVERSEER module. If AI in your campaign is rare or unavailable, these units will operate using very basic machine intelligence. If AI is common and advanced, they may have their own sentient personalities.</p>"
       },
       "flags": {
-        "foundry-ironsworn": {
+        "foundry-supersworn": {
           "assets": [
             "Starforged/Assets/Companion/Combat_Bot",
             "Starforged/Assets/Companion/Protocol_Bot",
@@ -199,7 +199,7 @@
         "oPggPZM6rWjfN0q2": 3
       },
       "_stats": {
-        "systemId": "foundry-ironsworn",
+        "systemId": "foundry-supersworn",
         "systemVersion": "1.22.4",
         "coreVersion": "11.309",
         "createdTime": 1695949022473,
@@ -216,7 +216,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949022442,

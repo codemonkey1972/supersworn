@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>You are the bearer of a mystical archive. When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} or @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information} using lore recalled from your studies, add +1. If you have a few hours to search the archive, add +2. On a hit, envision the obscure but helpful knowledge you put to use (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +1 momentum.</p>",
+        "description": "<p>You are the bearer of a mystical archive. When you @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} or @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information} using lore recalled from your studies, add +1. If you have a few hours to search the archive, add +2. On a hit, envision the obscure but helpful knowledge you put to use (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and take +1 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you learn of a site or object holding lost knowledge, and @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to recover it for the archive, reroll any dice. When you @Compendium[foundry-ironsworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience.</p>",
+        "description": "<p>When you learn of a site or object holding lost knowledge, and @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to recover it for the archive, reroll any dice. When you @Compendium[foundry-supersworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} and mark experience, take +1 experience.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>One time only, you may browse the archive’s forbidden depths. If you do, raise your wits by 1 and roll an action die. On 1-3, you must also mark corrupted or @Compendium[foundry-ironsworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation} (ignoring momentum).</p>",
+        "description": "<p>One time only, you may browse the archive’s forbidden depths. If you do, raise your wits by 1 and roll an action die. On 1-3, you must also mark corrupted or @Compendium[foundry-supersworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation} (ignoring momentum).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

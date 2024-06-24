@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Combat",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you are in a bad spot and take action in a fight to avoid danger or overcome an obstacle**, envision your approach and roll. If you are...\n\n  * In pursuit, fleeing, dodging, getting back into position, or taking cover: Roll +edge\n  * Remaining stalwart against fear or temptation: Roll +heart\n  * Blocking or diverting with force, or taking the hit: Roll +iron\n  * Moving into hiding or creating a distraction: Roll +shadow\n  * Changing the plan, finding a way out, or cleverly bypassing an obstacle: Roll +wits\n\nOn a **strong hit**, you succeed and are in control. Take +1 momentum.\n\nOn a **weak hit**, you avoid the worst of the danger or overcome the obstacle, but not without a cost. Make a suffer move (-1). You stay in a bad spot.\n\nOn a **miss**, the situation worsens. You stay in a bad spot and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you are in a bad spot and take action in a fight to avoid danger or overcome an obstacle**, envision your approach and roll. If you are...\n\n  * In pursuit, fleeing, dodging, getting back into position, or taking cover: Roll +edge\n  * Remaining stalwart against fear or temptation: Roll +heart\n  * Blocking or diverting with force, or taking the hit: Roll +iron\n  * Moving into hiding or creating a distraction: Roll +shadow\n  * Changing the plan, finding a way out, or cleverly bypassing an obstacle: Roll +wits\n\nOn a **strong hit**, you succeed and are in control. Take +1 momentum.\n\nOn a **weak hit**, you avoid the worst of the danger or overcome the obstacle, but not without a cost. Make a suffer move (-1). You stay in a bad spot.\n\nOn a **miss**, the situation worsens. You stay in a bad spot and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you are in a bad spot and take action in a fight to avoid danger or overcome an obstacle...",
       "Options": [
@@ -74,7 +74,7 @@
         }
       },
       "Miss": {
-        "Text": "The situation worsens. You stay in a bad spot and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "The situation worsens. You stay in a bad spot and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -110,7 +110,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

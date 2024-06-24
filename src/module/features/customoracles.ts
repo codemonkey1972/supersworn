@@ -51,14 +51,14 @@ async function createOracleTree(
 
 async function createIronswornOracleTree(): Promise<IOracleTreeNode> {
 	return await createOracleTree(
-		'foundry-ironsworn.ironswornoracles',
+		'foundry-supersworn.ironswornoracles',
 		ISOracleCategories
 	)
 }
 
 async function createStarforgedOracleTree(): Promise<IOracleTreeNode> {
 	return await createOracleTree(
-		'foundry-ironsworn.starforgedoracles',
+		'foundry-supersworn.starforgedoracles',
 		SFOracleCategories
 	)
 }

@@ -18,14 +18,14 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.13b2d777c6fb719d]{Gather Information} by studying or disassembling a machine or device, reroll any dice. On a match, you reveal an unexpected function, capability, or danger; mark 1 tick on your discoveries legacy track.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.13b2d777c6fb719d]{Gather Information} by studying or disassembling a machine or device, reroll any dice. On a match, you reveal an unexpected function, capability, or danger; mark 1 tick on your discoveries legacy track.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>With sufficient time (a couple of hours or more), you may @Compendium[foundry-ironsworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} to assemble or enhance a device for a powerful but limited role. On a hit, the device is ready for use. One time only, when you or an ally make a move aided by the device, take an automatic strong hit. If you are in a fight, also mark progress.</p>",
+        "description": "<p>With sufficient time (a couple of hours or more), you may @Compendium[foundry-supersworn.starforgedmoves.a2d7793b23c17489]{Secure an Advantage} to assemble or enhance a device for a powerful but limited role. On a hit, the device is ready for use. One time only, when you or an ally make a move aided by the device, take an automatic strong hit. If you are in a fight, also mark progress.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

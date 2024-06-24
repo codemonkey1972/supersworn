@@ -16,21 +16,21 @@
     "abilities": [
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey} and score a hit, you may suffer -1 supply in exchange for +2 momentum.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.ac19f4c7f3fe31be]{Undertake a Journey} and score a hit, you may suffer -1 supply in exchange for +2 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you make the @Compendium[foundry-ironsworn.ironswornmoves.5042c9574d4faf61]{Companion Endure Harm} move for your wyvern, add +2 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you make the @Compendium[foundry-supersworn.ironswornmoves.5042c9574d4faf61]{Companion Endure Harm} move for your wyvern, add +2 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} by commanding your wyvern to attack, roll +heart. Your wyvern inflicts 3 harm on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.5288e935906f6d28]{Strike} by commanding your wyvern to attack, roll +heart. Your wyvern inflicts 3 harm on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

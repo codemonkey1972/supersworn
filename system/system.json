@@ -1,12 +1,12 @@
 {
-  "id": "foundry-ironsworn",
+  "id": "foundry-supersworn",
   "title": "Ironsworn & Starforged",
   "description": "An implementation of the Ironsworn and Starforged systems, by Shawn Tomkin.",
   "license": "LICENSE.txt",
   "version": "1.23.5",
-  "url": "https://github.com/ben/foundry-ironsworn",
-  "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
-  "download": "https://github.com/ben/foundry-ironsworn/releases/download/1.23.5/ironsworn.zip",
+  "url": "https://github.com/ben/foundry-supersworn",
+  "manifest": "https://github.com/ben/foundry-supersworn/releases/latest/download/system.json",
+  "download": "https://github.com/ben/foundry-supersworn/releases/download/1.23.5/ironsworn.zip",
   "compatibility": {
     "minimum": 11,
     "verified": 12
@@ -134,119 +134,119 @@
     {
       "name": "foeactorsis",
       "label": "Ironsworn Foe Actors",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/foe-actors-is",
       "type": "Actor"
     },
     {
       "name": "foeactorssf",
       "label": "Starforged Foe Actors",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/foe-actors-sf",
       "type": "Actor"
     },
     {
       "name": "ironswornoracles",
       "label": "Ironsworn Oracles",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/ironsworn-oracles",
       "type": "RollTable"
     },
     {
       "name": "ironswornmoves",
       "label": "Ironsworn Moves",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/ironsworn-moves",
       "type": "Item"
     },
     {
       "name": "ironswornassets",
       "label": "Ironsworn Assets",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/assets",
       "type": "Item"
     },
     {
       "name": "ironsworndelvethemes",
       "label": "Ironsworn Delve Themes",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/delve-themes",
       "type": "Item"
     },
     {
       "name": "ironsworndelvedomains",
       "label": "Ironsworn Delve Domains",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/delve-domains",
       "type": "Item"
     },
     {
       "name": "ironswornfoes",
       "label": "Ironsworn Foes",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/foes",
       "type": "Item"
     },
     {
       "name": "ironswornscenes",
       "label": "Ironsworn Maps",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/scenes",
       "type": "Scene"
     },
     {
       "name": "starforged-sectors",
       "label": "Starforged Scenes",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/starforged-sectors",
       "type": "Scene"
     },
     {
       "name": "sundered-isles-charts",
       "label": "Sundered Isles Charts",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/sundered-isles-charts",
       "type": "Scene"
     },
     {
       "name": "starforgedassets",
       "label": "Starforged Assets",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/starforged-assets",
       "type": "Item"
     },
     {
       "name": "starforgedencounters",
       "label": "Starforged Encounters",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/starforged-encounters",
       "type": "Item"
     },
     {
       "name": "starforgedmoves",
       "label": "Starforged Moves",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/starforged-moves",
       "type": "Item"
     },
     {
       "name": "starforgedoracles",
       "label": "Starforged Oracles",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/starforged-oracles",
       "type": "RollTable"
     },
     {
       "name": "starforgedtruths",
       "label": "Starforged Setting Truths",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/starforged-truths",
       "type": "JournalEntry"
     },
     {
       "name": "macros",
       "label": "Ironsworn Macros",
-      "system": "foundry-ironsworn",
+      "system": "foundry-supersworn",
       "path": "packs/macros",
       "type": "Macro"
     }

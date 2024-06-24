@@ -112,7 +112,7 @@ declare global {
 	}
 	interface FlagConfig {
 		JournalEntryPage: {
-			'foundry-ironsworn'?: {
+			'foundry-supersworn'?: {
 				assets?: string[]
 			}
 		}

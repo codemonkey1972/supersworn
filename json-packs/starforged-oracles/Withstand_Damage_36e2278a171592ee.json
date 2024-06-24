@@ -1,7 +1,7 @@
 {
   "_id": "36e2278a171592ee",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Moves/Withstand_Damage",
       "category": "Starforged/Oracles/Moves"
     }
@@ -17,7 +17,7 @@
         1,
         10
       ],
-      "text": "Immediate catastrophic destruction. All aboard must @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-ironsworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}, as appropriate.",
+      "text": "Immediate catastrophic destruction. All aboard must @Compendium[foundry-supersworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-supersworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death}, as appropriate.",
       "_id": "9dd86e2e5fef9cb7",
       "type": 0,
       "documentId": null,
@@ -31,7 +31,7 @@
         11,
         25
       ],
-      "text": "Destruction is imminent and unavoidable. If you do not have the means or intention to get clear, @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-ironsworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death} as appropriate.",
+      "text": "Destruction is imminent and unavoidable. If you do not have the means or intention to get clear, @Compendium[foundry-supersworn.starforgedmoves.905205c073b09eac]{Endure Harm} or @Compendium[foundry-supersworn.starforgedmoves.0cfcd6fbaf6135d0]{Face Death} as appropriate.",
       "_id": "86ce554826d4296f",
       "type": 0,
       "documentId": null,
@@ -45,7 +45,7 @@
         26,
         40
       ],
-      "text": "Destruction is imminent, but can be averted if you @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} your vehicle and raise its integrity above 0. If you fail, see 11-25.",
+      "text": "Destruction is imminent, but can be averted if you @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Repair} your vehicle and raise its integrity above 0. If you fail, see 11-25.",
       "_id": "d0b3a7f29fbd499d",
       "type": 0,
       "documentId": null,
@@ -59,7 +59,7 @@
         41,
         55
       ],
-      "text": "You cannot @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} this vehicle until you @Compendium[foundry-ironsworn.starforgedmoves.703964b8d02355b8]{Resupply} and obtain a crucial replacement part. If you roll this result again prior to that, see 11-25.",
+      "text": "You cannot @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Repair} this vehicle until you @Compendium[foundry-supersworn.starforgedmoves.703964b8d02355b8]{Resupply} and obtain a crucial replacement part. If you roll this result again prior to that, see 11-25.",
       "_id": "a8915acfa1816838",
       "type": 0,
       "documentId": null,
@@ -73,7 +73,7 @@
         56,
         70
       ],
-      "text": "The vehicle is crippled or out of your control. To get it back in action, you must @Compendium[foundry-ironsworn.starforgedmoves.eece9a67d1961f70]{Repair} and raise its integrity above 0.",
+      "text": "The vehicle is crippled or out of your control. To get it back in action, you must @Compendium[foundry-supersworn.starforgedmoves.eece9a67d1961f70]{Repair} and raise its integrity above 0.",
       "_id": "dbba948278bce128",
       "type": 0,
       "documentId": null,
@@ -87,7 +87,7 @@
         71,
         85
       ],
-      "text": "It's a rough ride. All aboard must make the @Compendium[foundry-ironsworn.starforgedmoves.905205c073b09eac]{Endure Harm}, @Compendium[foundry-ironsworn.starforgedmoves.ff32c523829d6481]{Endure Stress}, or @Compendium[foundry-ironsworn.starforgedmoves.d34cdf2408cd22b6]{Companion Takes a Hit} move, suffering a serious (-2) cost.",
+      "text": "It's a rough ride. All aboard must make the @Compendium[foundry-supersworn.starforgedmoves.905205c073b09eac]{Endure Harm}, @Compendium[foundry-supersworn.starforgedmoves.ff32c523829d6481]{Endure Stress}, or @Compendium[foundry-supersworn.starforgedmoves.d34cdf2408cd22b6]{Companion Takes a Hit} move, suffering a serious (-2) cost.",
       "_id": "b19323863ca9d314",
       "type": 0,
       "documentId": null,
@@ -101,7 +101,7 @@
         86,
         95
       ],
-      "text": "You’ve lost fuel, energy, or cargo. @Compendium[foundry-ironsworn.starforgedmoves.0fcfea7696d1de15]{Sacrifice Resources} (-2).",
+      "text": "You’ve lost fuel, energy, or cargo. @Compendium[foundry-supersworn.starforgedmoves.0fcfea7696d1de15]{Sacrifice Resources} (-2).",
       "_id": "88be0449096d6f79",
       "type": 0,
       "documentId": null,
@@ -133,7 +133,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

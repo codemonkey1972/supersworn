@@ -39,17 +39,17 @@ provide(
 )
 
 const expanded = computed(() => {
-	return props.asset?.flags['foundry-ironsworn']?.expanded || false
+	return props.asset?.flags['foundry-supersworn']?.expanded || false
 })
 const editMode = computed(() => {
-	return actor.value.flags['foundry-ironsworn']?.['edit-mode']
+	return actor.value.flags['foundry-supersworn']?.['edit-mode']
 })
 
 function toggle() {
 	$asset?.setFlag(
-		'foundry-ironsworn',
+		'foundry-supersworn',
 		'expanded',
-		!props.asset?.flags['foundry-ironsworn']?.expanded
+		!props.asset?.flags['foundry-supersworn']?.expanded
 	)
 }
 function edit() {

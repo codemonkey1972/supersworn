@@ -14,7 +14,7 @@
         ],
         "text": "Connecting passageways",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Barracks or common quarters",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Large hall",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Workshop or library",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Command center or leadership",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Ladder or stairwell",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Storage",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Kitchen or larder",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Courtyard",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Blocked or guarded path",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Caught in the open",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Chokepoint",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Trap",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Alarm trigger",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Yy9KkvSOvB2tWxOp"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

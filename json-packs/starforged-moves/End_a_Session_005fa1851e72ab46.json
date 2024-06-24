@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Session",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you end a significant session or chapter of play**, reflect on the events of the game and identify any missed opportunities to mark progress.\n\n  * If you strengthened your ties to a connection, @Compendium[foundry-ironsworn.starforgedmoves.141aec8b92efd14b]{Develop Your Relationship}.\n  * If you moved forward on a quest, @Compendium[foundry-ironsworn.starforgedmoves.0d7f13818c1c19ed]{Reach a Milestone}.\n\nIf there is a quest, connection, or other situation you would like to give focus in your next session, make note of it and take +1 momentum.",
+    "Text": "**When you end a significant session or chapter of play**, reflect on the events of the game and identify any missed opportunities to mark progress.\n\n  * If you strengthened your ties to a connection, @Compendium[foundry-supersworn.starforgedmoves.141aec8b92efd14b]{Develop Your Relationship}.\n  * If you moved forward on a quest, @Compendium[foundry-supersworn.starforgedmoves.0d7f13818c1c19ed]{Reach a Milestone}.\n\nIf there is a quest, connection, or other situation you would like to give focus in your next session, make note of it and take +1 momentum.",
     "Trigger": {
       "Text": "When you end a significant session or chapter of play...",
       "Options": []
@@ -69,7 +69,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

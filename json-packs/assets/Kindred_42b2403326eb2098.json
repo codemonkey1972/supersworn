@@ -23,14 +23,14 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} or @Compendium[foundry-ironsworn.ironswornmoves.412156232a6d42bf]{Battle} alongside your companion, or when you @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} against an attack by standing together, add +1.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.7e008d0f656dc8b3]{Clash} or @Compendium[foundry-supersworn.ironswornmoves.412156232a6d42bf]{Battle} alongside your companion, or when you @Compendium[foundry-supersworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} against an attack by standing together, add +1.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>Once you mark a bond with your companion, add +1 when you @Compendium[foundry-ironsworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation} in their presence.</p>",
+        "description": "<p>Once you mark a bond with your companion, add +1 when you @Compendium[foundry-supersworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation} in their presence.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -57,7 +57,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

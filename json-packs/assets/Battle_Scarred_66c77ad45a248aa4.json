@@ -18,14 +18,14 @@
       },
       {
         "enabled": false,
-        "description": "<p>You overcome your limitations: Reduce your maximum health by 1. Maimed no longer counts as a debility, and does not reduce your maximum momentum or reset value. When you @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress} +heart, take +1 momentum on a strong hit.</p>",
+        "description": "<p>You overcome your limitations: Reduce your maximum health by 1. Maimed no longer counts as a debility, and does not reduce your maximum momentum or reset value. When you @Compendium[foundry-supersworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress} +heart, take +1 momentum on a strong hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>You have stared down death before: When you are at 0 health and @Compendium[foundry-ironsworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm}, you may roll +wits or +heart (instead of +health or +iron). If you do, take +1 momentum on a hit.</p>",
+        "description": "<p>You have stared down death before: When you are at 0 health and @Compendium[foundry-supersworn.ironswornmoves.fdb51ee928b4fca2]{Endure Harm}, you may roll +wits or +heart (instead of +health or +iron). If you do, take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

@@ -1,7 +1,7 @@
 {
   "_id": "ff2d8060b079cee0",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Combat_Event/Method",
       "category": "Ironsworn/Oracles/Combat_Event"
     }
@@ -721,7 +721,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

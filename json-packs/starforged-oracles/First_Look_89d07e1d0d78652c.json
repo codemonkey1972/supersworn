@@ -1,7 +1,7 @@
 {
   "_id": "89d07e1d0d78652c",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Vaults/Interior/First_Look",
       "category": "Starforged/Oracles/Vaults/Interior"
     }
@@ -469,7 +469,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

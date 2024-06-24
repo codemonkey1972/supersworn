@@ -1,7 +1,7 @@
 {
   "_id": "68efb47a93ee8925",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Settlements/Location",
       "category": "Starforged/Oracles/Settlements"
     }
@@ -63,7 +63,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

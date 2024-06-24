@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} by holding a foe at bay using your spear’s reach, roll +iron or +edge. If you score a hit, you may…</p>\n<ul>\n<li>Iron: @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} (if you have initiative) or @Compendium[foundry-ironsworn.ironswornmoves.7e008d0f656dc8b3]{Clash} now, and add +1.</li>\n<li>Edge: Take +1 momentum.</li>\n</ul>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} by holding a foe at bay using your spear’s reach, roll +iron or +edge. If you score a hit, you may…</p>\n<ul>\n<li>Iron: @Compendium[foundry-supersworn.ironswornmoves.5288e935906f6d28]{Strike} (if you have initiative) or @Compendium[foundry-supersworn.ironswornmoves.7e008d0f656dc8b3]{Clash} now, and add +1.</li>\n<li>Edge: Take +1 momentum.</li>\n</ul>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.5288e935906f6d28]{Strike} in close combat, you may attempt to drive your spear home (decide before rolling). If you do, add +1 and inflict +2 harm on a hit. If you score a hit and the fight continues, @Compendium[foundry-ironsworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} +iron to recover your spear.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.5288e935906f6d28]{Strike} in close combat, you may attempt to drive your spear home (decide before rolling). If you do, add +1 and inflict +2 harm on a hit. If you score a hit and the fight continues, @Compendium[foundry-supersworn.ironswornmoves.c8bacc17f73d3103]{Face Danger} +iron to recover your spear.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by bracing your spear against a charging foe, add +1 and take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by bracing your spear against a charging foe, add +1 and take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

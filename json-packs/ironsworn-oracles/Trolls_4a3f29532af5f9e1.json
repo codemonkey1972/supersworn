@@ -1,7 +1,7 @@
 {
   "_id": "4a3f29532af5f9e1",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Name/Other/Trolls",
       "category": "Ironsworn/Oracles/Name"
     }
@@ -371,7 +371,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

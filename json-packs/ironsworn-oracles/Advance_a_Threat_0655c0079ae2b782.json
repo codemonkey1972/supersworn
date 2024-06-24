@@ -1,7 +1,7 @@
 {
   "_id": "0655c0079ae2b782",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Moves/Advance_a_Threat",
       "category": "Ironsworn/Oracles/Moves"
     }
@@ -17,7 +17,7 @@
         1,
         30
       ],
-      "text": "The threat readies its next step, or a new danger looms. If you are in a position to prevent this development, you may attempt to do so. If you succeed, @Compendium[foundry-ironsworn.ironswornmoves.c3696751a921323b]{Reach a Milestone}. Otherwise, mark menace.",
+      "text": "The threat readies its next step, or a new danger looms. If you are in a position to prevent this development, you may attempt to do so. If you succeed, @Compendium[foundry-supersworn.ironswornmoves.c3696751a921323b]{Reach a Milestone}. Otherwise, mark menace.",
       "_id": "a5994c88f3232851",
       "type": 0,
       "documentId": null,
@@ -63,7 +63,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

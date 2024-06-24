@@ -12,7 +12,7 @@ export class IronswornJournalEntry extends JournalEntry {
 			formula: '1d100',
 			results,
 			flags: {
-				'foundry-ironsworn': {
+				'foundry-supersworn': {
 					sourceId: this.uuid,
 					type: 'truth-options',
 					subtitle: game.i18n.localize('IRONSWORN.First Start.SettingTruths')

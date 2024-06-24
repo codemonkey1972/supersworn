@@ -14,7 +14,7 @@
         ],
         "text": "Crumbling corridors and chambers",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Collapsed architecture",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Rubble-choked hall",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Courtyard",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Archive or library",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Broken statuary or fading murals",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Preserved vault",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Temple to forgotten gods",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Mausoleum",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Ancient mechanism or trap",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Collapsing wall or ceiling",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Blocked or broken passage",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Unstable floor above a new danger",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Ancient secrets best left buried",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "lkqTLuiB3g9dD7ed"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

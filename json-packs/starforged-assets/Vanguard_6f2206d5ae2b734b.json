@@ -11,7 +11,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>When you seek a safe location in a remote environment, make a progress roll against your discoveries legacy track. On a strong hit, you establish a haven; add +2 whenever you make a recovery move at that location. On a weak hit, as above, but add +1 when making a recovery move. On a miss, you are drawn into a bad situation and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. If you establish a haven but score a miss on a recovery move, that location is no longer safe.</p>",
+        "description": "<p>When you seek a safe location in a remote environment, make a progress roll against your discoveries legacy track. On a strong hit, you establish a haven; add +2 whenever you make a recovery move at that location. On a weak hit, as above, but add +1 when making a recovery move. On a miss, you are drawn into a bad situation and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. If you establish a haven but score a miss on a recovery move, that location is no longer safe.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -25,7 +25,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.ff32c523829d6481]{Endure Stress}, you may roll +wits. If you do, take +1 momentum on a hit.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.ff32c523829d6481]{Endure Stress}, you may roll +wits. If you do, take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

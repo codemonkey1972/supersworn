@@ -6,14 +6,14 @@
   "description": "The Forge is a vast, chaotic, and largely unexplored galaxy. Your sworn vows will take you through uncharted space, across the surface of inhospitable planets, and into the depths of foreboding derelicts, enigmatic alien vaults, and other perilous sites.\n\nWill you survive these expeditions? What will they cost you? What wonders and horrors will you face? Use the **exploration moves** to find out.",
   "sort": 168,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Moves/Exploration"
     }
   },
   "folder": null,
   "sorting": "a",
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021087,

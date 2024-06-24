@@ -5,7 +5,7 @@
   "description": "A pitiless planet of searing heat, blowing sand, and sunbaked rock.",
   "sort": 308,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Desert"
     }
   },

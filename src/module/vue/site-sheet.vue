@@ -140,7 +140,7 @@ provide('toolset', 'ironsworn')
 const $actor = inject($ActorKey) as IronswornActor<'site'>
 
 const editMode = computed(() => {
-	return props.data.actor.flags['foundry-ironsworn']?.['edit-mode']
+	return props.data.actor.flags['foundry-supersworn']?.['edit-mode']
 })
 
 const theme = computed(() => {
@@ -176,7 +176,7 @@ async function randomDenizen() {
 	)
 	const denizen = $actor.system.denizenTable.results.contents[idx]
 	if (!denizen?.text) {
-		await $actor?.setFlag('foundry-ironsworn', 'edit-mode', true)
+		await $actor?.setFlag('foundry-supersworn', 'edit-mode', true)
 		await nextTick()
 		denizenRefs.value[idx]?.focus?.()
 	}

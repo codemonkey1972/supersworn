@@ -12,7 +12,7 @@ export interface DelveSiteFeatureOrDanger<
 		| 'delve-site-feature'
 > extends TableResultDataConstructorData {
 	flags: {
-		'foundry-ironsworn': {
+		'foundry-supersworn': {
 			type: T
 			sourceId: string
 		}

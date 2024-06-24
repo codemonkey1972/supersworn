@@ -1,13 +1,13 @@
 {
   "_id": "800b70d26ca31f93",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Turning_Point/Mystic_Backlash",
       "category": "Ironsworn/Oracles/Turning_Point"
     }
   },
   "name": "Mystic Backlash",
-  "description": "<p>Those who deal in magic may find themselves at the mercy of chaos. This oracle can supplement, or replace, the @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price} table when resolving the outcome of a failed ritual or other negative interaction with mystical forces. Use this oracle in dramatic moments, or to introduce an unexpected outcome triggered by a match.</p>",
+  "description": "<p>Those who deal in magic may find themselves at the mercy of chaos. This oracle can supplement, or replace, the @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price} table when resolving the outcome of a failed ritual or other negative interaction with mystical forces. Use this oracle in dramatic moments, or to introduce an unexpected outcome triggered by a match.</p>",
   "formula": "d100",
   "replacement": true,
   "displayRoll": true,
@@ -371,7 +371,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

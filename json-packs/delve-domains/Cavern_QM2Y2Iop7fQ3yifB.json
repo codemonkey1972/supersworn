@@ -14,7 +14,7 @@
         ],
         "text": "Twisting passages",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Cramped caves",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Vast chamber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Subterranean waterway",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Cave pool",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Natural bridge",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Towering stone formations",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Natural illumination",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Dark pit",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Denizen lairs here",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Cave-in",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Flooding",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Perilous climb or descent",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Fissure or sinkhole",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "QM2Y2Iop7fQ3yifB"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

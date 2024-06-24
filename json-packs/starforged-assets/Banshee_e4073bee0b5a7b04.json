@@ -16,7 +16,7 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>Your banshee companion accompanies you on planetside missions, using its echolocation to help guide the way. When you ride your banshee as you @Compendium[foundry-ironsworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} or @Compendium[foundry-ironsworn.starforgedmoves.ed490d43a2533506]{Set a Course}, you may roll +its health.</p>",
+        "description": "<p>Your banshee companion accompanies you on planetside missions, using its echolocation to help guide the way. When you ride your banshee as you @Compendium[foundry-supersworn.starforgedmoves.3ff03b51f620ab26]{Undertake an Expedition} or @Compendium[foundry-supersworn.starforgedmoves.ed490d43a2533506]{Set a Course}, you may roll +its health.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -62,7 +62,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

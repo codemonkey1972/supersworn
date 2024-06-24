@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Combat",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you are in a bad spot and fight back against a foe at close quarters**, roll +iron; **when you exchange fire at a distance**, roll +edge.\n\nOn a **strong hit**, mark progress twice. You overwhelm your foe and are in control.\n\nOn a **weak hit**, mark progress, but you are dealt a counterblow or setback. You stay in a bad spot and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.\n\nOn a **miss**, your foe dominates this exchange. You stay in a bad spot and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you are in a bad spot and fight back against a foe at close quarters**, roll +iron; **when you exchange fire at a distance**, roll +edge.\n\nOn a **strong hit**, mark progress twice. You overwhelm your foe and are in control.\n\nOn a **weak hit**, mark progress, but you are dealt a counterblow or setback. You stay in a bad spot and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.\n\nOn a **miss**, your foe dominates this exchange. You stay in a bad spot and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you are in a bad spot and fight back against a foe at close quarters, or when you exchange fire at a distance...",
       "Options": [
@@ -44,13 +44,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "Mark progress, but you are dealt a counterblow or setback. You stay in a bad spot and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "Mark progress, but you are dealt a counterblow or setback. You stay in a bad spot and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "Your foe dominates this exchange. You stay in a bad spot and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "Your foe dominates this exchange. You stay in a bad spot and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -86,7 +86,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

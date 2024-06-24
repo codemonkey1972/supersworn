@@ -1,7 +1,7 @@
 {
   "_id": "b2c82d8c2518efd9",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Moves/Ask_the_Oracle/Fifty-fifty",
       "category": "Ironsworn/Oracles/Moves"
     }
@@ -49,7 +49,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

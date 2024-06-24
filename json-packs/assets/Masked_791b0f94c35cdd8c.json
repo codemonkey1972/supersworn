@@ -25,7 +25,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.92b85c33a17ab487]{Face Death} or @Compendium[foundry-ironsworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation} while wearing the mask, you may roll +its stat (instead of +heart).</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.92b85c33a17ab487]{Face Death} or @Compendium[foundry-supersworn.ironswornmoves.1f978f9faa43d5c6]{Face Desolation} while wearing the mask, you may roll +its stat (instead of +heart).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -69,7 +69,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

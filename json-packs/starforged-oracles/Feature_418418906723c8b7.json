@@ -1,7 +1,7 @@
 {
   "_id": "418418906723c8b7",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Location_Themes/Mechanical/Feature",
       "category": "Starforged/Oracles/Location_Themes/Mechanical"
     }
@@ -203,7 +203,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

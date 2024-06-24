@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Scene_Challenge",
     "Progress Move": true,
     "Variant of": "",
-    "Text": "**When the scene challenge tension clock or progress track is filled, or when events lead to the scene’s conclusion**, roll the challenge dice and compare to your progress.\n\nOn a **strong hit**, you achieve your objective unconditionally.\n\nOn a **weak hit**, you succeed, but not without cost. You must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. Make this a minor cost relative to the scope of the scene.\n\nOn a **miss**, you fail or are undermined by a dire and costly turn of events. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When the scene challenge tension clock or progress track is filled, or when events lead to the scene’s conclusion**, roll the challenge dice and compare to your progress.\n\nOn a **strong hit**, you achieve your objective unconditionally.\n\nOn a **weak hit**, you succeed, but not without cost. You must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. Make this a minor cost relative to the scope of the scene.\n\nOn a **miss**, you fail or are undermined by a dire and costly turn of events. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When the scene challenge tension clock or progress track is filled, or when events lead to the scene’s conclusion...",
       "Options": [
@@ -36,13 +36,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "You succeed, but not without cost. You must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. Make this a minor cost relative to the scope of the scene.",
+        "Text": "You succeed, but not without cost. You must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. Make this a minor cost relative to the scope of the scene.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "You fail, or are undermined by a dramatic and costly turn of events. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. Make it hurt.",
+        "Text": "You fail, or are undermined by a dramatic and costly turn of events. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. Make it hurt.",
         "Reroll": {
           "Text": ""
         },
@@ -78,7 +78,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

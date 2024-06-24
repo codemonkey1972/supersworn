@@ -22,7 +22,7 @@ export class CreateActorDialog extends FormApplication<CreateActorDialogOptions>
 			title: game.i18n.format('DOCUMENT.Create', {
 				type: game.i18n.localize('DOCUMENT.Actor')
 			}),
-			template: 'systems/foundry-ironsworn/templates/actor/create.hbs',
+			template: 'systems/foundry-supersworn/templates/actor/create.hbs',
 			id: 'new-actor-dialog',
 			resizable: false,
 			classes: ['ironsworn', 'sheet', 'new-actor'],

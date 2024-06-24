@@ -51,7 +51,7 @@ export class IronswornJournalPage<
 			range: [system.Floor ?? 0, system.Ceiling ?? 100],
 			text: system.Result,
 			flags: {
-				'foundry-ironsworn': {
+				'foundry-supersworn': {
 					sourceId: this.uuid,
 					type: 'truth-option'
 				}
@@ -74,7 +74,7 @@ export class IronswornJournalPage<
 				)
 			),
 			flags: {
-				'foundry-ironsworn': {
+				'foundry-supersworn': {
 					subtitle: game.i18n.localize('IRONSWORN.First Start.SettingTruths'),
 					sourceId: this.uuid,
 					type: 'truth-option-subtable'

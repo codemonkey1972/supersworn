@@ -18,14 +18,14 @@
       },
       {
         "enabled": false,
-        "description": "<p>As above, and you may roll +shadow (instead of +heart) when you @Compendium[foundry-ironsworn.ironswornmoves.25421995c803340e]{Sojourn} under your false identity. If you do, take +1 momentum on a hit.</p>",
+        "description": "<p>As above, and you may roll +shadow (instead of +heart) when you @Compendium[foundry-supersworn.ironswornmoves.25421995c803340e]{Sojourn} under your false identity. If you do, take +1 momentum on a hit.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by revealing your true identity in a dramatic moment, reroll any dice.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} by revealing your true identity in a dramatic moment, reroll any dice.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

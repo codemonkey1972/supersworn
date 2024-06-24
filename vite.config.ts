@@ -59,11 +59,11 @@ const config: UserConfig = {
 		'process.env': {}
 	},
 	publicDir: 'system',
-	base: '/systems/foundry-ironsworn/',
+	base: '/systems/foundry-supersworn/',
 	server: {
 		port: 8080,
 		proxy: {
-			'^(?!/systems/foundry-ironsworn)': `http://localhost:${PORT}/`,
+			'^(?!/systems/foundry-supersworn)': `http://localhost:${PORT}/`,
 			'/socket.io': {
 				target: `ws://localhost:${PORT}`,
 				ws: true

@@ -1,7 +1,7 @@
 {
   "_id": "3e5b84fccec6c789",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Creatures/Basic_Form/Liquid",
       "category": "Starforged/Oracles/Creatures"
     }
@@ -273,7 +273,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

@@ -1,7 +1,7 @@
 {
-	"name": "foundry-ironsworn",
+	"name": "foundry-supersworn",
 	"version": "1.0.0",
-	"description": "CSS compiler for the Ironsworn system",
+	"description": "CSS compiler for the Supersworn hack of the Starforged system",
 	"type": "module",
 	"scripts": {
 		"build": "vite build",

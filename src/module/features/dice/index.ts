@@ -11,16 +11,16 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 			system: 'ironsworn',
 			type: 'ds',
 			labels: [
-				'systems/foundry-ironsworn/assets/dice/dcursed-cursed.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp',
-				'systems/foundry-ironsworn/assets/dice/dcursed-blank.webp'
+				'systems/foundry-supersworn/assets/dice/dcursed-cursed.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp',
+				'systems/foundry-supersworn/assets/dice/dcursed-blank.webp'
 			]
 		},
 		'd10'
@@ -28,7 +28,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 })
 
 export function cinderAndWraithifyRoll(roll: Roll) {
-	if (!game.settings.get('foundry-ironsworn', 'dsn-cinder-wraith')) {
+	if (!game.settings.get('foundry-supersworn', 'dsn-cinder-wraith')) {
 		return
 	}
 

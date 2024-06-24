@@ -113,7 +113,7 @@ declare global {
 
 	interface FlagConfig {
 		Item: {
-			'foundry-ironsworn'?: {
+			'foundry-supersworn'?: {
 				expanded?: boolean
 				muteBroadcast?: boolean
 				'edit-mode'?: boolean

@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Relationship",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you attempt to persuade someone to do something**, envision your approach and roll. If you...\n\n  * Charm, pacify, barter, or convince: Roll +heart (add +1 if you share a bond).\n  * Threaten or incite: Roll +iron.\n  * Lie or swindle: Roll +shadow.\n\nOn a **strong hit**, they’ll do what you want or share what they know. Take +1 momentum. If you use this exchange to @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, make that move now and add +1.\n\nOn a **weak hit**, as above, but they ask something of you in return. Envision what they want (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure).\n\nOn a **miss**, they refuse or make a demand which costs you greatly. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+    "Text": "When **you attempt to persuade someone to do something**, envision your approach and roll. If you...\n\n  * Charm, pacify, barter, or convince: Roll +heart (add +1 if you share a bond).\n  * Threaten or incite: Roll +iron.\n  * Lie or swindle: Roll +shadow.\n\nOn a **strong hit**, they’ll do what you want or share what they know. Take +1 momentum. If you use this exchange to @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, make that move now and add +1.\n\nOn a **weak hit**, as above, but they ask something of you in return. Envision what they want (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure).\n\nOn a **miss**, they refuse or make a demand which costs you greatly. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
     "Trigger": {
       "Text": "When you attempt to persuade someone to do something...",
       "Options": [
@@ -40,7 +40,7 @@
     },
     "Outcomes": {
       "Strong Hit": {
-        "Text": "They’ll do what you want or share what they know. Take +1 momentum. If you use this exchange to @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, make that move now and add +1.",
+        "Text": "They’ll do what you want or share what they know. Take +1 momentum. If you use this exchange to @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, make that move now and add +1.",
         "Reroll": {
           "Text": ""
         },
@@ -52,13 +52,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "They’ll do what you want or share what they know... but they ask something of you in return. Envision what they want (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure).\n\nTake +1 momentum. If you use this exchange to @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, make that move now and add +1.",
+        "Text": "They’ll do what you want or share what they know... but they ask something of you in return. Envision what they want (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure).\n\nTake +1 momentum. If you use this exchange to @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, make that move now and add +1.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "They refuse or make a demand which costs you greatly. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
+        "Text": "They refuse or make a demand which costs you greatly. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -92,7 +92,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

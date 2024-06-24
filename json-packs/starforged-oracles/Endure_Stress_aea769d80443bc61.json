@@ -1,7 +1,7 @@
 {
   "_id": "aea769d80443bc61",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Moves/Endure_Stress",
       "category": "Starforged/Oracles/Moves"
     }
@@ -17,7 +17,7 @@
         1,
         10
       ],
-      "text": "You are overwhelmed. @Compendium[foundry-ironsworn.starforgedmoves.ff17e67a59539df4]{Face Desolation}.",
+      "text": "You are overwhelmed. @Compendium[foundry-supersworn.starforgedmoves.ff17e67a59539df4]{Face Desolation}.",
       "_id": "8d386be8e8f12781",
       "type": 0,
       "documentId": null,
@@ -31,7 +31,7 @@
         11,
         25
       ],
-      "text": "You give up. @Compendium[foundry-ironsworn.starforgedmoves.449c1e260c941a40]{Forsake Your Vow}.",
+      "text": "You give up. @Compendium[foundry-supersworn.starforgedmoves.449c1e260c941a40]{Forsake Your Vow}.",
       "_id": "2c9a7251579358f0",
       "type": 0,
       "documentId": null,
@@ -77,7 +77,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

@@ -14,7 +14,7 @@
         ],
         "text": "Watery tunnels",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Eroded chamber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Flooded chamber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Vast chamber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Dry passages",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Freshwater inlet",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Rocky island",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Waterborne debris",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Shipwreck or boat",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Denizen strikes without warning",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Denizen lurks below",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Flooding",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Rushing current",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Claustrophobic squeeze",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "jdJOGqg4DyEeCFg4"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

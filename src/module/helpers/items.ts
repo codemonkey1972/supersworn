@@ -5,7 +5,7 @@ import type { LegacyTableRow } from '../roll-table/roll-table-types'
  *
  * @param document The parent document.
  * @param key The dot-notation key to convert to TableResults
- * @param type A value for the `foundry-ironsworn.type` flag, used to differentiate the table row for later migration.
+ * @param type A value for the `foundry-supersworn.type` flag, used to differentiate the table row for later migration.
  * @returns
  */
 export function normalizeTableRows(
@@ -21,7 +21,7 @@ export function normalizeTableRows(
 		)
 	}
 	const flags = {
-		'foundry-ironsworn': {
+		'foundry-supersworn': {
 			type,
 			sourceId: document.uuid
 		}

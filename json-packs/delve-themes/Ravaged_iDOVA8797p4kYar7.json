@@ -14,7 +14,7 @@
         ],
         "text": "Path of destruction",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Abandoned or ruined dwelling",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Untouched or preserved area",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Traces of what was lost",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Ill-fated victims",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -81,7 +81,7 @@
         ],
         "text": "Precarious architecture or terrain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -94,7 +94,7 @@
         ],
         "text": "Imminent collapse or destruction",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -107,7 +107,7 @@
         ],
         "text": "Path undermined",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -120,7 +120,7 @@
         ],
         "text": "Blocked or broken path",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -133,7 +133,7 @@
         ],
         "text": "Vestiges of a destructive force",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -146,7 +146,7 @@
         ],
         "text": "Unexpected environmental threat",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -159,7 +159,7 @@
         ],
         "text": "Echoes of a troubling past",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Signs of a horrible fate",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Denizen seeks retribution",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Denizen leverages the environment",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Denizen restores what was lost",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Ravages return anew",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "iDOVA8797p4kYar7"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027047964,

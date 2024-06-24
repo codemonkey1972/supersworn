@@ -11,21 +11,21 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>You are haunted by someone whose death you caused through your actions or failures. When you consult with their spirit to @Compendium[foundry-ironsworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} or @Compendium[foundry-ironsworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, add +1 and take +2 momentum on a hit. On a weak hit, also @Compendium[foundry-ironsworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress} (1 stress).</p>",
+        "description": "<p>You are haunted by someone whose death you caused through your actions or failures. When you consult with their spirit to @Compendium[foundry-supersworn.ironswornmoves.4dd8468e095810a4]{Secure an Advantage} or @Compendium[foundry-supersworn.ironswornmoves.4244b77103f55bc4]{Gather Information}, add +1 and take +2 momentum on a hit. On a weak hit, also @Compendium[foundry-supersworn.ironswornmoves.e09e2fc8bb709320]{Endure Stress} (1 stress).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.ironswornmoves.92b85c33a17ab487]{Face Death} guided by the spirit, add +1. On a strong hit, envision what you learn and take 1 experience.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.ironswornmoves.92b85c33a17ab487]{Face Death} guided by the spirit, add +1. On a strong hit, envision what you learn and take 1 experience.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>One time only, when you successfully @Compendium[foundry-ironsworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} (formidable or greater) in service to the spirit, choose one.</p>\n<ul>\n<li>Let them go: Take 2 experience for each marked ability and discard this asset.</li>\n<li>Deepen your connection: Add +1 more when you leverage this asset.</li>\n</ul>",
+        "description": "<p>One time only, when you successfully @Compendium[foundry-supersworn.ironswornmoves.725a21e2f02d7e12]{Fulfill Your Vow} (formidable or greater) in service to the spirit, choose one.</p>\n<ul>\n<li>Let them go: Take 2 experience for each marked ability and discard this asset.</li>\n<li>Deepen your connection: Add +1 more when you leverage this asset.</li>\n</ul>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021198,

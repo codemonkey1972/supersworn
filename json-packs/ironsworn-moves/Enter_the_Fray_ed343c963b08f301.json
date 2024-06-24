@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Combat",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "When **you enter into combat**, set the rank of each of your foes.\n\n  * Troublesome foe: 3 progress per harm; inflicts 1 harm.\n  * Dangerous foe: 2 progress per harm; inflicts 2 harm.\n  * Formidable foe: 1 progress per harm; inflicts 3 harm.\n  * Extreme foe: 2 ticks per harm; inflicts 4 harm.\n  * Epic foe: 1 tick per harm; inflicts 5 harm.\n\nThen, roll to determine who is in control. If you are...\n\n  * Facing off against your foe: Roll +heart.\n  * Moving into position against an unaware foe, or striking without warning: Roll +shadow.\n  * Ambushed: Roll +wits.\n\nOn a **strong hit**, take +2 momentum. You have initiative.\n\nOn a **weak hit**, choose one.\n\n  * Bolster your position: Take +2 momentum.\n  * Prepare to act: Take initiative.\n\nOn a **miss**, combat begins with you at a disadvantage. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}. Your foe has initiative.",
+    "Text": "When **you enter into combat**, set the rank of each of your foes.\n\n  * Troublesome foe: 3 progress per harm; inflicts 1 harm.\n  * Dangerous foe: 2 progress per harm; inflicts 2 harm.\n  * Formidable foe: 1 progress per harm; inflicts 3 harm.\n  * Extreme foe: 2 ticks per harm; inflicts 4 harm.\n  * Epic foe: 1 tick per harm; inflicts 5 harm.\n\nThen, roll to determine who is in control. If you are...\n\n  * Facing off against your foe: Roll +heart.\n  * Moving into position against an unaware foe, or striking without warning: Roll +shadow.\n  * Ambushed: Roll +wits.\n\nOn a **strong hit**, take +2 momentum. You have initiative.\n\nOn a **weak hit**, choose one.\n\n  * Bolster your position: Take +2 momentum.\n  * Prepare to act: Take initiative.\n\nOn a **miss**, combat begins with you at a disadvantage. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}. Your foe has initiative.",
     "Trigger": {
       "Text": "When you enter into combat...",
       "Options": [
@@ -58,7 +58,7 @@
         }
       },
       "Miss": {
-        "Text": "Combat begins with you at a disadvantage. @Compendium[foundry-ironsworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}. Your foe has initiative.",
+        "Text": "Combat begins with you at a disadvantage. @Compendium[foundry-supersworn.ironswornmoves.c10d64f58dd8c5bf]{Pay the Price}. Your foe has initiative.",
         "Reroll": {
           "Text": ""
         },
@@ -92,7 +92,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

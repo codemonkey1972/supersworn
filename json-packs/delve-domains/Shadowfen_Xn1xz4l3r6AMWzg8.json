@@ -14,7 +14,7 @@
         ],
         "text": "Narrow path through a fetid bog",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Stagnant waterway",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Flooded thicket",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Island of dry land",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Submerged discovery",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Preserved corpses",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Overgrown structure",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Tall reeds",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Camp or outpost",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Denizen hunts",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Deep water blocks the path",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Toxic environment",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Concealing or disorienting mist",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Hidden quagmire",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "Xn1xz4l3r6AMWzg8"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

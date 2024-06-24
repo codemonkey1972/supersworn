@@ -10,7 +10,7 @@ export class WorldTruthsDialog extends FormApplication<FormApplicationOptions> {
 	static get defaultOptions() {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			title: game.i18n.localize('IRONSWORN.YourWorldTruths'),
-			template: 'systems/foundry-ironsworn/templates/truths.hbs',
+			template: 'systems/foundry-supersworn/templates/truths.hbs',
 			id: 'world-truths-dialog',
 			resizable: true,
 			classes: ['ironsworn', 'sheet', 'world-truths'],
@@ -25,7 +25,7 @@ export class WorldTruthsDialog extends FormApplication<FormApplicationOptions> {
 
 	async getData() {
 		const truths = await fetch(
-			'systems/foundry-ironsworn/assets/world-truths.json'
+			'systems/foundry-supersworn/assets/world-truths.json'
 		).then(async (x) => await x.json())
 
 		// Run truths text through I18n

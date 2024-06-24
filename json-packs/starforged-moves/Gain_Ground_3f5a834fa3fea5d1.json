@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Combat",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you are in control and take action in a fight to reinforce your position or move toward an objective**, envision your approach and roll. If you are...\n\n  * In pursuit, fleeing, or maneuvering: Roll +edge\n  * Charging boldly into action, coming to the aid of others, negotiating, or commanding: Roll +heart\n  * Gaining leverage with force, powering through, or making a threat: Roll +iron\n  * Hiding, preparing an ambush, or misdirecting: Roll +shadow\n  * Coordinating a plan, studying a situation, or cleverly gaining leverage: Roll +wits\n\nOn a **hit**, you stay in control. On a **strong hit**, choose two. On a **weak hit**, choose one.\n\n  * Mark progress\n  * Take +2 momentum\n  * Add +1 on your next move (not a progress move)\n\nOn a **miss**, your foe gains the upper hand, the fight moves to a new location, or you encounter a new peril. You are in a bad spot and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you are in control and take action in a fight to reinforce your position or move toward an objective**, envision your approach and roll. If you are...\n\n  * In pursuit, fleeing, or maneuvering: Roll +edge\n  * Charging boldly into action, coming to the aid of others, negotiating, or commanding: Roll +heart\n  * Gaining leverage with force, powering through, or making a threat: Roll +iron\n  * Hiding, preparing an ambush, or misdirecting: Roll +shadow\n  * Coordinating a plan, studying a situation, or cleverly gaining leverage: Roll +wits\n\nOn a **hit**, you stay in control. On a **strong hit**, choose two. On a **weak hit**, choose one.\n\n  * Mark progress\n  * Take +2 momentum\n  * Add +1 on your next move (not a progress move)\n\nOn a **miss**, your foe gains the upper hand, the fight moves to a new location, or you encounter a new peril. You are in a bad spot and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you are in control and take action in a fight to reinforce your position or move toward an objective...",
       "Options": [
@@ -74,7 +74,7 @@
         }
       },
       "Miss": {
-        "Text": "Your foe gains the upper hand, the fight moves to a new location, or you encounter a new peril. You are in a bad spot and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "Your foe gains the upper hand, the fight moves to a new location, or you encounter a new peril. You are in a bad spot and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -110,7 +110,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

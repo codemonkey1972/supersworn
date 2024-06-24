@@ -11,14 +11,14 @@
     "abilities": [
       {
         "enabled": true,
-        "description": "<p>You are most suited to life in the limitless void. When you are in space (or a spacebound vehicle or station), increase your momentum reset by 1. When you enter a planetside or high gravity environment, @Compendium[foundry-ironsworn.starforgedmoves.93d2d69b7e2b85e1]{Lose Momentum} (-1).</p>",
+        "description": "<p>You are most suited to life in the limitless void. When you are in space (or a spacebound vehicle or station), increase your momentum reset by 1. When you enter a planetside or high gravity environment, @Compendium[foundry-supersworn.starforgedmoves.93d2d69b7e2b85e1]{Lose Momentum} (-1).</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
       },
       {
         "enabled": false,
-        "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.3de42d2d3cb78855]{Sojourn} or @Compendium[foundry-ironsworn.starforgedmoves.05909d6310d209a6]{Make a Connection} within a spacebound community, add +1. If you @Compendium[foundry-ironsworn.starforgedmoves.c2c2f31f564caa06]{Hearten} there and score a strong hit, take +1 spirit or +1 momentum.</p>",
+        "description": "<p>When you @Compendium[foundry-supersworn.starforgedmoves.3de42d2d3cb78855]{Sojourn} or @Compendium[foundry-supersworn.starforgedmoves.05909d6310d209a6]{Make a Connection} within a spacebound community, add +1. If you @Compendium[foundry-supersworn.starforgedmoves.c2c2f31f564caa06]{Hearten} there and score a strong hit, take +1 spirit or +1 momentum.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

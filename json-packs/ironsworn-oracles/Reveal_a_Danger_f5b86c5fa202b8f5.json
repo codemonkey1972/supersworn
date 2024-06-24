@@ -1,7 +1,7 @@
 {
   "_id": "f5b86c5fa202b8f5",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Moves/Reveal_a_Danger",
       "category": "Ironsworn/Oracles/Moves"
     }
@@ -189,7 +189,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

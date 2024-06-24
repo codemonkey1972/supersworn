@@ -14,7 +14,7 @@
         ],
         "text": "Cramped tunnels",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Mine works",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Excavated chamber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Mineshaft",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Collapsed tunnel",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Cluttered storage",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Housing or common areas",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Flooded chamber",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Unearthed secret",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Cave-in",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Flooding",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Unstable platforms or architecture",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Hazardous gas pocket",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Weakened terrain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "HjxXUr5xrV1mobAO"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

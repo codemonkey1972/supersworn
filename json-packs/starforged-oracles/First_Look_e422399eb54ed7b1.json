@@ -1,7 +1,7 @@
 {
   "_id": "e422399eb54ed7b1",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Characters/First_Look",
       "category": "Starforged/Oracles/Characters"
     }
@@ -567,7 +567,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

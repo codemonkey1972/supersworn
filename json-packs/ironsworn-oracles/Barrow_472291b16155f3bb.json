@@ -1,7 +1,7 @@
 {
   "_id": "472291b16155f3bb",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Site_Name/Place/Barrow",
       "category": "Ironsworn/Oracles/Site_Name"
     }
@@ -105,7 +105,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021364,

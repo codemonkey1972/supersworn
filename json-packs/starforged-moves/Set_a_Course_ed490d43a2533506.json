@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Exploration",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you follow a known route through perilous space, across hazardous terrain, or within a mysterious site**, roll +supply.\n\nOn a **strong hit**, you reach your destination and the situation there favors you. Take +1 momentum.\n\nOn a **weak hit**, you arrive, but face a cost or complication. Choose one.\n\n  * Suffer costs en route: Make a suffer move (-2), or two suffer moves (-1).\n  * Face a complication at the destination: Envision what you encounter.\n\nOn a **miss**, you are waylaid by a significant threat, and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. If you overcome this obstacle, you may push on safely to your destination.",
+    "Text": "**When you follow a known route through perilous space, across hazardous terrain, or within a mysterious site**, roll +supply.\n\nOn a **strong hit**, you reach your destination and the situation there favors you. Take +1 momentum.\n\nOn a **weak hit**, you arrive, but face a cost or complication. Choose one.\n\n  * Suffer costs en route: Make a suffer move (-2), or two suffer moves (-1).\n  * Face a complication at the destination: Envision what you encounter.\n\nOn a **miss**, you are waylaid by a significant threat, and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. If you overcome this obstacle, you may push on safely to your destination.",
     "Trigger": {
       "Text": "When you follow a known route through perilous space, across hazardous terrain, or within a mysterious site...",
       "Options": [
@@ -42,7 +42,7 @@
         }
       },
       "Miss": {
-        "Text": "You are waylaid by a significant threat, and must @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. If you overcome this obstacle, you may push on safely to your destination.",
+        "Text": "You are waylaid by a significant threat, and must @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}. If you overcome this obstacle, you may push on safely to your destination.",
         "Reroll": {
           "Text": ""
         },
@@ -78,7 +78,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

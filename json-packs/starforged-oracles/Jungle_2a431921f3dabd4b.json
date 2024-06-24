@@ -5,7 +5,7 @@
   "description": "A humid, rain-soaked planet that keeps its secrets under a thick canopy of vegetation.",
   "sort": 313,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Jungle"
     }
   },

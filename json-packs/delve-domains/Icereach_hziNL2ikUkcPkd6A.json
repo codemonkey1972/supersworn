@@ -14,7 +14,7 @@
         ],
         "text": "Plains of ice and snow",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -27,7 +27,7 @@
         ],
         "text": "Seawater channel",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -40,7 +40,7 @@
         ],
         "text": "Icy highlands",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -53,7 +53,7 @@
         ],
         "text": "Crevasse",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -66,7 +66,7 @@
         ],
         "text": "Ice floes",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -79,7 +79,7 @@
         ],
         "text": "Ship trapped in ice",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -92,7 +92,7 @@
         ],
         "text": "Animal herd or habitat",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -105,7 +105,7 @@
         ],
         "text": "Frozen carcass",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -118,7 +118,7 @@
         ],
         "text": "Camp or outpost",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -131,7 +131,7 @@
         ],
         "text": "Something unusual or unexpected",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -144,7 +144,7 @@
         ],
         "text": "You transition into a new theme",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -157,7 +157,7 @@
         ],
         "text": "You transition into a new domain",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-feature",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -172,7 +172,7 @@
         ],
         "text": "Denizen hunts",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -185,7 +185,7 @@
         ],
         "text": "Fragile ice above watery depths",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -198,7 +198,7 @@
         ],
         "text": "Perilous climb or descent",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -211,7 +211,7 @@
         ],
         "text": "Avalanche or icefall",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -224,7 +224,7 @@
         ],
         "text": "Foul weather",
         "flags": {
-          "foundry-ironsworn": {
+          "foundry-supersworn": {
             "type": "delve-site-danger",
             "sourceId": "hziNL2ikUkcPkd6A"
           }
@@ -241,7 +241,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.20.13",
     "coreVersion": "10.291",
     "createdTime": 1674027048032,

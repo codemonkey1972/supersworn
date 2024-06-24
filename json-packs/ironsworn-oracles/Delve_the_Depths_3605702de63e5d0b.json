@@ -4,7 +4,7 @@
   "type": "RollTable",
   "sort": 1021,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Moves/Delve_the_Depths"
     }
   },

@@ -31,7 +31,7 @@ async function doit() {
 
 	// Write out system file
 	systemJson.version = nextVersion
-	systemJson.download = `https://github.com/ben/foundry-ironsworn/releases/download/${nextVersion}/ironsworn.zip`
+	systemJson.download = `https://github.com/ben/foundry-supersworn/releases/download/${nextVersion}/ironsworn.zip`
 	await writeFile(
 		'./system/system.json',
 		JSON.stringify(systemJson, null, 2) + '\n'

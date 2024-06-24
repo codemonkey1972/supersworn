@@ -12,7 +12,7 @@ declare global {
 				/** @remarks We don't use this; FVTT sets it so it's here to maintain parity */
 				RollTable?: RollTable['id']
 			}
-			'foundry-ironsworn'?: {
+			'foundry-supersworn'?: {
 				/** The dice totals of rerolls that have been executed on an oracle roll message. The last value is the most recent. */
 				rerolls?: number[]
 				rollTableType?: ComputedTableType

@@ -25,7 +25,7 @@ export class OracleTable extends RollTable {
 
 	/** The custom template used for rendering oracle results */
 	static resultTemplate =
-		'systems/foundry-ironsworn/templates/rolls/oracle-roll-message.hbs'
+		'systems/foundry-supersworn/templates/rolls/oracle-roll-message.hbs'
 
 	static getDFOracleByDfId(
 		dfid: string
@@ -76,10 +76,10 @@ export class OracleTable extends RollTable {
 		dfid: string
 	): Promise<StoredDocument<OracleTable> | undefined> {
 		const isd = await cachedDocumentsForPack(
-			'foundry-ironsworn.ironswornoracles'
+			'foundry-supersworn.ironswornoracles'
 		)
 		const sfd = await cachedDocumentsForPack(
-			'foundry-ironsworn.starforgedoracles'
+			'foundry-supersworn.starforgedoracles'
 		)
 		const matcher = (x: { id: string }) => x.id === hashLookup(dfid)
 		return (isd?.find(matcher) ?? sfd?.find(matcher)) as
@@ -116,8 +116,8 @@ export class OracleTable extends RollTable {
 				default:
 					{
 						// fall back to oracle packs
-						const sfPack = game.packs.get('foundry-ironsworn.starforgedoracles')
-						const isPack = game.packs.get('foundry-ironsworn.ironswornoracles')
+						const sfPack = game.packs.get('foundry-supersworn.starforgedoracles')
+						const isPack = game.packs.get('foundry-supersworn.ironswornoracles')
 						tbl = ((await sfPack?.getDocument(id)) ??
 							(await isPack?.getDocument(id))) as OracleTable | undefined
 					}
@@ -164,7 +164,7 @@ export class OracleTable extends RollTable {
 		const data: RollTableDataConstructorData = {
 			_id: hashLookup(oracle.$id),
 			flags: {
-				'foundry-ironsworn': { dfid: oracle.$id, category: oracle.Category }
+				'foundry-supersworn': { dfid: oracle.$id, category: oracle.Category }
 			},
 			name: oracle.Name,
 			description,
@@ -256,16 +256,16 @@ export class OracleTable extends RollTable {
 			roll: roll?.toJSON(),
 			table: this,
 			subtitle:
-				this.getFlag('foundry-ironsworn', 'subtitle') ??
+				this.getFlag('foundry-supersworn', 'subtitle') ??
 				(await this.getDfPath()),
-			rollTableType: this.getFlag('foundry-ironsworn', 'type'),
-			sourceId: this.getFlag('foundry-ironsworn', 'sourceId')
+			rollTableType: this.getFlag('foundry-supersworn', 'type'),
+			sourceId: this.getFlag('foundry-supersworn', 'sourceId')
 		}
 	}
 
 	/** Retrieve the originating document of a computed OracleTable.  */
 	async getSourceDocument() {
-		const uuid = this.getFlag('foundry-ironsworn', 'sourceId')
+		const uuid = this.getFlag('foundry-supersworn', 'sourceId')
 		if (uuid == null) return undefined
 		return (await fromUuid(uuid)) as IronswornActor
 	}
@@ -279,7 +279,7 @@ export class OracleTable extends RollTable {
 		}: DeepPartial<RollTable.ToMessageOptions> = {}
 	) {
 		const cls = getDocumentClass('ChatMessage')
-		const rollTableType = this.getFlag('foundry-ironsworn', 'type')
+		const rollTableType = this.getFlag('foundry-supersworn', 'type')
 
 		const speakerOptions: ChatMessage.GetSpeakerOptions = {}
 
@@ -299,7 +299,7 @@ export class OracleTable extends RollTable {
 		// options for this aren't exposed prior to running the method, so we have to rebuild them from scratch
 		// these are loosely based on FVTT v10 RollTable#toMessage
 
-		// TODO This is a fallback to handle tables that can produce multiple results from a single roll, which foundry-ironsworn doesn't presently use. There might be some utility to them doing so, however...
+		// TODO This is a fallback to handle tables that can produce multiple results from a single roll, which foundry-supersworn doesn't presently use. There might be some utility to them doing so, however...
 		if (
 			results.length > 1 ||
 			results.some((result) => !(result instanceof OracleTableResult))
@@ -313,9 +313,9 @@ export class OracleTable extends RollTable {
 
 		const flags: ConfiguredFlags<'ChatMessage'> = {
 			core: { RollTable: this.id },
-			'foundry-ironsworn': {
-				rollTableType: this.getFlag('foundry-ironsworn', 'type'),
-				sourceId: this.getFlag('foundry-ironsworn', 'sourceId') ?? this.uuid
+			'foundry-supersworn': {
+				rollTableType: this.getFlag('foundry-supersworn', 'type'),
+				sourceId: this.getFlag('foundry-supersworn', 'sourceId') ?? this.uuid
 			}
 		}
 
@@ -387,9 +387,9 @@ export class OracleTable extends RollTable {
 		const msg = game.messages?.get(messageId)
 		if (msg == null) return
 
-		const rerolls = msg.getFlag('foundry-ironsworn', 'rerolls') ?? []
-		const sourceId = msg.getFlag('foundry-ironsworn', 'sourceId')
-		const rollTableType = msg.getFlag('foundry-ironsworn', 'rollTableType')
+		const rerolls = msg.getFlag('foundry-supersworn', 'rerolls') ?? []
+		const sourceId = msg.getFlag('foundry-supersworn', 'sourceId')
+		const rollTableType = msg.getFlag('foundry-supersworn', 'rollTableType')
 
 		// console.log(rerolls, sourceId, rollTableType)
 
@@ -408,7 +408,7 @@ export class OracleTable extends RollTable {
 		const templateData = await oracleTable._prepareTemplateData(results, roll)
 
 		const flags = foundry.utils.mergeObject(msg.toObject().flags, {
-			'foundry-ironsworn': {
+			'foundry-supersworn': {
 				rerolls: [...rerolls, roll.total]
 			}
 		}) as ConfiguredFlags<'ChatMessage'>

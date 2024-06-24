@@ -51,7 +51,7 @@ const actor = inject(ActorKey) as Ref<SourceData<IronswornActor, 'site'>>
 const $actor = inject($ActorKey) as IronswornActor<'site'>
 
 const editMode = computed(() => {
-	return actor.value?.flags['foundry-ironsworn']?.['edit-mode']
+	return actor.value?.flags['foundry-supersworn']?.['edit-mode']
 })
 
 const denizen = computed(() => {

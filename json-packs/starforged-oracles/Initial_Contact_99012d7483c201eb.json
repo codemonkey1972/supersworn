@@ -1,7 +1,7 @@
 {
   "_id": "99012d7483c201eb",
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Starships/Initial_Contact",
       "category": "Starforged/Oracles/Starships"
     }
@@ -189,7 +189,7 @@
     "oPggPZM6rWjfN0q2": 3
   },
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021559,

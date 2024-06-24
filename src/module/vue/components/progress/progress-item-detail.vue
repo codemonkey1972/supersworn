@@ -63,20 +63,20 @@ provide($ItemKey, $item)
 
 const multipleUsers = (game.users?.contents?.length ?? 0) > 1
 const whisperIcon = computed(() =>
-	actor?.value?.flags?.['foundry-ironsworn']?.muteBroadcast
+	actor?.value?.flags?.['foundry-supersworn']?.muteBroadcast
 		? 'fa:volume-xmark'
 		: 'fa:volume'
 )
 
 const whisperTooltip = computed(() =>
-	actor?.value?.flags?.['foundry-ironsworn']?.muteBroadcast
+	actor?.value?.flags?.['foundry-supersworn']?.muteBroadcast
 		? 'IRONSWORN.ChatAlert.Muted'
 		: 'IRONSWORN.ChatAlert.Unmuted'
 )
 
 function toggleWhisper() {
-	const current = $actor?.getFlag('foundry-ironsworn', 'muteBroadcast') ?? false
-	return $actor?.setFlag('foundry-ironsworn', 'muteBroadcast', !current)
+	const current = $actor?.getFlag('foundry-supersworn', 'muteBroadcast') ?? false
+	return $actor?.setFlag('foundry-supersworn', 'muteBroadcast', !current)
 }
 
 function saveDescription() {

@@ -8,7 +8,7 @@
     "Category": "Ironsworn/Moves/Quest",
     "Progress Move": true,
     "Variant of": "",
-    "Text": "When **you achieve what you believe to be the fulfillment of your vow**, roll the challenge dice and compare to your progress. Momentum is ignored on this roll.\n\nOn a **strong hit**, your quest is complete. Mark experience (troublesome=1; dangerous=2; formidable=3; extreme=4; epic=5).\n\nOn a **weak hit**, there is more to be done or you realize the truth of your quest. Envision what you discover (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). Then, mark experience (troublesome=0; dangerous=1; formidable=2; extreme=3; epic=4). You may @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to set things right. If you do, add +1.\n\nOn a **miss**, your quest is undone. Envision what happens (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and choose one.\n\n  * You recommit: Clear all but one filled progress, and raise the quest’s rank by one (if not already epic).\n  * You give up: @Compendium[foundry-ironsworn.ironswornmoves.f968f5e0a837a83a]{Forsake Your Vow}.",
+    "Text": "When **you achieve what you believe to be the fulfillment of your vow**, roll the challenge dice and compare to your progress. Momentum is ignored on this roll.\n\nOn a **strong hit**, your quest is complete. Mark experience (troublesome=1; dangerous=2; formidable=3; extreme=4; epic=5).\n\nOn a **weak hit**, there is more to be done or you realize the truth of your quest. Envision what you discover (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). Then, mark experience (troublesome=0; dangerous=1; formidable=2; extreme=3; epic=4). You may @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to set things right. If you do, add +1.\n\nOn a **miss**, your quest is undone. Envision what happens (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and choose one.\n\n  * You recommit: Clear all but one filled progress, and raise the quest’s rank by one (if not already epic).\n  * You give up: @Compendium[foundry-supersworn.ironswornmoves.f968f5e0a837a83a]{Forsake Your Vow}.",
     "Trigger": {
       "Text": "When you achieve what you believe to be the fulfillment of your vow...",
       "Options": [
@@ -36,13 +36,13 @@
         }
       },
       "Weak Hit": {
-        "Text": "There is more to be done or you realize the truth of your quest. Envision what you discover (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). Then, mark experience (troublesome=0; dangerous=1; formidable=2; extreme=3; epic=4). You may @Compendium[foundry-ironsworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to set things right. If you do, add +1.",
+        "Text": "There is more to be done or you realize the truth of your quest. Envision what you discover (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure). Then, mark experience (troublesome=0; dangerous=1; formidable=2; extreme=3; epic=4). You may @Compendium[foundry-supersworn.ironswornmoves.010e27aa4376d4df]{Swear an Iron Vow} to set things right. If you do, add +1.",
         "Reroll": {
           "Text": ""
         }
       },
       "Miss": {
-        "Text": "Your quest is undone. Envision what happens (@Compendium[foundry-ironsworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and choose one.\n\n  * You recommit: Clear all but one filled progress, and raise the quest’s rank by one (if not already epic).\n  * You give up: @Compendium[foundry-ironsworn.ironswornmoves.f968f5e0a837a83a]{Forsake Your Vow}.",
+        "Text": "Your quest is undone. Envision what happens (@Compendium[foundry-supersworn.ironswornmoves.aba3e44b7e810c0f]{Ask the Oracle} if unsure), and choose one.\n\n  * You recommit: Clear all but one filled progress, and raise the quest’s rank by one (if not already epic).\n  * You give up: @Compendium[foundry-supersworn.ironswornmoves.f968f5e0a837a83a]{Forsake Your Vow}.",
         "Reroll": {
           "Text": ""
         },
@@ -76,7 +76,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021269,

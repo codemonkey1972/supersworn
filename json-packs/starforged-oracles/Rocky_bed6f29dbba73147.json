@@ -5,7 +5,7 @@
   "description": "A rugged planet scarred by eons of destructive asteroid impacts.",
   "sort": 315,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Starforged/Oracles/Planets/Rocky"
     }
   },

@@ -5,7 +5,7 @@
   "description": "Use this oracle to generate names for other firstborn characters.",
   "sort": 187,
   "flags": {
-    "foundry-ironsworn": {
+    "foundry-supersworn": {
       "dfid": "Ironsworn/Oracles/Name/Other"
     }
   },

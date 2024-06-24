@@ -8,7 +8,7 @@
     "Category": "Starforged/Moves/Connection",
     "Progress Move": false,
     "Variant of": "",
-    "Text": "**When you search out a new relationship or give focus to an existing relationship (not an ally or companion)**, roll +heart.\n\nOn a **strong hit**, you create a connection. Give them a role and rank. Whenever your connection aids you on a move closely associated with their role, add +1 and take +1 momentum on a hit.\n\nOn a **weak hit**, as above, but this connection comes with a complication or cost. Envision what they reveal or demand.\n\nOn a **miss**, you don't make a connection and the situation worsens. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+    "Text": "**When you search out a new relationship or give focus to an existing relationship (not an ally or companion)**, roll +heart.\n\nOn a **strong hit**, you create a connection. Give them a role and rank. Whenever your connection aids you on a move closely associated with their role, add +1 and take +1 momentum on a hit.\n\nOn a **weak hit**, as above, but this connection comes with a complication or cost. Envision what they reveal or demand.\n\nOn a **miss**, you don't make a connection and the situation worsens. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
     "Trigger": {
       "Text": "When you search out a new relationship or give focus to an existing relationship (not an ally or companion)...",
       "Options": [
@@ -42,7 +42,7 @@
         }
       },
       "Miss": {
-        "Text": "You don't make a connection and the situation worsens. @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
+        "Text": "You don't make a connection and the situation worsens. @Compendium[foundry-supersworn.starforgedmoves.78baa51694fe37c5]{Pay the Price}.",
         "Reroll": {
           "Text": ""
         },
@@ -78,7 +78,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021291,

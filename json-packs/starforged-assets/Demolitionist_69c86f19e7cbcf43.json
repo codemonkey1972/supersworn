@@ -25,7 +25,7 @@
       },
       {
         "enabled": false,
-        "description": "<p>When your momentum is at its max, you may reset momentum (before rolling) to trigger an explosive device as you @Compendium[foundry-ironsworn.starforgedmoves.3129f4caa4754caf]{Take Decisive Action}. If you do, reroll any challenge dice.</p>",
+        "description": "<p>When your momentum is at its max, you may reset momentum (before rolling) to trigger an explosive device as you @Compendium[foundry-supersworn.starforgedmoves.3129f4caa4754caf]{Take Decisive Action}. If you do, reroll any challenge dice.</p>",
         "hasClock": false,
         "clockTicks": 0,
         "clockMax": 4
@@ -52,7 +52,7 @@
   },
   "flags": {},
   "_stats": {
-    "systemId": "foundry-ironsworn",
+    "systemId": "foundry-supersworn",
     "systemVersion": "1.22.4",
     "coreVersion": "11.309",
     "createdTime": 1695949021246,

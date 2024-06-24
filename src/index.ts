@@ -91,7 +91,7 @@ Hooks.once('init', async () => {
 	CONFIG.TableResult.documentClass = OracleTableResult
 
 	// CONFIG.RollTable.resultTemplate =
-	// 	'systems/foundry-ironsworn/templates/rolls/oracle-roll-message.hbs'
+	// 	'systems/foundry-supersworn/templates/rolls/oracle-roll-message.hbs'
 
 	// Turn off Foundry defaults
 	Actors.unregisterSheet('core', ActorSheet)

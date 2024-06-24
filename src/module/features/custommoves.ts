@@ -46,14 +46,14 @@ async function createMoveTree(
 
 export async function createIronswornMoveTree(): Promise<MoveCategory[]> {
 	return await createMoveTree(
-		'foundry-ironsworn.ironswornmoves',
+		'foundry-supersworn.ironswornmoves',
 		ISMoveCategories
 	)
 }
 
 export async function createStarforgedMoveTree(): Promise<MoveCategory[]> {
 	return await createMoveTree(
-		'foundry-ironsworn.starforgedmoves',
+		'foundry-supersworn.starforgedmoves',
 		SFMoveCategories
 	)
 }
